@@ -1,8 +1,9 @@
 ---
+# yaml-language-server: $schema=./jsonschema/jargon.v0.schema.json
 terms:
   3DES:
   ACL:
-  ACLs:
+    plural: ACLs
   ActionScript:
   ActiveMQ:
   Adobe:
@@ -23,7 +24,7 @@ terms:
   APAC:
   Apache:
   API:
-  APIs:
+    plural: APIs
   AppKit:
   AppleScript:
   AppVeyor:
@@ -67,6 +68,7 @@ terms:
   CIDR:
   CircleCI:
   CLI:
+    plural: CLIs
   ClickHouse:
   Cloudflare:
   CloudFront:
@@ -81,7 +83,7 @@ terms:
   CoreOS:
   CORS:
   CPU:
-  CPUs:
+    plural: CPUs
   CRM:
   CRUD:
   CSON:
@@ -97,7 +99,7 @@ terms:
   DAB+:
   Dailymotion:
   DBA:
-  DBAs:
+    plural: DBAs
   DBus:
   DDL:
   Debian:
@@ -193,7 +195,7 @@ terms:
   GPL:
   GPT:
   GPU:
-  GPUs:
+    plural: GPUs
   Grafana:
   GraphAPI:
   GraphiQL:
@@ -203,7 +205,7 @@ terms:
   gRPC:
   GUI:
   GUID:
-  GUIDs:
+    plural: GUIDs
   Guzzle:
   Hadoop:
   HAProxy:
@@ -232,7 +234,7 @@ terms:
   ICANN:
   ICMP:
   IDE:
-  IDEs:
+    plural: IDEs
   IETF:
   IGMP:
   ImageMagick:
@@ -296,7 +298,7 @@ terms:
   LinkedIn:
   Linux:
   LLM:
-  LLMs:
+    plural: LLMs
   Lodash:
   LRU:
   LTS:
@@ -491,7 +493,7 @@ terms:
   SQLite3:
   SQLServer:
   SRE:
-  SREs:
+    plural: SREs
   SSD:
   SSH:
   SSID:
@@ -529,7 +531,7 @@ terms:
   TSLint:
   TSV:
   TTL:
-  TTLs:
+    plural: TTLs
   TTY:
   TUI:
   TV:
@@ -547,9 +549,9 @@ terms:
   Unix:
   UPnP:
   URI:
-  URIs:
+    plural: URIs
   URL:
-  URLs:
+    plural: URLs
   USB:
   USB Type-A:
   USB Type-B:
@@ -558,7 +560,7 @@ terms:
   UTF-16:
   UTF-8:
   UUID:
-  UUIDs:
+    plural: UUIDs
   UX:
   Vagrant:
   Valkey:
@@ -573,7 +575,7 @@ terms:
   VKontakte:
   VLAN:
   VM:
-  VMs:
+    plural: VMs
   VMware:
   VNC:
   VPN:
