@@ -16,6 +16,9 @@
                             "properties": {
                                 "plural": {
                                     "type": "string"
+                                },
+                                "expanded_form": {
+                                    "type": "string"
                                 }
                             },
                             "additionalProperties": false

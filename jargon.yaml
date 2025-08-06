@@ -2,28 +2,36 @@
 # yaml-language-server: $schema=./jsonschema/jargon.v0.schema.json
 terms:
   3DES:
+    expanded_form: Triple Data Encryption Standard
   ACL:
+    expanded_form: Access Control List
     plural: ACLs
   ActionScript:
   ActiveMQ:
   Adobe:
   Adwords:
   AGPL:
+    expanded_form: Affero General Public License
   AI:
+    expanded_form: Artificial Intelligence
   AirPods:
   AJAX:
+    expanded_form: Asynchronous JavaScript and XML
   Algolia:
   Alpine:
   Altassian:
   Amazon:
   AMQP:
+    expanded_form: Advanced Message Queuing Protocol
   Android:
   Angular:
   AngularJS:
   Ansible:
   APAC:
+    expanded_form: Asia-Pacific
   Apache:
   API:
+    expanded_form: Application Programming Interface
     plural: APIs
   AppKit:
   AppleScript:
@@ -32,11 +40,15 @@ terms:
   ArangoDB:
   Arduino:
   ARM:
+    expanded_form: Advanced RISC Machine
   ASCII:
+    expanded_form: American Standard Code for Information Interchange
   AsciiDoc:
   AST:
+    expanded_form: Abstract Syntax Tree
   Atlassian:
   AWS:
+    expanded_form: Amazon Web Services
   Azure:
   BadgerDB:
   Bash:
@@ -45,35 +57,48 @@ terms:
   BitTorrent:
   Blu-ray:
   BMW:
+    expanded_form: Bayerische Motoren Werke
   Browserify:
   BrowserStack:
   BSD:
+    expanded_form: Berkeley Software Distribution
   BSON:
+    expanded_form: Binary JSON
   BSSID:
+    expanded_form: Basic Service Set Identifier
   BST:
+    expanded_form: Binary Search Tree
   Btrfs:
   C:
   CalDAV:
   camelCase:
   Cassandra:
   CD-ROM:
+    expanded_form: Compact Disc Read-Only Memory
   CD-RW:
+    expanded_form: Compact Disc ReWritable
   CDN:
+    expanded_form: Content Delivery Network
   CentOS:
   CERT:
+    expanded_form: Computer Emergency Response Team
   ChatGPT:
   Chinese:
   Chrome:
   CI:
+    expanded_form: Continuous Integration
   CIDR:
+    expanded_form: Classless Inter-Domain Routing
   CircleCI:
   CLI:
+    expanded_form: Command Line Interface
     plural: CLIs
   ClickHouse:
   Cloudflare:
   CloudFront:
   CMake:
   CNCF:
+    expanded_form: Cloud Native Computing Foundation
   CockroachDB:
   CodeQL:
   CoffeeScript:
@@ -82,71 +107,102 @@ terms:
   CoreDNS:
   CoreOS:
   CORS:
+    expanded_form: Cross-Origin Resource Sharing
   CPU:
+    expanded_form: Central Processing Unit
     plural: CPUs
   CRM:
+    expanded_form: Customer Relationship Management
   CRUD:
+    expanded_form: Create, Read, Update, Delete
   CSON:
   CSpell:
   CSS:
+    expanded_form: Cascading Style Sheets
   CST:
+    expanded_form: Central Standard Time
   CSV:
+    expanded_form: Comma-Separated Values
   cURL:
   CVE:
+    expanded_form: Common Vulnerabilities and Exposures
   CVS:
+    expanded_form: Concurrent Versions System
   Cypress:
   DAB/DAB+:
   DAB+:
   Dailymotion:
   DBA:
+    expanded_form: Database Administrator
     plural: DBAs
   DBus:
+    expanded_form: Desktop Bus
   DDL:
+    expanded_form: Data Definition Language
   Debian:
   Deezer:
   DevOps:
   DevSecOps:
   Dgraph:
   DHCP:
+    expanded_form: Dynamic Host Configuration Protocol
   DigitalOcean:
   Discord:
   Display Port:
   Django:
   DKMS:
+    expanded_form: Dynamic Kernel Module Support
   DLQ:
+    expanded_form: Dead Letter Queue
   DML:
+    expanded_form: Data Manipulation Language
   DNS:
+    expanded_form: Domain Name System
   DNSCrypt:
   Docker:
   Dockerfile:
   DockerHub:
   DOM:
+    expanded_form: Document Object Model
   DSA:
+    expanded_form: Digital Signature Algorithm
   DuckDuckGo:
   DVD:
+    expanded_form: Digital Versatile Disc
   DVD-R:
+    expanded_form: Digital Versatile Disc Recordable
   DVD-RAM:
   DVD-RW:
   DVD+R:
   DVD+RW:
   DynamoDB:
   EAN:
+    expanded_form: European Article Number
   ECMAScript:
   EditorConfig:
   Elasticsearch:
   Elixir:
   EMEA:
+    expanded_form: Europe, Middle East and Africa
   English:
   EOF:
+    expanded_form: End Of File
   EOL:
+    expanded_form: End Of Line
   EPUB:
+    expanded_form: Electronic Publication
   Erlang:
   ESLint:
+    expanded_form: ECMAScript Lint
   ESSID:
+    expanded_form: Extended Service Set Identifier
   EST:
+    expanded_form: Eastern Standard Time
   ETag:
+    expanded_form: Entity Tag
   Excel:
   exFAT:
+    expanded_form: Extended File Allocation Table
   Ext3:
   Ext4:
   Facebook:
@@ -154,36 +210,51 @@ terms:
   FastHTTP:
   Fastly:
   FAT32:
+    expanded_form: File Allocation Table 32
   Firebase:
   Firefox:
   Flickr:
   FLOSS:
+    expanded_form: Free/Libre and Open Source Software
   Flutter:
   Font Awesome:
   Fork Awesome:
   Fort Awesome:
   Fortran:
   FOSDEM:
+    expanded_form: Free and Open Source Developers' European Meeting
   FOSS:
+    expanded_form: Free and Open Source Software
   FQCN:
+    expanded_form: Fully Qualified Class Name
   FQDN:
+    expanded_form: Fully Qualified Domain Name
   FreeBSD:
   freeCodeCamp:
   French:
   FTP:
+    expanded_form: File Transfer Protocol
   GCP:
+    expanded_form: Google Cloud Platform
   GDPR:
+    expanded_form: General Data Protection Regulation
   GeForce:
   GenAI:
+    expanded_form: Generative Artificial Intelligence
   GeoJSON:
   GHz:
+    expanded_form: Gigahertz
   GIF:
+    expanded_form: Graphics Interchange Format
   Git:
   GitHub:
   GitLab:
   GmbH:
+    expanded_form: Gesellschaft mit beschränkter Haftung
   GMT:
+    expanded_form: Greenwich Mean Time
   GNU:
+    expanded_form: GNU's Not Unix
   GNUMake:
   GnuPG:
   GoLand:
@@ -192,9 +263,13 @@ terms:
   GoogleCloud:
   GopherCon:
   GPG:
+    expanded_form: GNU Privacy Guard
   GPL:
+    expanded_form: General Public License
   GPT:
+    expanded_form: Generative Pre-trained Transformer
   GPU:
+    expanded_form: Graphics Processing Unit
     plural: GPUs
   Grafana:
   GraphAPI:
@@ -203,43 +278,69 @@ terms:
   Greek:
   Groovy:
   gRPC:
+    expanded_form: Google Remote Procedure Call
   GUI:
+    expanded_form: Graphical User Interface
   GUID:
+    expanded_form: Globally Unique Identifier
     plural: GUIDs
   Guzzle:
   Hadoop:
   HAProxy:
+    expanded_form: High Availability Proxy
   HashiCorp:
   Haskell:
   HBase:
   HD DVD:
   HDFS:
+    expanded_form: Hadoop Distributed File System
   HDLC:
+    expanded_form: High-Level Data Link Control
   HDMI:
+    expanded_form: High-Definition Multimedia Interface
   Heroku:
   HiveMQ:
   HMAC:
+    expanded_form: Hash-based Message Authentication Code
   Homebrew:
   HSL:
+    expanded_form: Hue, Saturation, Lightness
   HSLA:
+    expanded_form: Hue, Saturation, Lightness, Alpha
   HTML:
+    expanded_form: HyperText Markup Language
   HTML4:
+    expanded_form: HyperText Markup Language 4
   HTML5:
+    expanded_form: HyperText Markup Language 5
   HTMX:
+    expanded_form: HyperText Markup eXtensions
   Hz:
+    expanded_form: Hertz
   I10n:
+    expanded_form: Internationalization (with 10 letters between I and n)
   i18n:
+    expanded_form: Internationalization (with 18 letters between I and n)
   IANA:
+    expanded_form: Internet Assigned Numbers Authority
   IBM:
+    expanded_form: International Business Machines
   ICANN:
+    expanded_form: Internet Corporation for Assigned Names and Numbers
   ICMP:
+    expanded_form: Internet Control Message Protocol
   IDE:
+    expanded_form: Integrated Development Environment
     plural: IDEs
   IETF:
+    expanded_form: Internet Engineering Task Force
   IGMP:
+    expanded_form: Internet Group Management Protocol
   ImageMagick:
   IMAP:
+    expanded_form: Internet Message Access Protocol
   IMAP4:
+    expanded_form: Internet Message Access Protocol version 4
   IndexedDB:
   InfluxDB:
   Insomnia:
@@ -247,17 +348,26 @@ terms:
   Intel:
   IntelliJ:
   IoC:
+    expanded_form: Inversion of Control
   iOS:
   IoT:
+    expanded_form: Internet of Things
   iPad:
   iPadOS:
+    expanded_form: iPad Operating System
   iPhone:
   IPsec:
+    expanded_form: Internet Protocol Security
   IPv4:
+    expanded_form: Internet Protocol version 4
   IPv6:
+    expanded_form: Internet Protocol version 6
   ISBN:
+    expanded_form: International Standard Book Number
   ISO:
+    expanded_form: International Organization for Standardization
   IST:
+    expanded_form: Indian Standard Time
   iTunes:
   Jaeger:
   Java:
@@ -269,22 +379,30 @@ terms:
   Jira:
   jQuery:
   JSON:
+    expanded_form: JavaScript Object Notation
   JSON5:
+    expanded_form: JavaScript Object Notation 5
   JSONC:
+    expanded_form: JavaScript Object Notation with Comments
   JSONL:
   JSONPath:
   Jujutsu:
   JVM:
+    expanded_form: Java Virtual Machine
   JWKS:
+    expanded_form: JSON Web Key Set
   JWT:
+    expanded_form: JSON Web Token
   Kafka:
   Kaspersky:
   KeePass:
   Kibana:
   KO:
+    expanded_form: Knockout
   Kotlin:
   Kubernetes:
   LAN:
+    expanded_form: Local Area Network
   LanguageTool:
   Laravel:
   LastPass:
@@ -292,16 +410,21 @@ terms:
   Latin:
   Launchpad:
   LDAP:
+    expanded_form: Lightweight Directory Access Protocol
   LGPL:
+    expanded_form: Lesser General Public License
   libbpf:
   LibreOffice:
   LinkedIn:
   Linux:
   LLM:
+    expanded_form: Large Language Model
     plural: LLMs
   Lodash:
   LRU:
+    expanded_form: Least Recently Used
   LTS:
+    expanded_form: Long Term Support
   Lua:
   MacBook:
   macOS:
@@ -310,10 +433,13 @@ terms:
   MariaDB:
   Markdown:
   MDT:
+    expanded_form: Mountain Daylight Time
   MFA:
+    expanded_form: Multi-Factor Authentication
   Microsoft:
   MirBSD:
   MIT:
+    expanded_form: Massachusetts Institute of Technology
   MLOps:
   MochaJS:
   Modernizr:
@@ -322,19 +448,30 @@ terms:
   MongoDB:
   Mozilla:
   MP3:
+    expanded_form: MPEG-1 Audio Layer III
   MP4:
+    expanded_form: MPEG-4 Part 14
   MPEG:
+    expanded_form: Moving Picture Experts Group
   MPL-2:
+    expanded_form: Mozilla Public License 2.0
   MQTT:
+    expanded_form: Message Queuing Telemetry Transport
   MVC:
+    expanded_form: Model-View-Controller
   MVP:
+    expanded_form: Minimum Viable Product
   MyRocks:
   MySQL:
   Nagios:
   NaN:
+    expanded_form: Not a Number
   NATS:
+    expanded_form: Not Another Topic System
   NBA:
+    expanded_form: National Basketball Association
   NDJSON:
+    expanded_form: Newline Delimited JSON
   NeoVim:
   NetApp:
   NetBSD:
@@ -342,27 +479,40 @@ terms:
   Netlify:
   NextCloud:
   NFL:
+    expanded_form: National Football League
   NFS:
+    expanded_form: Network File System
   NFT:
-  nginx:
+    expanded_form: Non-Fungible Token
   Nginx:
+  nginx:
   NIST:
+    expanded_form: National Institute of Standards and Technology
   NixOS:
   Nominatim:
   NoSQL:
   npm:
   NTFS:
+    expanded_form: New Technology File System
   Nvidia:
   nvm:
   NYSE:
+    expanded_form: New York Stock Exchange
   OAuth:
+    expanded_form: Open Authorization
   OAuth 2.0:
   OCR:
+    expanded_form: Optical Character Recognition
   OIDC:
+    expanded_form: OpenID Connect
   OK:
+    expanded_form: Okay
   OLAP:
+    expanded_form: Online Analytical Processing
   OLTP:
+    expanded_form: Online Transaction Processing
   OOM:
+    expanded_form: Out Of Memory
   OpenAI:
   OpenAPI:
   OpenBSD:
@@ -387,36 +537,56 @@ terms:
   OpenVZ:
   Oracle:
   ORM:
+    expanded_form: Object-Relational Mapping
   OSM:
+    expanded_form: OpenStreetMap
   OSS:
+    expanded_form: Open Source Software
   OTel:
+    expanded_form: OpenTelemetry
   OTLP:
+    expanded_form: OpenTelemetry Protocol
   OVH:
   OWASP:
+    expanded_form: Open Web Application Security Project
   P2P:
+    expanded_form: Peer-to-Peer
   PaaS:
+    expanded_form: Platform as a Service
   Parcel:
   PascalCase:
   PayPal:
   PCRE:
+    expanded_form: Perl Compatible Regular Expressions
   PCRE1:
+    expanded_form: Perl Compatible Regular Expressions version 1
   PCRE2:
+    expanded_form: Perl Compatible Regular Expressions version 2
   PCT:
+    expanded_form: Pacific Time
   PDF:
+    expanded_form: Portable Document Format
   Percona:
   Perl:
   PGP:
+    expanded_form: Pretty Good Privacy
   PhantomJS:
   PHing:
   PHP:
+    expanded_form: PHP Hypertext Preprocessor
   Pinterest:
   PIPL:
-  "PKCS #12":
+    expanded_form: Personal Information Protection Law
+  'PKCS #12':
+    expanded_form: Public-Key Cryptography Standards
   Playstation:
   PNG:
+    expanded_form: Portable Network Graphics
   pnpm:
   POP3:
+    expanded_form: Post Office Protocol 3
   POSIX:
+    expanded_form: Portable Operating System Interface
   Postgres:
   PostgreSQL:
   PostScript:
@@ -424,17 +594,21 @@ terms:
   Prettier:
   Prometheus:
   PubSub:
+    expanded_form: Publish-Subscribe
   PulseAudio:
   Pwned:
   PyPI:
   Python:
   PyTorch:
   PyYAML:
+    expanded_form: Python YAML
   QoS:
+    expanded_form: Quality of Service
   R:
   RabbitMQ:
   Rackspace:
   RAM:
+    expanded_form: Random Access Memory
   React:
   Reddit:
   RedHat:
@@ -446,39 +620,64 @@ terms:
   RESTful:
   reStructuredText:
   RFC:
+    expanded_form: Request for Comments
   RGB:
+    expanded_form: Red Green Blue
   RGBA:
+    expanded_form: Red Green Blue Alpha
   RHEL:
+    expanded_form: Red Hat Enterprise Linux
   RocketMQ:
   ROT13:
+    expanded_form: Rotate by 13 places
   RPC:
+    expanded_form: Remote Procedure Call
   RSA:
+    expanded_form: Rivest–Shamir–Adleman
   RSS:
+    expanded_form: Really Simple Syndication
   Ruby:
   Rust:
   SaaS:
+    expanded_form: Software as a Service
   Salesforce:
   Samba:
   SAML:
+    expanded_form: Security Assertion Markup Language
   SASL:
+    expanded_form: Simple Authentication and Security Layer
   Sass:
+    expanded_form: Syntactically Awesome Style Sheets
   SATA:
+    expanded_form: Serial Advanced Technology Attachment
   Scala:
   SCSS:
+    expanded_form: Sassy CSS
   ScyllaDB:
   SDHC:
+    expanded_form: Secure Digital High Capacity
   SDK:
+    expanded_form: Software Development Kit
   SDUC:
+    expanded_form: Secure Digital Ultra Capacity
   SDXC:
+    expanded_form: Secure Digital eXtended Capacity
   SELinux:
+    expanded_form: Security-Enhanced Linux
   SemVer:
   SEO:
+    expanded_form: Search Engine Optimization
   SFDC:
+    expanded_form: Salesforce.com
   SFTP:
+    expanded_form: Secure File Transfer Protocol
   SLA:
+    expanded_form: Service Level Agreement
   Slack:
   SMTP:
+    expanded_form: Simple Mail Transfer Protocol
   SOAP:
+    expanded_form: Simple Object Access Protocol
   Solaris:
   SolidJS:
   Solr:
@@ -488,17 +687,24 @@ terms:
   SphinxDoc:
   Spotify:
   SQL:
+    expanded_form: Structured Query Language
   SQLAlchemy:
   SQLite:
   SQLite3:
   SQLServer:
   SRE:
+    expanded_form: Site Reliability Engineer
     plural: SREs
   SSD:
+    expanded_form: Solid State Drive
   SSH:
+    expanded_form: Secure Shell
   SSID:
+    expanded_form: Service Set Identifier
   SSL:
+    expanded_form: Secure Sockets Layer
   SSO:
+    expanded_form: Single Sign-On
   Stack Exchange:
   Stack Overflow:
   StandardJS:
@@ -506,14 +712,18 @@ terms:
   SunOS:
   SurrealDB:
   SUSE:
+    expanded_form: Software und System-Entwicklung
   SVG:
+    expanded_form: Scalable Vector Graphics
   SVN:
+    expanded_form: Subversion
   Swagger:
   SwayWM:
   Swift:
   Symfony:
   Tcl:
   TCP:
+    expanded_form: Transmission Control Protocol
   TensorFlow:
   Terraform:
   Tesla:
@@ -521,20 +731,29 @@ terms:
   Thunderbolt:
   TikTok:
   TLS:
+    expanded_form: Transport Layer Security
   ToC:
+    expanded_form: Table of Contents
   TOML:
+    expanded_form: Tom's Obvious, Minimal Language
   TOTP:
+    expanded_form: Time-based One-Time Password
   Traefik:
   Travis:
   Tripadvisor:
   Trustpilot:
   TSLint:
   TSV:
+    expanded_form: Tab-Separated Values
   TTL:
+    expanded_form: Time To Live
     plural: TTLs
   TTY:
+    expanded_form: Teletypewriter
   TUI:
+    expanded_form: Text User Interface
   TV:
+    expanded_form: Television
   tvOS:
   Twitter:
   TypeScript:
@@ -542,30 +761,44 @@ terms:
   Ubuntu:
   UbuntuCE:
   UDP:
+    expanded_form: User Datagram Protocol
   UEFI:
+    expanded_form: Unified Extensible Firmware Interface
   UI:
+    expanded_form: User Interface
   UML:
+    expanded_form: Unified Modeling Language
   Unicode:
   Unix:
   UPnP:
+    expanded_form: Universal Plug and Play
   URI:
+    expanded_form: Uniform Resource Identifier
     plural: URIs
   URL:
+    expanded_form: Uniform Resource Locator
     plural: URLs
   USB:
+    expanded_form: Universal Serial Bus
   USB Type-A:
   USB Type-B:
   USB Type-C:
   UTC:
+    expanded_form: Coordinated Universal Time
   UTF-16:
+    expanded_form: Unicode Transformation Format 16-bit
   UTF-8:
+    expanded_form: Unicode Transformation Format 8-bit
   UUID:
+    expanded_form: Universally Unique Identifier
     plural: UUIDs
   UX:
+    expanded_form: User Experience
   Vagrant:
   Valkey:
   Varnish:
   VCS:
+    expanded_form: Version Control System
   Vercel:
   Verizon:
   VideoLAN:
@@ -574,15 +807,21 @@ terms:
   Visual Studio Code:
   VKontakte:
   VLAN:
+    expanded_form: Virtual Local Area Network
   VM:
+    expanded_form: Virtual Machine
     plural: VMs
   VMware:
   VNC:
+    expanded_form: Virtual Network Computing
   VPN:
+    expanded_form: Virtual Private Network
   VS Code:
   vSphere:
   W3C:
+    expanded_form: World Wide Web Consortium
   W3M:
+    expanded_form: World Wide Web for Unix
   W3Schools:
   Wasm:
   watchOS:
@@ -604,28 +843,44 @@ terms:
   Wikitext:
   Windows:
   WMA:
+    expanded_form: Windows Media Audio
   WordPress:
   WSL:
+    expanded_form: Windows Subsystem for Linux
   WWDC:
+    expanded_form: Worldwide Developers Conference
   X:
   X.509:
+    expanded_form: ITU-T X.509 standard for public key certificates
   Xcode:
   XDG:
+    expanded_form: X Desktop Group
   XFCE:
+    expanded_form: XForms Common Environment
   XFS:
+    expanded_form: X File System
   XHTML:
+    expanded_form: Extensible HyperText Markup Language
   XML:
+    expanded_form: Extensible Markup Language
   XMLHttpRequest:
   XSL:
+    expanded_form: Extensible Stylesheet Language
   XSLT:
+    expanded_form: Extensible Stylesheet Language Transformations
   XSS:
+    expanded_form: Cross-Site Scripting
   XtraBackup:
   YAML:
+    expanded_form: YAML Ain't Markup Language
   Yarn:
   YML:
+    expanded_form: YAML Markup Language
   YouTube:
   ZFS:
+    expanded_form: Zettabyte File System
   Zipkin:
   zlib:
   ZooKeeper:
   Zsh:
+    expanded_form: Z Shell
