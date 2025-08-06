@@ -1,0 +1,33 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Jargon Terms",
+    "type": "object",
+    "properties": {
+        "terms": {
+            "type": "object",
+            "patternProperties": {
+                "^.+$": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "object",
+                            "properties": {
+                                "plural": {
+                                    "type": "string"
+                                }
+                            },
+                            "additionalProperties": false
+                        }
+
+                    ]
+                }
+            }
+        }
+    },
+    "required": [
+        "terms"
+    ],
+    "additionalProperties": false
+}
