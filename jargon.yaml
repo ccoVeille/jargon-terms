@@ -510,7 +510,7 @@ terms:
   NetBSD:
   Netflix:
   Netlify:
-  NextCloud:
+  Nextcloud:
   NFL:
     expanded_form: National Football League
   NFS:
@@ -614,7 +614,7 @@ terms:
     expanded_form: Personal Information Protection Law
   'PKCS #12':
     expanded_form: Public-Key Cryptography Standards
-  Playstation:
+  PlayStation:
   PNG:
     expanded_form: Portable Network Graphics
   pnpm:
@@ -648,7 +648,7 @@ terms:
     expanded_form: Random Access Memory
   React:
   Reddit:
-  RedHat:
+  Red Hat:
   Redis:
   Redux:
   RefluxJS:
@@ -882,7 +882,7 @@ terms:
   WebSocket:
     plural: WebSockets
   WebStorm:
-  Wechat:
+  WeChat:
   Weibo:
   WhatsApp:
   Wi-Fi:
