@@ -10,6 +10,10 @@ terms:
     expanded_form: Triple Data Encryption Standard
     categories:
       - cryptography
+  ABAC:
+    expanded_form: Attribute-Based Access Control
+    categories:
+      - authentication
   ACID:
     expanded_form: Atomicity, Consistency, Isolation, Durability
     disambiguation:
@@ -217,6 +221,9 @@ terms:
   Australia:
     categories:
       - country
+  Auth0:
+    categories:
+      - authentication
   AutoCAD:
     categories:
       - software
@@ -412,6 +419,11 @@ terms:
       - demonym
       - language
       - Canada
+  CAPTCHA:
+    expanded_form: Completely Automated Public Turing test to tell Computers and Humans Apart
+    plural: CAPTCHAs
+    categories:
+      - authentication
   Caspio:
     categories:
       - database
@@ -700,6 +712,15 @@ terms:
     plural: DDLs
     categories:
       - database
+  DDoS:
+    expanded_form: Distributed Denial of Service
+    categories:
+      - security
+  DEA:
+    expanded_form: Drug Enforcement Administration
+    categories:
+      - government agency
+      - USA
   Debian:
     categories:
       - operating system
@@ -792,6 +813,10 @@ terms:
   DOS:
     categories:
       - operating system
+  DoS:
+    expanded_form: Denial of Service
+    categories:
+      - security
   DRY:
     expanded_form: Don't Repeat Yourself
     disambiguation:
@@ -2224,6 +2249,10 @@ terms:
     expanded_form: Zero Kill (originally a military term)
     categories:
       - general
+  Okta:
+    categories:
+      - authentication
+      - identity
   OLAP:
     expanded_form: Online Analytical Processing
     categories:
@@ -2271,6 +2300,10 @@ terms:
       - graphics
   OpenID:
     expanded_form: Open Identity
+    categories:
+      - authentication
+  OpenID Connect:
+    expanded_form: OpenID Connect
     categories:
       - authentication
   OpenJDK:
@@ -2601,6 +2634,10 @@ terms:
     expanded_form: Random Access Memory
     categories:
       - hardware
+  RBAC:
+    expanded_form: Role-Based Access Control
+    categories:
+      - authentication
   RDS:
     expanded_form: Amazon Relational Database Service
     categories:
@@ -3680,6 +3717,10 @@ terms:
   YouTube:
     categories:
       - video
+  YubiKey:
+    categories:
+      - security
+      - hardware
   ZFS:
     expanded_form: Zettabyte File System
     categories:
