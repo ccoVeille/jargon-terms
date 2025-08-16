@@ -196,6 +196,10 @@ terms:
     categories:
       - language
       - Armenia
+  ARP:
+    expanded_form: Address Resolution Protocol
+    categories:
+      - network
   Asana:
     categories:
       - software
@@ -224,6 +228,10 @@ terms:
   Atlassian:
     categories:
       - company
+  ATM:
+    expanded_form: Asynchronous Transfer Mode
+    categories:
+      - network
   Audi:
     categories:
       - automotive
@@ -311,6 +319,17 @@ terms:
   Berkeley DB:
     categories:
       - database
+  BGP:
+    expanded_form: Border Gateway Protocol
+    categories:
+      - network
+  Big Five:
+    categories:
+      - Alphabet Inc.
+      - Meta Platforms, Inc.
+      - Microsoft
+      - Apple
+      - Amazon
   BigQuery:
     categories:
       - database
@@ -1354,6 +1373,10 @@ terms:
     expanded_form: Google Remote Procedure Call
     categories:
       - api
+  GSM:
+    expanded_form: Global System for Mobile Communications
+    categories:
+      - network
   GUI:
     expanded_form: Graphical User Interface
     categories:
@@ -1664,6 +1687,10 @@ terms:
     expanded_form: International Standard Book Number
     categories:
       - standard
+  ISDN:
+    expanded_form: Integrated Services Digital Network
+    categories:
+      - network
   ISO:
     expanded_form: International Organization for Standardization
     categories:
@@ -2157,6 +2184,10 @@ terms:
     expanded_form: Mozilla Public License 2.0
     categories:
       - license
+  MPLS:
+    expanded_form: Multiprotocol Label Switching
+    categories:
+      - network
   MQTT:
     expanded_form: Message Queuing Telemetry Transport
     categories:
@@ -2190,6 +2221,10 @@ terms:
     categories:
       - organization
       - aerospace
+  NAT:
+    expanded_form: Network Address Translation
+    categories:
+      - network
   NATO:
     expanded_form: North Atlantic Treaty Organization
     categories:
@@ -2665,6 +2700,10 @@ terms:
     categories:
       - software
       - Microsoft Windows
+  PPP:
+    expanded_form: Point-to-Point Protocol
+    categories:
+      - network
   Prettier:
     disambiguation:
       - prettier (the adjective)
@@ -2738,6 +2777,10 @@ terms:
     expanded_form: Role-Based Access Control
     categories:
       - authentication
+  RDP:
+    expanded_form: Remote Desktop Protocol
+    categories:
+      - network
   RDS:
     expanded_form: Amazon Relational Database Service
     categories:
@@ -3034,6 +3077,11 @@ terms:
     categories:
       - networking
       - email
+  SNMP:
+    expanded_form: Simple Network Management Protocol
+    categories:
+      - network
+      - monitoring
   SOAP:
     expanded_form: Simple Object Access Protocol
     categories:
@@ -3644,6 +3692,10 @@ terms:
     expanded_form: Windows, Apache, MySQL, PHP
     categories:
       - software stack
+  WAN:
+    expanded_form: Wide Area Network
+    categories:
+      - network
   Wasm:
     expanded_form: WebAssembly
     categories:
