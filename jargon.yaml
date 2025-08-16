@@ -1,6 +1,11 @@
 ---
 # yaml-language-server: $schema=./jsonschema/jargon.v0.schema.json
 terms:
+  1Password:
+    categories:
+      - software
+      - password manager
+      - security
   3DES:
     expanded_form: Triple Data Encryption Standard
     categories:
@@ -26,6 +31,14 @@ terms:
   Adobe:
     categories:
       - company
+  Adobe Acrobat:
+    categories:
+      - software
+      - pdf
+  Adobe Acrobat Reader:
+    categories:
+      - software
+      - pdf
   ADSL:
     expanded_form: Asymmetric Digital Subscriber Line
     categories:
@@ -40,6 +53,11 @@ terms:
     categories:
       - continent
       - region
+  Agile:
+    disambiguation:
+      - agile (the adjective)
+    categories:
+      - software development
   AGPL:
     expanded_form: Affero General Public License
     categories:
@@ -77,8 +95,13 @@ terms:
     categories:
       - operating system
       - Linux distribution
-  Altassian:
+  ALSA:
+    expanded_form: Advanced Linux Sound Architecture
+    disambiguation:
+      - ALSA (the American Life Science Association)
+      - ALSA (Automóviles Luarca, S.A., a bus company in Europe)
     categories:
+      - audio
       - software
   Amazon:
     categories:
@@ -155,6 +178,9 @@ terms:
     categories:
       - language
       - Armenia
+  Asana:
+    categories:
+      - software
   ASCII:
     expanded_form: American Standard Code for Information Interchange
     categories:
@@ -172,6 +198,11 @@ terms:
   Aston Martin:
     categories:
       - automotive
+  ATDD:
+    expanded_form: Acceptance Test-Driven Development
+    categories:
+      - software development
+      - testing
   Atlassian:
     categories:
       - company
@@ -186,6 +217,9 @@ terms:
   Australia:
     categories:
       - country
+  AutoCAD:
+    categories:
+      - software
   AWS:
     expanded_form: Amazon Web Services
     categories:
@@ -216,6 +250,10 @@ terms:
     categories:
       - shell
       - programming language
+  BDD:
+    expanded_form: Behavior-Driven Development
+    categories:
+      - software development
   Belarus:
     categories:
       - country
@@ -249,6 +287,11 @@ terms:
   BitTorrent:
     categories:
       - protocol
+  Bitwarden:
+    categories:
+      - software
+      - password manager
+      - security
   Blu-ray:
     categories:
       - hardware
@@ -324,6 +367,10 @@ terms:
   Bugatti:
     categories:
       - automotive
+  Bugzilla:
+    categories:
+      - software
+      - bug tracking
   Bulgaria:
     categories:
       - country
@@ -437,6 +484,9 @@ terms:
   CircleCI:
     categories:
       - continuous integration
+  Citrix:
+    categories:
+      - software
   Citroën:
     categories:
       - automotive
@@ -465,6 +515,9 @@ terms:
   CockroachDB:
     categories:
       - database
+  CodePen:
+    categories:
+      - software
   CodeQL:
     categories:
       - security
@@ -599,6 +652,14 @@ terms:
       - dart (the game)
     categories:
       - programming language
+  Dashlane:
+    categories:
+      - software
+      - password manager
+      - security
+  DataGrip:
+    categories:
+      - software
   DB2:
     categories:
       - database
@@ -619,6 +680,10 @@ terms:
     expanded_form: Desktop Bus
     categories:
       - software
+  DDD:
+    expanded_form: Domain-Driven Design
+    categories:
+      - software development
   DDL:
     expanded_form: Data Definition Language
     plural: DDLs
@@ -716,6 +781,12 @@ terms:
   DOS:
     categories:
       - operating system
+  DRY:
+    expanded_form: Don't Repeat Yourself
+    disambiguation:
+      - dry (the opposite of wet)
+    categories:
+      - software design principles
   DS Automobiles:
     categories:
       - automotive
@@ -788,6 +859,10 @@ terms:
       - elixir (the potion)
     categories:
       - programming language
+  Emacs:
+    categories:
+      - software
+      - text editor
   EMEA:
     expanded_form: Europe, Middle East and Africa
     categories:
@@ -885,6 +960,10 @@ terms:
     expanded_form: Fabbrica Italiana Automobili Torino
     categories:
       - automotive
+  FileZilla:
+    categories:
+      - software
+      - file transfer
   Finland:
     categories:
       - country
@@ -1030,6 +1109,10 @@ terms:
     expanded_form: Graphics Interchange Format
     categories:
       - image format
+  GIMP:
+    expanded_form: GNU Image Manipulation Program
+    categories:
+      - software
   Git:
     categories:
       - version control
@@ -1085,9 +1168,12 @@ terms:
   Google:
     categories:
       - company
-  GoogleCloud:
+  Google Suite:
     categories:
-      - cloud
+      - software
+      - productivity
+      - collaboration
+      - Google
   GopherCon:
     categories:
       - conference
@@ -1114,6 +1200,10 @@ terms:
   Grafana:
     categories:
       - monitoring
+  Grammarly:
+    categories:
+      - software
+      - grammar checker
   GraphAPI:
     categories:
       - api
@@ -1260,6 +1350,11 @@ terms:
     categories:
       - country
       - Europe
+  Husky:
+    disambiguation:
+      - husky (the dog breed)
+    categories:
+      - software
   Hyundai:
     categories:
       - automotive
@@ -1559,6 +1654,13 @@ terms:
   Kibana:
     categories:
       - monitoring
+  KISS:
+    expanded_form: Keep It Simple, Stupid
+    disambiguation:
+      - Kiss (the band)
+      - kiss (the greeting)
+    categories:
+      - software principle
   Kiswahili:
     categories:
       - language
@@ -1584,6 +1686,10 @@ terms:
   Lamborghini:
     categories:
       - automotive
+  LAMP:
+    expanded_form: Linux, Apache, MySQL, PHP
+    categories:
+      - software stack
   LAN:
     expanded_form: Local Area Network
     categories:
@@ -1623,6 +1729,10 @@ terms:
   Launchpad:
     categories:
       - software
+  Lazygit:
+    categories:
+      - software
+      - Git
   LDAP:
     expanded_form: Lightweight Directory Access Protocol
     categories:
@@ -1783,6 +1893,10 @@ terms:
   Microsoft:
     categories:
       - company
+      - GAFAM
+  Microsoft 365:
+    categories:
+      - software
   Microsoft SQL Server:
     categories:
       - database
@@ -1956,6 +2070,10 @@ terms:
   nginx:
     categories:
       - web server
+  NIH:
+    expanded_form: Not Invented Here
+    categories:
+      - software development
   Nissan:
     categories:
       - automotive
@@ -1984,6 +2102,13 @@ terms:
   NoSQL:
     categories:
       - database
+  Notepad++:
+    categories:
+      - software
+      - text editor
+  Notion:
+    categories:
+      - software
   npm:
     categories:
       - package management
@@ -2270,6 +2395,10 @@ terms:
     categories:
       - social media
       - image sharing
+  PipeWire:
+    categories:
+      - audio
+      - software
   PIPL:
     expanded_form: Personal Information Protection Law
     categories:
@@ -2290,6 +2419,10 @@ terms:
     categories:
       - package manager
       - JavaScript
+  PoC:
+    expanded_form: Proof of Concept
+    categories:
+      - software development
   Poland:
     categories:
       - country
@@ -2328,9 +2461,16 @@ terms:
   PostScript:
     categories:
       - markup language
+  PowerPoint:
+    categories:
+      - presentation software
   PowerShell:
     categories:
       - shell
+      - Microsoft Windows
+  PowerTools:
+    categories:
+      - software
       - Microsoft Windows
   Prettier:
     disambiguation:
@@ -2640,6 +2780,21 @@ terms:
     categories:
       - networking
       - file transfer
+  Shopify:
+    categories:
+      - software
+  Signal:
+    categories:
+      - communication
+  Silex:
+    disambiguation:
+      - silex (the rock)
+    categories:
+      - software
+  Sina Weibo:
+    categories:
+      - social network
+      - Asia
   SLA:
     plural: SLAs
     expanded_form: Service Level Agreement
@@ -2682,9 +2837,19 @@ terms:
     expanded_form: Simple Object Access Protocol
     categories:
       - web services
+  Socket.IO:
+    categories:
+      - software
+      - network
   Solaris:
     categories:
       - operating system
+  SOLID:
+    expanded_form: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+    categories:
+      - software design principles
+    disambiguation:
+      - solid (the state of matter)
   SolidJS:
     categories:
       - JavaScript
@@ -2854,6 +3019,9 @@ terms:
     categories:
       - language
       - Philippines
+  Tailwind:
+    categories:
+      - software
   Tamil:
     categories:
       - language
@@ -2873,7 +3041,24 @@ terms:
   TCP:
     expanded_form: Transmission Control Protocol
     categories:
-      - networking
+      - network
+  TDD:
+    expanded_form: Test-Driven Development
+    categories:
+      - software development
+  Telegram:
+    categories:
+      - social network
+      - messaging
+  Tencent:
+    categories:
+      - company
+      - software
+      - Asia
+  Tencent Weibo:
+    categories:
+      - social network
+      - Asia
   TensorFlow:
     categories:
       - machine learning
@@ -3165,6 +3350,11 @@ terms:
   Visual Studio Code:
     categories:
       - code editor
+  Vite:
+    disambiguation:
+      - vite (French word for speed)
+    categories:
+      - software
   VKontakte:
     categories:
       - social network
@@ -3322,6 +3512,11 @@ terms:
   Xcode:
     categories:
       - IDE
+  xDD:
+    expanded_form: eXtreme Test-Driven Development
+    categories:
+      - software development
+      - testing
   XDG:
     expanded_form: X Desktop Group
     categories:
@@ -3366,6 +3561,12 @@ terms:
       - operating system
       - Linux distribution
       - Ubuntu variant
+  YAGNI:
+    expanded_form: You Aren't Gonna Need It
+    categories:
+      - software design principles
+      - humor
+      - slang
   YAML:
     expanded_form: YAML Ain't Markup Language
     categories:
