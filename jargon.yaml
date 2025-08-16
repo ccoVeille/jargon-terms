@@ -26,6 +26,13 @@ terms:
   Adwords:
     categories:
       - advertising
+  Afghanistan:
+    categories:
+      - country
+  Africa:
+    categories:
+      - continent
+      - region
   AGPL:
     expanded_form: Affero General Public License
     categories:
@@ -50,6 +57,9 @@ terms:
   Akamai:
     categories:
       - cloud
+  Algeria:
+    categories:
+      - country
   Algolia:
     categories:
       - search
@@ -115,6 +125,14 @@ terms:
     expanded_form: Advanced RISC Machine
     categories:
       - hardware
+  Armenia:
+    categories:
+      - country
+      - Asia
+  Armenian:
+    categories:
+      - language
+      - Armenia
   ASCII:
     expanded_form: American Standard Code for Information Interchange
     categories:
@@ -132,20 +150,51 @@ terms:
   Atlassian:
     categories:
       - company
+  Australia:
+    categories:
+      - country
   AWS:
     expanded_form: Amazon Web Services
     categories:
       - cloud
+  Azerbaijan:
+    categories:
+      - country
+      - Asia
+  Azerbaijani:
+    categories:
+      - language
+      - Azerbaijan
   Azure:
     categories:
       - cloud
   BadgerDB:
     categories:
       - database
+  Bangladesh:
+    categories:
+      - country
+      - Asia
+  Bantu:
+    categories:
+      - language
+      - Africa
   Bash:
     categories:
       - shell
       - programming language
+  Belarus:
+    categories:
+      - country
+      - Europe
+  Belarusian:
+    categories:
+      - language
+      - Belarus
+  Bengali:
+    categories:
+      - language
+      - Bangladesh
   BeOS:
     categories:
       - operating system
@@ -169,6 +218,42 @@ terms:
     categories:
       - operating system
       - Linux distribution
+  Bosnia and Herzegovina:
+    categories:
+      - country
+      - Europe
+  Bosnian:
+    categories:
+      - language
+      - Bosnia and Herzegovina
+  Brazil:
+    categories:
+      - country
+      - South America
+  Brazilian:
+    categories:
+      - language
+      - Brazil
+  BRIC:
+    expanded_form: Brazil, Russia, India, China
+    categories:
+      - region
+      - organization
+  BRICS+:
+    expanded_form: Brazil, Russia, India, China, South Africa
+    categories:
+      - region
+      - organization
+  Britain:
+    categories:
+      - region
+  British:
+    plural: British
+    categories:
+      - language
+      - demonym
+      - nationality
+      - United Kingdom
   Browserify:
     categories:
       - build tool
@@ -194,6 +279,17 @@ terms:
   Btrfs:
     categories:
       - file system
+  Bulgaria:
+    categories:
+      - country
+      - Europe
+  Bulgarian:
+    plural: Bulgarians
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Bulgaria
   C:
     categories:
       - programming language
@@ -210,9 +306,25 @@ terms:
   camelCase:
     categories:
       - programming style
+  Canada:
+    categories:
+      - country
+      - North America
+  Canadian:
+    plural: Canadians
+    categories:
+      - nationality
+      - demonym
+      - language
+      - Canada
   Cassandra:
     categories:
       - database
+  Catalan:
+    categories:
+      - language
+      - Spain
+      - France
   CD-ROM:
     expanded_form: Compact Disc Read-Only Memory
     categories:
@@ -238,6 +350,10 @@ terms:
     categories:
       - artificial intelligence
       - LLM
+  China:
+    categories:
+      - country
+      - Asia
   Chinese:
     categories:
       - language
@@ -289,6 +405,10 @@ terms:
   CoffeeScript:
     categories:
       - programming language
+  Common Wealth:
+    categories:
+      - region
+      - organization
   CommonJS:
     categories:
       - module system
@@ -324,6 +444,14 @@ terms:
     expanded_form: Customer Relationship Management
     categories:
       - software
+  Croatia:
+    categories:
+      - country
+      - Europe
+  Croatian:
+    categories:
+      - language
+      - Croatia
   CRUD:
     expanded_form: Create, Read, Update, Delete
     categories:
@@ -369,6 +497,14 @@ terms:
   Cypress:
     categories:
       - testing
+  Czech:
+    categories:
+      - language
+      - Czech Republic
+  Czech Republic:
+    categories:
+      - country
+      - Europe
   D:
     categories:
       - programming language
@@ -382,6 +518,10 @@ terms:
   Dailymotion:
     categories:
       - video
+  Danish:
+    categories:
+      - language
+      - Denmark
   Dart:
     disambiguation:
       - dart (the game)
@@ -412,6 +552,10 @@ terms:
   Delphi:
     categories:
       - programming language
+  Denmark:
+    categories:
+      - country
+      - Europe
   DevOps:
     categories:
       - software development
@@ -490,6 +634,12 @@ terms:
   DuckDuckGo:
     categories:
       - search
+  Dutch:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Netherlands
   DVD:
     expanded_form: Digital Versatile Disc
     plural: DVDs
@@ -525,6 +675,16 @@ terms:
   EditorConfig:
     categories:
       - configuration
+  Egypt:
+    categories:
+      - country
+      - Africa
+  Egyptian:
+    plural: Egyptians
+    categories:
+      - language
+      - demonym
+      - nationality
   Elasticsearch:
     categories:
       - search
@@ -574,10 +734,26 @@ terms:
       - est (the third person singular form of "to be" in French)
     categories:
       - timezone
+  Estonia:
+    categories:
+      - country
+      - Europe
+  Estonian:
+    plural: Estonians
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Estonia
   ETag:
     expanded_form: Entity Tag
     categories:
       - web development
+  Europe:
+    categories:
+      - continent
+      - region
+      - organization
   Excel:
     categories:
       - software
@@ -610,6 +786,16 @@ terms:
     expanded_form: File Allocation Table 32
     categories:
       - file system
+  Finland:
+    categories:
+      - country
+      - Europe
+  Finnish:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Finland
   Firebase:
     categories:
       - cloud
@@ -654,6 +840,10 @@ terms:
     expanded_form: Fully Qualified Domain Name
     categories:
       - network
+  France:
+    categories:
+      - country
+      - Europe
   FreeBSD:
     categories:
       - operating system
@@ -673,6 +863,11 @@ terms:
     expanded_form: File Transfer Protocol
     categories:
       - protocol
+  GB:
+    expanded_form: Great Britain
+    categories:
+      - country
+      - Europe
   GCP:
     expanded_form: Google Cloud Platform
     categories:
@@ -691,6 +886,25 @@ terms:
   GeoJSON:
     categories:
       - data format
+  Georgia:
+    categories:
+      - country
+  Georgian:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Georgia
+  German:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - German
+  Germany:
+    categories:
+      - country
+      - Europe
   Gherkin:
     categories:
       - programming language
@@ -793,6 +1007,13 @@ terms:
   GraphQL:
     categories:
       - api
+  Great Britain:
+    categories:
+      - region
+  Greece:
+    categories:
+      - country
+      - Europe
   Greek:
     categories:
       - language
@@ -850,12 +1071,19 @@ terms:
     expanded_form: High-Definition Multimedia Interface
     categories:
       - hardware
+  Hebrew:
+    categories:
+      - language
   Helm:
     categories:
       - cloud
   Heroku:
     categories:
       - cloud
+  Hindi:
+    categories:
+      - language
+      - India
   HiveMQ:
     categories:
       - messaging
@@ -902,6 +1130,14 @@ terms:
     expanded_form: HyperText Transfer Protocol Secure
     categories:
       - protocol
+  Hungarian:
+    categories:
+      - language
+      - Hungarian
+  Hungary:
+    categories:
+      - country
+      - Europe
   Hz:
     expanded_form: Hertz
     categories:
@@ -926,6 +1162,15 @@ terms:
     expanded_form: Internet Corporation for Assigned Names and Numbers
     categories:
       - organization
+  Iceland:
+    categories:
+      - country
+      - Europe
+      - Danmark
+  Icelandic:
+    categories:
+      - language
+      - Iceland
   ICMP:
     expanded_form: Internet Control Message Protocol
     categories:
@@ -958,6 +1203,18 @@ terms:
     expanded_form: Indexed Database API
     categories:
       - database
+  India:
+    categories:
+      - country
+      - Asia
+  Indonesia:
+    categories:
+      - country
+      - Asia
+  Indonesian:
+    categories:
+      - language
+      - Indonesia
   InfluxDB:
     expanded_form: Influx Database
     categories:
@@ -1013,6 +1270,9 @@ terms:
     expanded_form: Internet Protocol version 6
     categories:
       - network
+  Iran:
+    categories:
+      - country
   IRIX:
     categories:
       - operating system
@@ -1025,10 +1285,22 @@ terms:
     categories:
       - organization
       - standard
+  Israel:
+    categories:
+      - country
   IST:
     expanded_form: Indian Standard Time
     categories:
       - timezone
+  Italian:
+    plural: Italians
+    categories:
+      - language
+      - Italy
+  Italy:
+    categories:
+      - country
+      - Europe
   iTunes:
     categories:
       - software
@@ -1037,6 +1309,14 @@ terms:
       - Jaeger (the German word for hunter)
     categories:
       - monitoring
+  Japan:
+    categories:
+      - country
+      - Asia
+  Japanese:
+    categories:
+      - language
+      - Japan
   Java:
     disambiguation:
       - Java (the programming language)
@@ -1115,16 +1395,35 @@ terms:
   Kaspersky:
     categories:
       - software
+  Kazakh:
+    categories:
+      - language
+      - Kazakhstan
+  Kazakhstan:
+    categories:
+      - country
+      - Asia
   KeePass:
     categories:
       - software
   Kibana:
     categories:
       - monitoring
+  Kiswahili:
+    categories:
+      - language
+      - Tanzania
   KO:
     expanded_form: Knockout
     categories:
       - martial art
+  Korean:
+    plural: Koreans
+    categories:
+      - language
+      - demonym
+      - nationality
+      - South Korea
   Kotlin:
     categories:
       - programming language
@@ -1157,6 +1456,14 @@ terms:
   Latin:
     categories:
       - language
+  Latvia:
+    categories:
+      - country
+      - Europe
+  Latvian:
+    categories:
+      - language
+      - Latvia
   Launchpad:
     categories:
       - software
@@ -1199,6 +1506,14 @@ terms:
     categories:
       - operating system
       - Linux distribution
+  Lithuania:
+    categories:
+      - country
+      - Europe
+  Lithuanian:
+    categories:
+      - language
+      - Lithuania
   LLM:
     expanded_form: Large Language Model
     plural: LLMs
@@ -1229,6 +1544,14 @@ terms:
   MacBook:
     categories:
       - hardware
+  Macedonia:
+    categories:
+      - country
+      - Europe
+  Macedonian:
+    categories:
+      - language
+      - Macedonia
   macOS:
     categories:
       - operating system
@@ -1239,6 +1562,14 @@ terms:
   Makefile:
     categories:
       - build tool
+  Malay:
+    categories:
+      - language
+      - Malaysia
+  Malaysia:
+    categories:
+      - country
+      - Asia
   MariaDB:
     categories:
       - database
@@ -1249,9 +1580,25 @@ terms:
     expanded_form: Mountain Daylight Time
     categories:
       - timezone
+  MENA:
+    expanded_form: Middle East and North Africa
+    categories:
+      - region
   Mercurial:
     categories:
       - version control
+  Mexican:
+    plural: Mexicans
+    categories:
+      - nationality
+      - demonym
+      - language
+      - Mexico
+  Mexico:
+    categories:
+      - country
+      - city
+      - North America
   MFA:
     expanded_form: Multi-Factor Authentication
     categories:
@@ -1293,6 +1640,30 @@ terms:
   MongoDB:
     categories:
       - database
+  Mongolia:
+    categories:
+      - country
+      - Asia
+  Mongolian:
+    categories:
+      - language
+      - Mongolia
+  Moroccan:
+    categories:
+      - language
+      - Morocco
+  Morocco:
+    categories:
+      - country
+      - Africa
+  Mozambican:
+    categories:
+      - language
+      - Mozambique
+  Mozambique:
+    categories:
+      - country
+      - Africa
   Mozilla:
     categories:
       - company
@@ -1370,6 +1741,10 @@ terms:
   Netflix:
     categories:
       - video
+  Netherlands:
+    categories:
+      - country
+      - Europe
   Netlify:
     categories:
       - hosting
@@ -1402,6 +1777,17 @@ terms:
   Nominatim:
     categories:
       - mapping
+  Norway:
+    categories:
+      - country
+      - Europe
+      - Scandinavia
+  Norwegian:
+    plural: Norwegians
+    categories:
+      - language
+      - nationality
+      - Norway
   NoSQL:
     categories:
       - database
@@ -1437,6 +1823,9 @@ terms:
   Objective-C:
     categories:
       - programming language
+  Oceania:
+    categories:
+      - region
   OCR:
     expanded_form: Optical Character Recognition
     categories:
@@ -1597,10 +1986,18 @@ terms:
     expanded_form: Platform as a Service
     categories:
       - cloud computing
+  Pakistan:
+    categories:
+      - country
+      - Asia
   Parcel:
   PascalCase:
     categories:
       - programming style
+  Pashto:
+    categories:
+      - language
+      - Iran
   PayPal:
     categories:
       - payment
@@ -1633,6 +2030,10 @@ terms:
     expanded_form: Practical Extraction and Reporting Language
     categories:
       - programming language
+  Persian:
+    categories:
+      - language
+      - Iran
   PGP:
     expanded_form: Pretty Good Privacy
     categories:
@@ -1641,6 +2042,10 @@ terms:
   PhantomJS:
     categories:
       - web scraping
+  Philippines:
+    categories:
+      - country
+      - Asia
   PHing:
     categories:
       - build automation
@@ -1672,10 +2077,25 @@ terms:
     categories:
       - package manager
       - JavaScript
+  Poland:
+    categories:
+      - country
+      - Europe
+  Polish:
+    categories:
+      - language
+      - Poland
   POP3:
     expanded_form: Post Office Protocol 3
     categories:
       - email
+  Portugal:
+    categories:
+      - country
+      - Europe
+  Portuguese:
+    categories:
+      - language
   POSIX:
     expanded_form: Portable Operating System Interface
     categories:
@@ -1820,6 +2240,15 @@ terms:
   RocketMQ:
     categories:
       - messaging
+  Romania:
+    categories:
+      - country
+      - Europe
+  Romanian:
+    plural: Romanians
+    categories:
+      - nationality
+      - language
   ROT13:
     expanded_form: Rotate by 13 places
     categories:
@@ -1844,6 +2273,16 @@ terms:
   Ruby on Rails:
     categories:
       - web framework
+  Russia:
+    categories:
+      - country
+      - Europe
+  Russian:
+    plural: Russians
+    categories:
+      - language
+      - demonym
+      - nationality
   Rust:
     categories:
       - programming language
@@ -1881,9 +2320,29 @@ terms:
     expanded_form: Serial Advanced Technology Attachment
     categories:
       - hardware
+  Saudi Arabia:
+    categories:
+      - country
+      - Asia
   Scala:
     categories:
       - programming language
+  Schengen Area:
+    categories:
+      - agreement
+      - region
+      - Europe
+      - organization
+  Scotland:
+    categories:
+      - country
+      - Europe
+  Scottish:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Scotland
   SCSS:
     expanded_form: Sassy CSS
     categories:
@@ -1928,6 +2387,16 @@ terms:
     categories:
       - marketing
       - web
+  Serbia:
+    categories:
+      - country
+      - Europe
+  Serbian:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Serbia
   SFDC:
     expanded_form: Salesforce.com
     categories:
@@ -1947,6 +2416,24 @@ terms:
     categories:
       - communication
       - software
+  Slovak:
+    categories:
+      - language
+      - Slovakia
+  Slovakia:
+    categories:
+      - country
+      - Europe
+  Slovenia:
+    categories:
+      - country
+      - Europe
+  Slovenian:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Slovenia
   SMTP:
     expanded_form: Simple Mail Transfer Protocol
     categories:
@@ -1983,6 +2470,14 @@ terms:
       - software
       - collaboration
       - version control
+  South Korea:
+    categories:
+      - country
+      - Asia
+  Spanish:
+    categories:
+      - language
+      - nationality
   SphinxDoc:
     categories:
       - documentation
@@ -2073,16 +2568,48 @@ terms:
   Swagger:
     categories:
       - API documentation
+  Swahili:
+    categories:
+      - language
+      - Tanzania
   SwayWM:
     categories:
       - window manager
+  Sweden:
+    categories:
+      - country
+      - Europe
+      - Scandinavia
+  Swedish:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Sweden
   Swift:
     categories:
       - programming language
+  Switzerland:
+    categories:
+      - country
+      - Europe
   Symfony:
     categories:
       - software
       - PHP
+  Tagalog:
+    categories:
+      - language
+      - Philippines
+  Tamil:
+    categories:
+      - language
+      - India
+      - Sri Lanka
+  Tanzania:
+    categories:
+      - country
+      - Africa
   Tcl:
     expanded_form: Tool Command Language
     categories:
@@ -2102,6 +2629,13 @@ terms:
   Tesla:
     categories:
       - automotive
+  Thai:
+    categories:
+      - language
+      - Thailand
+  Thailand:
+    categories:
+      - country
   Thunderbird:
     categories:
       - email
@@ -2166,6 +2700,13 @@ terms:
     expanded_form: Text User Interface
     categories:
       - user interface
+  Turkey:
+    categories:
+      - country
+  Turkish:
+    categories:
+      - language
+      - Türkiye
   TV:
     expanded_form: Television
     categories:
@@ -2180,6 +2721,13 @@ terms:
   TypeScript:
     categories:
       - programming language
+  Türkiye:
+    categories:
+      - country
+  UAE:
+    expanded_form: United Arab Emirates
+    categories:
+      - country
   Uber:
     categories:
       - transportation
@@ -2210,6 +2758,19 @@ terms:
     expanded_form: User Interface
     categories:
       - user interface
+  UK:
+    expanded_form: United Kingdom
+    categories:
+      - country code
+  Ukraine:
+    categories:
+      - country
+      - Europe
+  Ukrainian:
+    plural: Ukrainians
+    categories:
+      - language
+      - Ukraine
   UML:
     expanded_form: Unified Modeling Language
     categories:
@@ -2217,6 +2778,13 @@ terms:
   Unicode:
     categories:
       - encoding
+  United Arab Emirates:
+    categories:
+      - country
+  United Kingdom:
+    categories:
+      - country
+      - Europe
   Unix:
     categories:
       - operating system
@@ -2225,6 +2793,10 @@ terms:
     categories:
       - networking
       - protocol
+  Urdu:
+    categories:
+      - language
+      - Pakistan
   URI:
     expanded_form: Uniform Resource Identifier
     plural: URIs
@@ -2235,6 +2807,11 @@ terms:
     plural: URLs
     categories:
       - web
+  USA:
+    expanded_form: United States of America
+    categories:
+      - country code
+      - North America
   USB:
     expanded_form: Universal Serial Bus
     categories:
@@ -2273,6 +2850,14 @@ terms:
     expanded_form: User Experience
     categories:
       - user interface
+  Uzbek:
+    categories:
+      - language
+      - Uzbekistan
+  Uzbekistan:
+    categories:
+      - country
+      - Asia
   Vagrant:
     categories:
       - virtualization
@@ -2301,6 +2886,14 @@ terms:
     categories:
       - multimedia
       - video
+  Vietnam:
+    categories:
+      - country
+      - Asia
+  Vietnamese:
+    categories:
+      - language
+      - Vietnam
   Vim:
     categories:
       - text editor
@@ -2358,6 +2951,10 @@ terms:
     categories:
       - web development
       - website
+  Wales:
+    categories:
+      - country
+      - Europe
   WAMP:
     expanded_form: Windows, Apache, MySQL, PHP
     categories:
@@ -2398,6 +2995,10 @@ terms:
   Weibo:
     categories:
       - social network
+  Welsh:
+    categories:
+      - language
+      - Wales
   WhatsApp:
     categories:
       - communication
