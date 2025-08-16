@@ -52,6 +52,7 @@ terms:
   Alpine:
     categories:
       - operating system
+      - Linux distribution
   Altassian:
     categories:
       - software
@@ -208,6 +209,7 @@ terms:
     expanded_form: Community ENTerprise Operating System
     categories:
       - operating system
+      - Linux distribution
   CERT:
     expanded_form: Computer Emergency Response Team
     categories:
@@ -215,9 +217,11 @@ terms:
   ChatGPT:
     categories:
       - artificial intelligence
+      - LLM
   Chinese:
     categories:
       - language
+      - China
   Chrome:
     disambiguation:
       - Chrome (the chemical element)
@@ -280,6 +284,7 @@ terms:
   CoreOS:
     categories:
       - operating system
+      - Linux distribution
   CORS:
     expanded_form: Cross-Origin Resource Sharing
     categories:
@@ -353,7 +358,7 @@ terms:
     expanded_form: Database Administrator
     plural: DBAs
     categories:
-      - jobs
+      - job role
       - database
   DBus:
     expanded_form: Desktop Bus
@@ -367,6 +372,7 @@ terms:
   Debian:
     categories:
       - operating system
+      - Linux distribution
   Deezer:
     categories:
       - music
@@ -376,12 +382,12 @@ terms:
   DevOps:
     categories:
       - software development
-      - jobs
+      - job role
   DevSecOps:
     categories:
       - software development
       - security
-      - jobs
+      - job role
   Dgraph:
     categories:
       - database
@@ -491,7 +497,7 @@ terms:
   Elixir:
     disambiguation:
       - Elixir (the programming language)
-      - Elixir (the potion)
+      - elixir (the potion)
     categories:
       - programming language
   EMEA:
@@ -520,7 +526,7 @@ terms:
     expanded_form: ECMAScript Lint
     categories:
       - linting
-      - javascript
+      - JavaScript
   ESSID:
     expanded_form: Extended Service Set Identifier
     categories:
@@ -620,6 +626,7 @@ terms:
       - language
       - demonym
       - nationality
+      - France
   FTP:
     expanded_form: File Transfer Protocol
     categories:
@@ -644,7 +651,9 @@ terms:
       - data format
   Gherkin:
     categories:
-      - language
+      - programming language
+      - behavior-driven development
+      - testing
   GHz:
     expanded_form: Gigahertz
     categories:
@@ -665,9 +674,11 @@ terms:
   GitLab:
     categories:
       - software
+      - version control
   GitLab CI:
     categories:
       - continuous integration
+      - GitLab
   GlassFish:
     categories:
       - web server
@@ -740,6 +751,7 @@ terms:
   Greek:
     categories:
       - language
+      - Greece
   Groovy:
     categories:
       - programming language
@@ -900,7 +912,7 @@ terms:
       - database
   Insomnia:
     disambiguation:
-      - Insomnia (the sleep disorder)
+      - insomnia (the sleep disorder)
     categories:
       - software
   Instagram:
@@ -957,6 +969,7 @@ terms:
     expanded_form: International Organization for Standardization
     categories:
       - organization
+      - standard
   IST:
     expanded_form: Indian Standard Time
     categories:
@@ -1035,6 +1048,7 @@ terms:
     categories:
       - security
       - authentication
+      - authorization
   Kafka:
     disambiguation:
       - Kafka (the author)
@@ -1177,7 +1191,7 @@ terms:
     expanded_form: Machine Learning Operations
     categories:
       - machine learning
-      - jobs
+      - job role
   MochaJS:
     categories:
       - testing
@@ -1187,7 +1201,7 @@ terms:
   Moment.js:
     categories:
       - date
-      - javascript library
+      - JavaScript library
   Mongo:
     categories:
       - database
@@ -1229,6 +1243,8 @@ terms:
       - architecture
   MVP:
     expanded_form: Minimum Viable Product
+    categories:
+      - product development
   MyRocks:
     categories:
       - database
@@ -1323,71 +1339,162 @@ terms:
       - financial
   OAuth:
     expanded_form: Open Authorization
+    categories:
+      - authentication
+      - identity
+      - authorization
   OAuth 2.0:
+    expanded_form: Open Authorization 2.0
+    categories:
+      - authentication
+      - identity
+      - authorization
   Objective-C:
+    categories:
+      - programming language
   OCR:
     expanded_form: Optical Character Recognition
+    categories:
+      - computer vision
   OIDC:
     expanded_form: OpenID Connect
+    categories:
+      - authentication
   OK:
     expanded_form: Zero Kill (originally a military term)
+    categories:
+      - general
   OLAP:
     expanded_form: Online Analytical Processing
+    categories:
+      - database
   OLTP:
     expanded_form: Online Transaction Processing
+    categories:
+      - database
   OOM:
     expanded_form: Out Of Memory
+    categories:
+      - programming
   OpenAI:
     expanded_form: Open Artificial Intelligence
+    categories:
+      - artificial intelligence
   OpenAPI:
     expanded_form: Open Application Programming Interface
+    categories:
+      - api
+      - web development
   OpenBSD:
     expanded_form: Open Berkeley Software Distribution
+    categories:
+      - operating system
   OpenCart:
+    categories:
+      - e-commerce
   OpenCensus:
+    categories:
+      - observability
   OpenCollective:
+    categories:
+      - funding
   OpenGL:
     expanded_form: Open Graphics Library
+    categories:
+      - graphics
   OpenID:
     expanded_form: Open Identity
+    categories:
+      - authentication
   OpenJDK:
     expanded_form: Open Java Development Kit
+    categories:
+      - programming
   OpenMetrics:
+    categories:
+      - observability
   OpenOffice:
+    categories:
+      - office suite
   OpenPGP:
     expanded_form: Open Pretty Good Privacy
+    categories:
+      - encryption
   OpenSearch:
+    categories:
+      - search
   OpenShift:
+    categories:
+      - container
+      - orchestration
   OpenSolaris:
+    categories:
+      - operating system
   OpenSSH:
     expanded_form: Open Secure Shell
+    categories:
+      - networking
+      - security
   OpenSSL:
     expanded_form: Open Secure Sockets Layer
+    categories:
+      - networking
+      - security
   OpenStack:
+    categories:
+      - cloud
+      - orchestration
   openSUSE:
     expanded_form: Open Software und System-Entwicklung
+    categories:
+      - operating system
   OpenTelemetry:
+    categories:
+      - observability
   OpenTSDB:
     expanded_form: Open Time Series Database
+    categories:
+      - database
   OpenVPN:
     expanded_form: Open Virtual Private Network
+    categories:
+      - networking
   OpenVSX:
+    categories:
+      - marketplace
   OpenVZ:
+    categories:
+      - virtualization
   Oracle:
     disambiguation:
-      - Oracle (the company)
-      - Oracle (Greek mythology)
+      - oracle (divination)
+    categories:
+      - database
+      - company
   ORM:
     expanded_form: Object-Relational Mapping
+    categories:
+      - database
   OSM:
     expanded_form: OpenStreetMap
+    categories:
+      - mapping
   OSS:
     expanded_form: Open Source Software
+    categories:
+      - software
   OTel:
     expanded_form: OpenTelemetry
+    categories:
+      - observability
   OTLP:
     expanded_form: OpenTelemetry Protocol
+    categories:
+      - observability
   OVH:
+    categories:
+      - cloud
+      - hosting
   OWASP:
     expanded_form: Open Web Application Security Project
     categories:
@@ -1395,8 +1502,12 @@ terms:
       - security
   P2P:
     expanded_form: Peer-to-Peer
+    categories:
+      - networking
   PaaS:
     expanded_form: Platform as a Service
+    categories:
+      - cloud computing
   Parcel:
   PascalCase:
     categories:
@@ -1406,44 +1517,83 @@ terms:
       - payment
   PCRE:
     expanded_form: Perl Compatible Regular Expressions
+    categories:
+      - programming language
   PCRE1:
     expanded_form: Perl Compatible Regular Expressions version 1
+    categories:
+      - programming language
   PCRE2:
     expanded_form: Perl Compatible Regular Expressions version 2
+    categories:
+      - programming language
   PCT:
     expanded_form: Pacific Time
+    categories:
+      - timezone
   PDF:
     expanded_form: Portable Document Format
+    categories:
+      - document
+      - file format
   Percona:
+    categories:
+      - company
+      - database
   Perl:
     expanded_form: Practical Extraction and Reporting Language
+    categories:
+      - programming language
   PGP:
     expanded_form: Pretty Good Privacy
+    categories:
+      - encryption
+      - security
   PhantomJS:
+    categories:
+      - web scraping
   PHing:
+    categories:
+      - build automation
   PHP:
     expanded_form: PHP Hypertext Preprocessor
+    categories:
+      - programming language
   Pinterest:
+    categories:
+      - social media
+      - image sharing
   PIPL:
     expanded_form: Personal Information Protection Law
     categories:
       - regulation
   'PKCS #12':
     expanded_form: Public-Key Cryptography Standards
+    categories:
+      - encryption
   PlayStation:
+    categories:
+      - gaming
   PNG:
     expanded_form: Portable Network Graphics
     categories:
       - image format
       - file extension
   pnpm:
+    categories:
+      - package manager
+      - JavaScript
   POP3:
     expanded_form: Post Office Protocol 3
     categories:
       - email
   POSIX:
     expanded_form: Portable Operating System Interface
+    categories:
+      - standard
   Postgres:
+    categories:
+      - database
   PostgreSQL:
     categories:
       - database
@@ -1457,9 +1607,14 @@ terms:
   Prettier:
     disambiguation:
       - prettier (the adjective)
+    categories:
+      - code formatting
   Prometheus:
     disambiguation:
       - Prometheus (the Greek mythological figure)
+    categories:
+      - monitoring
+      - observability
   PubSub:
     expanded_form: Publish-Subscribe
     categories:
@@ -1478,18 +1633,28 @@ terms:
     categories:
       - security
   PyCharm:
+    categories:
+      - IDE
+      - Python
   PyPI:
     expanded_form: Python Package Index
   Python:
     categories:
       - programming language
     disambiguation:
-      - Python (the snake)
+      - python (the snake)
   PyTorch:
+    categories:
+      - machine learning
+      - deep learning
   PyYAML:
     expanded_form: Python YAML
+    categories:
+      - data serialization
   QoS:
     expanded_form: Quality of Service
+    categories:
+      - networking
   R:
     categories:
       - programming language
@@ -1507,133 +1672,287 @@ terms:
       - hardware
   React:
     disambiguation:
-      - React (the verb)
+      - react (the verb)
+    categories:
+      - web framework
+      - JavaScript
   Red Hat:
+    categories:
+      - company
+      - operating system
+      - Linux distribution
   Reddit:
+    categories:
+      - social media
   Redis:
+    categories:
+      - database
   Redux:
+    categories:
+      - state management
   RefluxJS:
   ReiserFS:
+    expanded_form: Reiser File System
+    categories:
+      - file system
   RequireJS:
+    categories:
+      - JavaScript
+      - module loader
   RESTful:
     categories:
       - architectural style
   reStructuredText:
+    categories:
+      - markup language
+      - documentation
   RFC:
     expanded_form: Request for Comments
+    categories:
+      - document
   RGB:
     expanded_form: Red Green Blue
+    categories:
+      - color
   RGBA:
     expanded_form: Red Green Blue Alpha
+    categories:
+      - color
   RHEL:
     expanded_form: Red Hat Enterprise Linux
+    categories:
+      - operating system
   RocketMQ:
+    categories:
+      - messaging
   ROT13:
     expanded_form: Rotate by 13 places
     categories:
       - obfuscation
   RPC:
     expanded_form: Remote Procedure Call
+    categories:
+      - network
   RSA:
     expanded_form: Rivest–Shamir–Adleman
     categories:
       - cryptography
   RSS:
     expanded_form: Really Simple Syndication
+    categories:
+      - communication
   Ruby:
     disambiguation:
-      - Ruby (the gemstone)
+      - ruby (the gemstone)
     categories:
       - programming language
   Ruby on Rails:
+    categories:
+      - web framework
   Rust:
     categories:
       - programming language
     disambiguation:
-      - Rust (the corroded metal)
+      - rust (the corroded metal)
   Rustup:
+    categories:
+      - software
   SaaS:
     expanded_form: Software as a Service
+    categories:
+      - deployment model
   Salesforce:
+    categories:
+      - software
   Samba:
     disambiguation:
       - Samba (the music genre)
+    categories:
+      - software
+      - networking
   SAML:
     expanded_form: Security Assertion Markup Language
     categories:
       - authentication
   SASL:
     expanded_form: Simple Authentication and Security Layer
+    categories:
+      - authentication
   Sass:
     expanded_form: Syntactically Awesome Style Sheets
+    categories:
+      - styling
   SATA:
     expanded_form: Serial Advanced Technology Attachment
+    categories:
+      - hardware
   Scala:
+    categories:
+      - programming language
   SCSS:
     expanded_form: Sassy CSS
+    categories:
+      - styling
   ScyllaDB:
+    categories:
+      - database
   SDHC:
     expanded_form: Secure Digital High Capacity
+    categories:
+      - hardware
   SDK:
     expanded_form: Software Development Kit
+    categories:
+      - software
   SDUC:
     expanded_form: Secure Digital Ultra Capacity
+    categories:
+      - hardware
   SDXC:
     expanded_form: Secure Digital eXtended Capacity
+    categories:
+      - hardware
   Selenium:
     disambiguation:
       - Selenium (the chemical element)
+    categories:
+      - software
+      - testing
   SELinux:
     expanded_form: Security-Enhanced Linux
+    categories:
+      - security
+      - Linux
   SemVer:
+    expanded_form: Semantic Versioning
+    categories:
+      - versioning
+      - standard
   SEO:
     expanded_form: Search Engine Optimization
+    categories:
+      - marketing
+      - web
   SFDC:
     expanded_form: Salesforce.com
+    categories:
+      - software
   SFTP:
     expanded_form: Secure File Transfer Protocol
+    categories:
+      - networking
+      - file transfer
   SLA:
+    plural: SLAs
     expanded_form: Service Level Agreement
+    categories:
+      - business
+      - document
   Slack:
     categories:
       - communication
       - software
   SMTP:
     expanded_form: Simple Mail Transfer Protocol
+    categories:
+      - networking
+      - email
   SOAP:
     expanded_form: Simple Object Access Protocol
+    categories:
+      - web services
   Solaris:
+    categories:
+      - operating system
   SolidJS:
+    categories:
+      - JavaScript
   Solr:
+    categories:
+      - search
   SonarQube:
+    categories:
+      - software
+      - monitoring
   SOQL:
     expanded_form: Salesforce Object Query Language
+    categories:
+      - database
+      - query language
   SoundCloud:
+    categories:
+      - audio
+      - music
   SourceForge:
+    categories:
+      - software
+      - collaboration
+      - version control
   SphinxDoc:
+    categories:
+      - documentation
   Spotify:
+    categories:
+      - audio
+      - music
   SQL:
     expanded_form: Structured Query Language
+    categories:
+      - database
+      - query language
   SQLAlchemy:
+    categories:
+      - software
   SQLite:
+    categories:
+      - database
   SQLite3:
+    categories:
+      - database
   SQLServer:
+    categories:
+      - database
   SRE:
     expanded_form: Site Reliability Engineer
     plural: SREs
+    categories:
+      - job role
   SSD:
     expanded_form: Solid State Drive
+    categories:
+      - storage
+      - hardware
   SSH:
     expanded_form: Secure Shell
+    categories:
+      - networking
+      - security
   SSID:
     expanded_form: Service Set Identifier
+    categories:
+      - networking
+      - wireless
   SSL:
     expanded_form: Secure Sockets Layer
+    categories:
+      - networking
+      - security
   SSO:
     expanded_form: Single Sign-On
+    categories:
+      - security
+      - identity
   Stack Exchange:
+    categories:
+      - community
+      - Q&A
   Stack Overflow:
+    categories:
+      - community
+      - Q&A
   StandardJS:
+    categories:
+      - software
   Sublime Text:
     categories:
       - text editor
@@ -1657,14 +1976,34 @@ terms:
     categories:
       - version control
   Swagger:
+    categories:
+      - API documentation
   SwayWM:
+    categories:
+      - window manager
   Swift:
+    categories:
+      - programming language
   Symfony:
+    categories:
+      - software
+      - PHP
   Tcl:
+    expanded_form: Tool Command Language
+    categories:
+      - programming language
   TCP:
     expanded_form: Transmission Control Protocol
+    categories:
+      - networking
   TensorFlow:
+    categories:
+      - machine learning
+      - software
   Terraform:
+    categories:
+      - infrastructure as code
+      - software
   Tesla:
     categories:
       - automotive
@@ -1685,6 +2024,8 @@ terms:
       - security
   ToC:
     expanded_form: Table of Contents
+    categories:
+      - documentation
   TOML:
     expanded_form: Tom's Obvious, Minimal Language
     categories:
@@ -1724,10 +2065,16 @@ terms:
       - caching
   TTY:
     expanded_form: Teletypewriter
+    categories:
+      - terminal
   TUI:
     expanded_form: Text User Interface
+    categories:
+      - user interface
   TV:
     expanded_form: Television
+    categories:
+      - media
   tvOS:
     expanded_form: Television Operating System
     categories:
@@ -1744,15 +2091,24 @@ terms:
   Ubuntu:
     categories:
       - operating system
+      - Linux distribution
   UbuntuCE:
+    categories:
+      - operating system
+      - Linux distribution
+      - Ubuntu variant
   UDP:
     expanded_form: User Datagram Protocol
+    categories:
+      - networking
   UEFI:
     expanded_form: Unified Extensible Firmware Interface
     categories:
       - firmware
   UI:
     expanded_form: User Interface
+    categories:
+      - user interface
   UML:
     expanded_form: Unified Modeling Language
     categories:
@@ -1765,19 +2121,36 @@ terms:
       - operating system
   UPnP:
     expanded_form: Universal Plug and Play
+    categories:
+      - networking
+      - protocol
   URI:
     expanded_form: Uniform Resource Identifier
     plural: URIs
+    categories:
+      - web
   URL:
     expanded_form: Uniform Resource Locator
     plural: URLs
+    categories:
+      - web
   USB:
     expanded_form: Universal Serial Bus
+    categories:
+      - hardware
   USB Type-A:
+    categories:
+      - hardware
   USB Type-B:
+    categories:
+      - hardware
   USB Type-C:
+    categories:
+      - hardware
   UTC:
     expanded_form: Coordinated Universal Time
+    categories:
+      - timezone
   UTF-16:
     expanded_form: Unicode Transformation Format 16-bit
     categories:
@@ -1789,8 +2162,12 @@ terms:
   UUID:
     expanded_form: Universally Unique Identifier
     plural: UUIDs
+    categories:
+      - identifier
   UX:
     expanded_form: User Experience
+    categories:
+      - user interface
   Vagrant:
     categories:
       - virtualization
@@ -1810,8 +2187,15 @@ terms:
       - software development
       - version control
   Vercel:
+    categories:
+      - cloud platform
   Verizon:
+    categories:
+      - telecommunications
   VideoLAN:
+    categories:
+      - multimedia
+      - video
   Vim:
     categories:
       - text editor
@@ -1822,6 +2206,8 @@ terms:
     categories:
       - code editor
   VKontakte:
+    categories:
+      - social network
   VLAN:
     expanded_form: Virtual Local Area Network
     categories:
@@ -1853,22 +2239,34 @@ terms:
     categories:
       - code editor
   vSphere:
+    categories:
+      - virtualization
   W3C:
     expanded_form: World Wide Web Consortium
+    categories:
+      - web
   W3M:
     expanded_form: World Wide Web for Unix
+    categories:
+      - web
   W3Schools:
     categories:
       - web development
       - website
   WAMP:
     expanded_form: Windows, Apache, MySQL, PHP
+    categories:
+      - software stack
   Wasm:
     expanded_form: WebAssembly
+    categories:
+      - web
   watchOS:
     categories:
       - operating system
   WebAssembly:
+    categories:
+      - web
   WebDAV:
     expanded_form: Web Distributed Authoring and Versioning
     categories:
@@ -1877,28 +2275,52 @@ terms:
     categories:
       - browser engine
   Webpack:
+    categories:
+      - module bundler
   WebRTC:
+    categories:
+      - communication
   WebSocket:
     plural: WebSockets
+    categories:
+      - protocol
   WebStorm:
+    categories:
+      - IDE
   WeChat:
+    categories:
+      - social network
   Weibo:
+    categories:
+      - social network
   WhatsApp:
     categories:
       - communication
+      - software
   Wi-Fi:
     expanded_form: Wireless Fidelity
+    categories:
+      - networking
   Wikibase:
+    categories:
+      - knowledge base
   Wikidata:
+    categories:
+      - knowledge base
   Wikipedia:
     categories:
       - encyclopedia
   Wikitext:
+    categories:
+      - markup language
   Windows:
     categories:
       - operating system
   WMA:
     expanded_form: Windows Media Audio
+    categories:
+      - audio
+      - file format
   WordPress:
     categories:
       - content management system
@@ -1909,44 +2331,90 @@ terms:
       - virtualization
   WWDC:
     expanded_form: Worldwide Developers Conference
+    categories:
+      - conference
+      - web
   X:
     categories:
       - social network
   X.509:
     expanded_form: ITU-T X.509 standard for public key certificates
+    categories:
+      - security
   XAMPP:
     expanded_form: Cross-Platform, Apache, MySQL, PHP, Perl
+    categories:
+      - software stack
   Xcode:
+    categories:
+      - IDE
   XDG:
     expanded_form: X Desktop Group
+    categories:
+      - standard
   XFCE:
     expanded_form: XForms Common Environment
     categories:
       - desktop environment
   XFS:
     expanded_form: X File System
+    categories:
+      - file system
   XHTML:
     expanded_form: Extensible HyperText Markup Language
+    categories:
+      - markup language
   XML:
     expanded_form: Extensible Markup Language
+    categories:
+      - markup language
   XMLHttpRequest:
+    categories:
+      - web
+      - API
   XSL:
     expanded_form: Extensible Stylesheet Language
+    categories:
+      - markup language
   XSLT:
     expanded_form: Extensible Stylesheet Language Transformations
+    categories:
+      - markup language
   XSS:
     expanded_form: Cross-Site Scripting
+    categories:
+      - security
   XtraBackup:
+    categories:
+      - backup
   YAML:
     expanded_form: YAML Ain't Markup Language
+    categories:
+      - markup language
   Yarn:
+    categories:
+      - package manager
   YML:
     expanded_form: YAML Markup Language
+    categories:
+      - markup language
   YouTube:
+    categories:
+      - video
   ZFS:
     expanded_form: Zettabyte File System
+    categories:
+      - file system
   Zipkin:
+    categories:
+      - distributed tracing
   zlib:
+    categories:
+      - compression
   ZooKeeper:
+    categories:
+      - distributed systems
   Zsh:
     expanded_form: Z Shell
+    categories:
+      - shell
