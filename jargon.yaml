@@ -14,6 +14,12 @@ terms:
     expanded_form: Attribute-Based Access Control
     categories:
       - authentication
+  ABC:
+    expanded_form: American Broadcasting Company
+    disambiguation:
+      - ABC (the alphabet)
+    categories:
+      - media
   ACID:
     expanded_form: Atomicity, Consistency, Isolation, Durability
     disambiguation:
@@ -294,6 +300,10 @@ terms:
     categories:
       - shell
       - programming language
+  BBC:
+    expanded_form: British Broadcasting Corporation
+    categories:
+      - media
   BCP:
     expanded_form: Business Continuity Planning
     categories:
@@ -495,6 +505,10 @@ terms:
       - language
       - Spain
       - France
+  CBS:
+    expanded_form: Columbia Broadcasting System
+    categories:
+      - media
   CD-ROM:
     expanded_form: Compact Disc Read-Only Memory
     categories:
@@ -996,6 +1010,10 @@ terms:
     categories:
       - linting
       - JavaScript
+  ESPN:
+    categories:
+      - media
+      - sports
   ESSID:
     expanded_form: Extended Service Set Identifier
     categories:
@@ -1162,6 +1180,11 @@ terms:
     expanded_form: Free and Open Source Software
     categories:
       - software
+  Fox:
+    categories:
+      - media
+    disambiguation:
+      - fox (the animal)
   FQCN:
     expanded_form: Fully Qualified Class Name
     categories:
@@ -1426,6 +1449,10 @@ terms:
   HBase:
     categories:
       - database
+  HBO:
+    expanded_form: Home Box Office
+    categories:
+      - media
   HD DVD:
     categories:
       - hardware
@@ -2266,6 +2293,10 @@ terms:
     expanded_form: National Basketball Association
     categories:
       - sports
+  NBC:
+    expanded_form: National Broadcasting Company
+    categories:
+      - media
   NDJSON:
     expanded_form: Newline Delimited JSON
     categories:
