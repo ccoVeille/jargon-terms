@@ -19,6 +19,18 @@
                                 },
                                 "expanded_form": {
                                     "type": "string"
+                                },
+                                "categories": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string"
+                                    }
+                                },
+                                "disambiguation": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string"
+                                    }
                                 }
                             },
                             "additionalProperties": false
