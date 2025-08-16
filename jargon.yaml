@@ -440,6 +440,17 @@ terms:
     categories:
       - operating system
       - Linux distribution
+  CERN:
+    expanded_form: European Organization for Nuclear Research
+    categories:
+      - international
+      - organization
+      - energy
+      - research
+      - particle physics
+      - nuclear
+      - science
+      - Europe
   CERT:
     expanded_form: Computer Emergency Response Team
     categories:
@@ -916,6 +927,12 @@ terms:
     expanded_form: Entity Tag
     categories:
       - web development
+  EU:
+    expanded_form: European Union
+    categories:
+      - international
+      - organization
+      - Europe
   Europe:
     categories:
       - continent
@@ -960,6 +977,12 @@ terms:
     expanded_form: Fabbrica Italiana Automobili Torino
     categories:
       - automotive
+  FIBA:
+    expanded_form: Fédération Internationale de Basketball
+    categories:
+      - sports
+      - international
+      - organization
   FileZilla:
     categories:
       - software
@@ -1105,6 +1128,12 @@ terms:
     expanded_form: Gigahertz
     categories:
       - hardware
+  GIEC:
+    expanded_form: Groupe d'experts intergouvernemental sur l'évolution du climat
+    categories:
+      - international
+      - organization
+      - climate
   GIF:
     expanded_form: Graphics Interchange Format
     categories:
@@ -1400,6 +1429,17 @@ terms:
     plural: IDEs
     categories:
       - software
+  IEA:
+    expanded_form: International Energy Agency
+    categories:
+      - international
+      - organization
+      - energy
+  IEEE:
+    expanded_form: Institute of Electrical and Electronics Engineers
+    categories:
+      - standard
+      - organization
   IETF:
     expanded_form: Internet Engineering Task Force
     categories:
@@ -1419,6 +1459,12 @@ terms:
     expanded_form: Internet Message Access Protocol version 4
     categories:
       - protocol
+  IMF:
+    expanded_form: International Monetary Fund
+    categories:
+      - international
+      - organization
+      - financial
   IndexedDB:
     expanded_form: Indexed Database API
     categories:
@@ -2018,6 +2064,20 @@ terms:
     expanded_form: Not a Number
     categories:
       - programming
+  NASA:
+    expanded_form: National Aeronautics and Space Administration
+    categories:
+      - organization
+      - aerospace
+  NATO:
+    expanded_form: North Atlantic Treaty Organization
+    categories:
+      - international
+      - organization
+      - treaty
+      - military
+      - North America
+      - Europe
   NATS:
     expanded_form: Not Another Topic System
     categories:
@@ -3003,6 +3063,10 @@ terms:
   Swift:
     categories:
       - programming language
+  Swiss Army:
+    categories:
+      - military
+      - organization
   Switzerland:
     categories:
       - country
@@ -3190,6 +3254,11 @@ terms:
       - operating system
       - Linux distribution
       - Ubuntu variant
+  UCI:
+    expanded_form: Union Cycliste Internationale
+    categories:
+      - sports
+      - organization
   UDP:
     expanded_form: User Datagram Protocol
     categories:
@@ -3219,6 +3288,19 @@ terms:
     expanded_form: Unified Modeling Language
     categories:
       - modeling
+  UNESCO:
+    expanded_form: United Nations Educational, Scientific and Cultural Organization
+    categories:
+      - international
+      - organization
+      - cultural
+      - science
+  UNICEF:
+    expanded_form: United Nations International Children's Emergency Fund
+    categories:
+      - international
+      - organization
+      - humanitarian
   Unicode:
     categories:
       - encoding
@@ -3457,10 +3539,23 @@ terms:
     categories:
       - language
       - Wales
+  WFP:
+    expanded_form: World Food Programme
+    categories:
+      - international
+      - organization
+      - humanitarian
   WhatsApp:
     categories:
       - communication
       - software
+      - Meta Platforms, Inc.
+  WHO:
+    expanded_form: World Health Organization
+    categories:
+      - international
+      - organization
+      - health
   Wi-Fi:
     expanded_form: Wireless Fidelity
     categories:
@@ -3498,6 +3593,10 @@ terms:
     categories:
       - conference
       - web
+  WWF:
+    expanded_form: World Wide Fund for Nature
+    categories:
+      - organization
   X:
     categories:
       - social network
