@@ -39,6 +39,10 @@ terms:
     categories:
       - hardware
       - audio
+  AIX:
+    expanded_form: Advanced Interactive eXecutive
+    categories:
+      - operating system
   AJAX:
     expanded_form: Asynchronous JavaScript and XML
     categories:
@@ -139,6 +143,9 @@ terms:
     categories:
       - shell
       - programming language
+  BeOS:
+    categories:
+      - operating system
   Bitbucket:
     categories:
       - software
@@ -155,6 +162,10 @@ terms:
     expanded_form: Bayerische Motoren Werke
     categories:
       - automotive
+  Bodhi Linux:
+    categories:
+      - operating system
+      - Linux distribution
   Browserify:
     categories:
       - build tool
@@ -447,6 +458,9 @@ terms:
     expanded_form: Document Object Model
     categories:
       - web development
+  DOS:
+    categories:
+      - operating system
   DSA:
     expanded_form: Digital Signature Algorithm
     categories:
@@ -621,6 +635,9 @@ terms:
   freeCodeCamp:
     categories:
       - education
+  FreeDOS:
+    categories:
+      - operating system
   French:
     categories:
       - language
@@ -774,6 +791,9 @@ terms:
   Hadoop:
     categories:
       - data processing
+  Haiku:
+    categories:
+      - operating system
   HAProxy:
     expanded_form: High Availability Proxy
     categories:
@@ -818,6 +838,10 @@ terms:
   Homebrew:
     categories:
       - package management
+  HP-UX:
+    expanded_form: Hewlett Packard Unix
+    categories:
+      - operating system
   HSL:
     expanded_form: Hue, Saturation, Lightness
     categories:
@@ -961,6 +985,9 @@ terms:
     expanded_form: Internet Protocol version 6
     categories:
       - network
+  IRIX:
+    categories:
+      - operating system
   ISBN:
     expanded_form: International Standard Book Number
     categories:
@@ -1125,6 +1152,10 @@ terms:
   Linux:
     categories:
       - operating system
+  Linux Mint:
+    categories:
+      - operating system
+      - Linux distribution
   LLM:
     expanded_form: Large Language Model
     plural: LLMs
@@ -1147,6 +1178,11 @@ terms:
   Lua:
     categories:
       - programming language
+  Lubuntu:
+    categories:
+      - operating system
+      - Linux distribution
+      - Ubuntu variant
   MacBook:
     categories:
       - hardware
@@ -1180,6 +1216,12 @@ terms:
   Microsoft:
     categories:
       - company
+  Microsoft Windows:
+    categories:
+      - operating system
+  MINIX:
+    categories:
+      - operating system
   MirBSD:
     categories:
       - operating system
@@ -1651,6 +1693,9 @@ terms:
     expanded_form: Python YAML
     categories:
       - data serialization
+  QNX:
+    categories:
+      - operating system
   QoS:
     expanded_form: Quality of Service
     categories:
@@ -1676,6 +1721,9 @@ terms:
     categories:
       - web framework
       - JavaScript
+  ReactOS:
+    categories:
+      - operating system
   Red Hat:
     categories:
       - company
@@ -2092,6 +2140,12 @@ terms:
     categories:
       - operating system
       - Linux distribution
+  Ubuntu MATE:
+    categories:
+      - operating system
+      - Linux distribution
+      - desktop Environment
+      - Ubuntu flavor
   UbuntuCE:
     categories:
       - operating system
@@ -2164,6 +2218,10 @@ terms:
     plural: UUIDs
     categories:
       - identifier
+  UWP:
+    expanded_form: Universal Windows Platform
+    categories:
+      - operating system
   UX:
     expanded_form: User Experience
     categories:
@@ -2387,6 +2445,11 @@ terms:
   XtraBackup:
     categories:
       - backup
+  Xubuntu:
+    categories:
+      - operating system
+      - Linux distribution
+      - Ubuntu variant
   YAML:
     expanded_form: YAML Ain't Markup Language
     categories:
