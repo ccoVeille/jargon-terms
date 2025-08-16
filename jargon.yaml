@@ -157,6 +157,10 @@ terms:
   Apache OpenNLP:
     categories:
       - natural language processing
+  APFS:
+    expanded_form: Apple File System
+    categories:
+      - file system
   API:
     expanded_form: Application Programming Interface
     plural: APIs
@@ -999,15 +1003,28 @@ terms:
     expanded_form: Extended File Allocation Table
     categories:
       - file system
+  ext2:
+    categories:
+      - file system
   Ext3:
+    categories:
+      - file system
+  ext3:
     categories:
       - file system
   Ext4:
     categories:
       - file system
+  ext4:
+    categories:
+      - file system
   F#:
     categories:
       - programming language
+  F2FS:
+    expanded_form: Flash-Friendly File System
+    categories:
+      - file system
   FaaS:
     expanded_form: Function as a Service
     categories:
@@ -1024,6 +1041,14 @@ terms:
   Fastly:
     categories:
       - cloud
+  FAT:
+    expanded_form: File Allocation Table
+    categories:
+      - file system
+  FAT16:
+    expanded_form: File Allocation Table 16
+    categories:
+      - file system
   FAT32:
     expanded_form: File Allocation Table 32
     categories:
@@ -1384,6 +1409,14 @@ terms:
   Heroku:
     categories:
       - cloud
+  HFS:
+    expanded_form: Hierarchical File System
+    categories:
+      - file system
+  HFS+:
+    expanded_form: Hierarchical File System Plus
+    categories:
+      - file system
   Hindi:
     categories:
       - language
@@ -1689,17 +1722,32 @@ terms:
   Jenkins:
     categories:
       - continuous integration
+  Jenkinsfile:
+    categories:
+      - configuration file
+      - Jenkins
   JetBrains:
     categories:
       - company
   JetStream:
     categories:
       - messaging
+  JFS:
+    expanded_form: Journaled File System
+    categories:
+      - file system
   Jira:
     categories:
       - software
       - project management
       - bug tracking
+      - Atlassian
+  JPEG:
+    expanded_form: Joint Photographic Experts Group
+    categories:
+      - image format
+      - compression
+      - file extension
   jQuery:
     categories:
       - web framework
@@ -2207,6 +2255,10 @@ terms:
     expanded_form: Not Invented Here
     categories:
       - software development
+  NILFS:
+    expanded_form: New Implementation of a Log-structured File System
+    categories:
+      - file system
   Nissan:
     categories:
       - automotive
@@ -2714,6 +2766,10 @@ terms:
     categories:
       - state management
   RefluxJS:
+  ReFS:
+    expanded_form: Resilient File System
+    categories:
+      - file system
   ReiserFS:
     expanded_form: Reiser File System
     categories:
@@ -3352,6 +3408,10 @@ terms:
     expanded_form: Unified Extensible Firmware Interface
     categories:
       - firmware
+  UFS:
+    expanded_form: Unix File System
+    categories:
+      - file system
   UI:
     expanded_form: User Interface
     categories:
