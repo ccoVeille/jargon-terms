@@ -5,6 +5,13 @@ terms:
     expanded_form: Triple Data Encryption Standard
     categories:
       - cryptography
+  ACID:
+    expanded_form: Atomicity, Consistency, Isolation, Durability
+    disambiguation:
+      - acid (chemical)
+    categories:
+      - database
+      - data storage
   ACL:
     expanded_form: Access Control List
     plural: ACLs
@@ -76,6 +83,9 @@ terms:
   Amazon:
     categories:
       - company
+  Amazon DynamoDB:
+    categories:
+      - database
   AMQP:
     expanded_form: Advanced Message Queuing Protocol
     categories:
@@ -101,6 +111,15 @@ terms:
       - Apache (the Native American tribe)
     categories:
       - software
+  Apache Cassandra:
+    categories:
+      - database
+  Apache CouchDB:
+    categories:
+      - database
+  Apache OpenNLP:
+    categories:
+      - natural language processing
   API:
     expanded_form: Application Programming Interface
     plural: APIs
@@ -159,6 +178,11 @@ terms:
   Audi:
     categories:
       - automotive
+  Aurora:
+    disambiguation:
+      - aurora (Northern light)
+    categories:
+      - database
   Australia:
     categories:
       - country
@@ -210,6 +234,12 @@ terms:
   BeOS:
     categories:
       - operating system
+  Berkeley DB:
+    categories:
+      - database
+  BigQuery:
+    categories:
+      - database
   Bitbucket:
     categories:
       - software
@@ -335,6 +365,9 @@ terms:
       - demonym
       - language
       - Canada
+  Caspio:
+    categories:
+      - database
   Cassandra:
     categories:
       - database
@@ -566,11 +599,21 @@ terms:
       - dart (the game)
     categories:
       - programming language
+  DB2:
+    categories:
+      - database
   DBA:
     expanded_form: Database Administrator
     plural: DBAs
     categories:
       - job role
+      - database
+  dBASE:
+    categories:
+      - database
+  DBMS:
+    expanded_form: Database Management System
+    categories:
       - database
   DBus:
     expanded_form: Desktop Bus
@@ -855,9 +898,15 @@ terms:
   Firebase:
     categories:
       - cloud
+  Firebird:
+    categories:
+      - database
   Firefox:
     categories:
       - browser
+  Firestore:
+    categories:
+      - database
   Flickr:
     categories:
       - photo
@@ -1298,6 +1347,12 @@ terms:
     expanded_form: Influx Database
     categories:
       - database
+  Informix:
+    categories:
+      - database
+  Ingres:
+    categories:
+      - database
   Insomnia:
     disambiguation:
       - insomnia (the sleep disorder)
@@ -1311,7 +1366,10 @@ terms:
       - hardware
   IntelliJ:
     categories:
-      - ide
+      - IDE
+  InterBase:
+    categories:
+      - database
   IoC:
     expanded_form: Inversion of Control
     categories:
@@ -1725,6 +1783,9 @@ terms:
   Microsoft:
     categories:
       - company
+  Microsoft SQL Server:
+    categories:
+      - database
   Microsoft Windows:
     categories:
       - operating system
@@ -1819,6 +1880,9 @@ terms:
     expanded_form: Message Queuing Telemetry Transport
     categories:
       - messaging
+  MS Access:
+    categories:
+      - database
   MVC:
     expanded_form: Model-View-Controller
     categories:
@@ -1959,6 +2023,14 @@ terms:
     expanded_form: Optical Character Recognition
     categories:
       - computer vision
+  ODBC:
+    expanded_form: Open Database Connectivity
+    categories:
+      - database
+  ODM:
+    expanded_form: Object Document Mapper
+    categories:
+      - database
   OIDC:
     expanded_form: OpenID Connect
     categories:
@@ -2125,6 +2197,9 @@ terms:
     categories:
       - country
       - Asia
+  Paradox:
+    categories:
+      - database
   Parcel:
   PascalCase:
     categories:
@@ -2326,6 +2401,10 @@ terms:
     expanded_form: Random Access Memory
     categories:
       - hardware
+  RDS:
+    expanded_form: Amazon Relational Database Service
+    categories:
+      - database
   React:
     disambiguation:
       - react (the verb)
@@ -2763,6 +2842,10 @@ terms:
     categories:
       - country
       - Europe
+  Sybase:
+    categories:
+      - database
+      - SQL
   Symfony:
     categories:
       - software
