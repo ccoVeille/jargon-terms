@@ -110,9 +110,19 @@ terms:
   Amazon:
     categories:
       - company
+      - GAFAM
+  Amazon CloudFormation:
+    categories:
+      - cloud
+  Amazon CloudFront:
+    categories:
+      - cloud
   Amazon DynamoDB:
     categories:
       - database
+  Amazon S3:
+    categories:
+      - cloud
   AMQP:
     expanded_form: Advanced Message Queuing Protocol
     categories:
@@ -229,6 +239,21 @@ terms:
       - software
   AWS:
     expanded_form: Amazon Web Services
+    categories:
+      - cloud
+  AWS Amplify:
+    categories:
+      - cloud
+  AWS AppSync:
+    categories:
+      - cloud
+  AWS CloudTrail:
+    categories:
+      - cloud
+  AWS CodePipeline:
+    categories:
+      - cloud
+  AWS Lambda:
     categories:
       - cloud
   Azerbaijan:
@@ -868,6 +893,10 @@ terms:
     expanded_form: European Article Number
     categories:
       - standard
+  EC2:
+    expanded_form: Amazon Elastic Compute Cloud
+    categories:
+      - cloud
   ECMAScript:
     categories:
       - programming language
@@ -979,6 +1008,10 @@ terms:
   F#:
     categories:
       - programming language
+  FaaS:
+    expanded_form: Function as a Service
+    categories:
+      - cloud
   Facebook:
     categories:
       - social media
@@ -1222,6 +1255,17 @@ terms:
   Google:
     categories:
       - company
+  Google Cloud Functions:
+    categories:
+      - cloud
+      - Google
+  Google Cloud Platform:
+    categories:
+      - cloud
+      - Google
+  Google Drive:
+    categories:
+      - cloud
   Google Suite:
     categories:
       - software
@@ -1424,6 +1468,10 @@ terms:
     expanded_form: Internationalization (with 18 letters between I and n)
     categories:
       - localization
+  IaaS:
+    expanded_form: Infrastructure as a Service
+    categories:
+      - cloud
   IANA:
     expanded_form: Internet Assigned Numbers Authority
     categories:
