@@ -294,10 +294,22 @@ terms:
     categories:
       - shell
       - programming language
+  BCP:
+    expanded_form: Business Continuity Planning
+    categories:
+      - business
+      - document
+      - emergency management
   BDD:
     expanded_form: Behavior-Driven Development
     categories:
       - software development
+  BEAP:
+    expanded_form: Business Emergency Action Plan
+    categories:
+      - business
+      - document
+      - emergency management
   Belarus:
     categories:
       - country
@@ -865,6 +877,12 @@ terms:
     expanded_form: Denial of Service
     categories:
       - security
+  DRP:
+    expanded_form: Disaster Recovery Planning
+    categories:
+      - business
+      - document
+      - emergency management
   DRY:
     expanded_form: Don't Repeat Yourself
     disambiguation:
@@ -1712,6 +1730,12 @@ terms:
     categories:
       - country
       - Europe
+  ITCP:
+    expanded_form: Information Technology Contingency Planning
+    categories:
+      - business
+      - document
+      - emergency management
   iTunes:
     categories:
       - software
@@ -2834,6 +2858,16 @@ terms:
   RFC:
     expanded_form: Request for Comments
     categories:
+      - document
+  RFI:
+    expanded_form: Request for Information
+    categories:
+      - business
+      - document
+  RFP:
+    expanded_form: Request for Proposal
+    categories:
+      - business
       - document
   RGB:
     expanded_form: Red Green Blue
