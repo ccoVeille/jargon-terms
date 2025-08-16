@@ -122,6 +122,9 @@ terms:
   AsciiDoc:
     categories:
       - markup language
+  Assembly:
+    categories:
+      - programming language
   AST:
     expanded_form: Abstract Syntax Tree
     categories:
@@ -192,6 +195,12 @@ terms:
     categories:
       - file system
   C:
+    categories:
+      - programming language
+  C#:
+    categories:
+      - programming language
+  C++:
     categories:
       - programming language
   CalDAV:
@@ -319,6 +328,11 @@ terms:
     expanded_form: Create, Read, Update, Delete
     categories:
       - software development
+  Crystal:
+    disambiguation:
+      - crystal (the mineral)
+    categories:
+      - programming language
   CSON:
     expanded_form: CoffeeScript Object Notation
     categories:
@@ -355,6 +369,9 @@ terms:
   Cypress:
     categories:
       - testing
+  D:
+    categories:
+      - programming language
   DAB+:
     expanded_form: Digital Audio Broadcasting Plus
     categories:
@@ -365,6 +382,11 @@ terms:
   Dailymotion:
     categories:
       - video
+  Dart:
+    disambiguation:
+      - dart (the game)
+    categories:
+      - programming language
   DBA:
     expanded_form: Database Administrator
     plural: DBAs
@@ -569,6 +591,9 @@ terms:
   Ext4:
     categories:
       - file system
+  F#:
+    categories:
+      - programming language
   Facebook:
     categories:
       - social media
@@ -718,6 +743,9 @@ terms:
   GnuPG:
     categories:
       - cryptography
+  Go:
+    categories:
+      - programming language
   GoLand:
     categories:
       - ide
@@ -1136,6 +1164,21 @@ terms:
     expanded_form: Lightweight Directory Access Protocol
     categories:
       - directory service
+  Leet:
+    expanded_form: Leet Speak (or 1337)
+    disambiguation:
+      - Leet (the slang term)
+      - Leet (the programming language)
+    categories:
+      - programming language
+      - obfuscation
+  Leet Code:
+    categories:
+      - programming language
+  Leet Speak:
+    categories:
+      - programming language
+      - obfuscation
   LGPL:
     expanded_form: Lesser General Public License
     categories:
@@ -1416,6 +1459,10 @@ terms:
       - database
   OOM:
     expanded_form: Out Of Memory
+    categories:
+      - programming
+  OOP:
+    expanded_form: Object-Oriented Programming
     categories:
       - programming
   OpenAI:
