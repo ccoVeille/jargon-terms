@@ -57,6 +57,9 @@ terms:
   Akamai:
     categories:
       - cloud
+  Alfa Romeo:
+    categories:
+      - automotive
   Algeria:
     categories:
       - country
@@ -147,9 +150,15 @@ terms:
     expanded_form: Abstract Syntax Tree
     categories:
       - programming
+  Aston Martin:
+    categories:
+      - automotive
   Atlassian:
     categories:
       - company
+  Audi:
+    categories:
+      - automotive
   Australia:
     categories:
       - country
@@ -195,6 +204,9 @@ terms:
     categories:
       - language
       - Bangladesh
+  Bentley:
+    categories:
+      - automotive
   BeOS:
     categories:
       - operating system
@@ -279,6 +291,9 @@ terms:
   Btrfs:
     categories:
       - file system
+  Bugatti:
+    categories:
+      - automotive
   Bulgaria:
     categories:
       - country
@@ -299,6 +314,9 @@ terms:
   C++:
     categories:
       - programming language
+  Cadillac:
+    categories:
+      - automotive
   CalDAV:
     expanded_form: Calendaring Extensions to WebDAV
     categories:
@@ -350,6 +368,15 @@ terms:
     categories:
       - artificial intelligence
       - LLM
+  Chef:
+    disambiguation:
+      - Chef (the profession)
+    categories:
+      - configuration management
+      - automation
+  Chevrolet:
+    categories:
+      - automotive
   China:
     categories:
       - country
@@ -363,6 +390,9 @@ terms:
       - Chrome (the chemical element)
     categories:
       - browser
+  Chrysler:
+    categories:
+      - automotive
   CI:
     expanded_form: Continuous Integration
     categories:
@@ -374,6 +404,9 @@ terms:
   CircleCI:
     categories:
       - continuous integration
+  Citroën:
+    categories:
+      - automotive
   CLI:
     expanded_form: Command Line Interface
     plural: CLIs
@@ -515,6 +548,12 @@ terms:
   DAB/DAB+:
     categories:
       - hardware
+  Dacia:
+    categories:
+      - automotive
+  Daihatsu:
+    categories:
+      - automotive
   Dailymotion:
     categories:
       - video
@@ -556,6 +595,10 @@ terms:
     categories:
       - country
       - Europe
+  Dependabot:
+    categories:
+      - automation
+      - dependency management
   DevOps:
     categories:
       - software development
@@ -620,6 +663,9 @@ terms:
   Doctrine:
     categories:
       - orm
+  Dodge:
+    categories:
+      - automotive
   DOM:
     expanded_form: Document Object Model
     categories:
@@ -627,6 +673,9 @@ terms:
   DOS:
     categories:
       - operating system
+  DS Automobiles:
+    categories:
+      - automotive
   DSA:
     expanded_form: Digital Signature Algorithm
     categories:
@@ -786,6 +835,13 @@ terms:
     expanded_form: File Allocation Table 32
     categories:
       - file system
+  Ferrari:
+    categories:
+      - automotive
+  Fiat:
+    expanded_form: Fabbrica Italiana Automobili Torino
+    categories:
+      - automotive
   Finland:
     categories:
       - country
@@ -815,6 +871,9 @@ terms:
   Font Awesome:
     categories:
       - icon
+  Ford:
+    categories:
+      - automotive
   Fork Awesome:
     categories:
       - icon
@@ -905,6 +964,10 @@ terms:
     categories:
       - country
       - Europe
+  GFM:
+    expanded_form: GitHub Flavored Markdown
+    categories:
+      - markup language
   Gherkin:
     categories:
       - programming language
@@ -942,6 +1005,10 @@ terms:
     expanded_form: Gesellschaft mit beschränkter Haftung
     categories:
       - company category
+  GMC:
+    expanded_form: General Motors Company
+    categories:
+      - automotive
   GMT:
     expanded_form: Greenwich Mean Time
     categories:
@@ -1094,6 +1161,9 @@ terms:
   Homebrew:
     categories:
       - package management
+  Honda:
+    categories:
+      - automotive
   HP-UX:
     expanded_form: Hewlett Packard Unix
     categories:
@@ -1130,6 +1200,9 @@ terms:
     expanded_form: HyperText Transfer Protocol Secure
     categories:
       - protocol
+  Hummer:
+    categories:
+      - automotive
   Hungarian:
     categories:
       - language
@@ -1138,6 +1211,9 @@ terms:
     categories:
       - country
       - Europe
+  Hyundai:
+    categories:
+      - automotive
   Hz:
     expanded_form: Hertz
     categories:
@@ -1215,6 +1291,9 @@ terms:
     categories:
       - language
       - Indonesia
+  Infiniti:
+    categories:
+      - automotive
   InfluxDB:
     expanded_form: Influx Database
     categories:
@@ -1309,6 +1388,9 @@ terms:
       - Jaeger (the German word for hunter)
     categories:
       - monitoring
+  Jaguar:
+    categories:
+      - automotive
   Japan:
     categories:
       - country
@@ -1326,6 +1408,9 @@ terms:
   JavaScript:
     categories:
       - programming language
+  Jeep:
+    categories:
+      - automotive
   Jekyll:
     categories:
       - static site generator
@@ -1395,6 +1480,10 @@ terms:
   Kaspersky:
     categories:
       - software
+  Kawasaki:
+    categories:
+      - automotive
+      - motorcycles
   Kazakh:
     categories:
       - language
@@ -1406,6 +1495,9 @@ terms:
   KeePass:
     categories:
       - software
+  Kia:
+    categories:
+      - automotive
   Kibana:
     categories:
       - monitoring
@@ -1431,10 +1523,16 @@ terms:
     categories:
       - container
       - orchestration
+  Lamborghini:
+    categories:
+      - automotive
   LAN:
     expanded_form: Local Area Network
     categories:
       - network
+  Land Rover:
+    categories:
+      - automotive
   LanguageTool:
     categories:
       - software
@@ -1486,6 +1584,9 @@ terms:
     categories:
       - programming language
       - obfuscation
+  Lexus:
+    categories:
+      - automotive
   LGPL:
     expanded_form: Lesser General Public License
     categories:
@@ -1496,6 +1597,9 @@ terms:
   LibreOffice:
     categories:
       - software
+  Lincoln:
+    categories:
+      - automotive
   LinkedIn:
     categories:
       - social media
@@ -1525,6 +1629,9 @@ terms:
   Logstash:
     categories:
       - data processing
+  Lotus:
+    categories:
+      - automotive
   LRU:
     expanded_form: Least Recently Used
     categories:
@@ -1576,6 +1683,15 @@ terms:
   Markdown:
     categories:
       - markup language
+  Maserati:
+    categories:
+      - automotive
+  Mazda:
+    categories:
+      - automotive
+  McLaren:
+    categories:
+      - automotive
   MDT:
     expanded_form: Mountain Daylight Time
     categories:
@@ -1584,6 +1700,9 @@ terms:
     expanded_form: Middle East and North Africa
     categories:
       - region
+  Mercedes-Benz:
+    categories:
+      - automotive
   Mercurial:
     categories:
       - version control
@@ -1609,6 +1728,9 @@ terms:
   Microsoft Windows:
     categories:
       - operating system
+  Mini:
+    categories:
+      - automotive
   MINIX:
     categories:
       - operating system
@@ -1619,6 +1741,10 @@ terms:
     expanded_form: Massachusetts Institute of Technology
     categories:
       - education
+  Mitsubishi:
+    categories:
+      - automotive
+      - motorcycles
   MLOps:
     expanded_form: Machine Learning Operations
     categories:
@@ -1766,6 +1892,9 @@ terms:
   nginx:
     categories:
       - web server
+  Nissan:
+    categories:
+      - automotive
   NIST:
     expanded_form: National Institute of Standards and Technology
     categories:
@@ -1854,6 +1983,9 @@ terms:
     expanded_form: Object-Oriented Programming
     categories:
       - programming
+  Opel:
+    categories:
+      - automotive
   OpenAI:
     expanded_form: Open Artificial Intelligence
     categories:
@@ -1986,6 +2118,9 @@ terms:
     expanded_form: Platform as a Service
     categories:
       - cloud computing
+  Pagani:
+    categories:
+      - automotive
   Pakistan:
     categories:
       - country
@@ -2034,6 +2169,9 @@ terms:
     categories:
       - language
       - Iran
+  Peugeot:
+    categories:
+      - automotive
   PGP:
     expanded_form: Pretty Good Privacy
     categories:
@@ -2085,10 +2223,16 @@ terms:
     categories:
       - language
       - Poland
+  Pontiac:
+    categories:
+      - automotive
   POP3:
     expanded_form: Post Office Protocol 3
     categories:
       - email
+  Porsche:
+    categories:
+      - automotive
   Portugal:
     categories:
       - country
@@ -2210,6 +2354,9 @@ terms:
     expanded_form: Reiser File System
     categories:
       - file system
+  Renault:
+    categories:
+      - automotive
   RequireJS:
     categories:
       - JavaScript
@@ -2291,6 +2438,10 @@ terms:
   Rustup:
     categories:
       - software
+  Saab:
+    expanded_form: Svenska Aeroplan Aktiebolaget
+    categories:
+      - automotive
   SaaS:
     expanded_form: Software as a Service
     categories:
@@ -2366,6 +2517,10 @@ terms:
     expanded_form: Secure Digital eXtended Capacity
     categories:
       - hardware
+  Seat:
+    expanded_form: Sociedad Española de Automóviles de Turismo
+    categories:
+      - automotive
   Selenium:
     disambiguation:
       - Selenium (the chemical element)
@@ -2434,6 +2589,11 @@ terms:
       - demonym
       - nationality
       - Slovenia
+  Smart:
+    disambiguation:
+      - smart (the adjective)
+    categories:
+      - automotive
   SMTP:
     expanded_form: Simple Mail Transfer Protocol
     categories:
@@ -2543,6 +2703,13 @@ terms:
   StandardJS:
     categories:
       - software
+  Stellantis:
+    categories:
+      - automotive
+      - group
+  Subaru:
+    categories:
+      - automotive
   Sublime Text:
     categories:
       - text editor
@@ -2556,6 +2723,9 @@ terms:
     expanded_form: Software und System-Entwicklung
     categories:
       - operating system
+  Suzuki:
+    categories:
+      - automotive
   SVG:
     expanded_form: Scalable Vector Graphics
     categories:
@@ -2610,6 +2780,9 @@ terms:
     categories:
       - country
       - Africa
+  Tata:
+    categories:
+      - automotive
   Tcl:
     expanded_form: Tool Command Language
     categories:
@@ -2664,6 +2837,9 @@ terms:
     expanded_form: Time-based One-Time Password
     categories:
       - security
+  Toyota:
+    categories:
+      - automotive
   Traefik:
     categories:
       - reverse proxy
@@ -2871,6 +3047,9 @@ terms:
     categories:
       - security
       - secrets management
+  Vauxhall:
+    categories:
+      - automotive
   VCS:
     expanded_form: Version Control System
     categories:
@@ -2929,6 +3108,12 @@ terms:
     categories:
       - remote desktop
       - protocol
+  Volkswagen:
+    categories:
+      - automotive
+  Volvo:
+    categories:
+      - automotive
   VPN:
     expanded_form: Virtual Private Network
     categories:
@@ -3129,3 +3314,6 @@ terms:
     expanded_form: Z Shell
     categories:
       - shell
+  Škoda:
+    categories:
+      - automotive
