@@ -35,6 +35,11 @@ terms:
   ActionScript:
     categories:
       - programming language
+  Active Directory:
+    categories:
+      - directory service
+      - Microsoft
+      - Windows
   ActiveMQ:
     categories:
       - messaging
@@ -101,9 +106,24 @@ terms:
   Algeria:
     categories:
       - country
+      - Africa
+      - North Africa
+  Algerian:
+    plural: Algerians
+    categories:
+      - nationality
+      - demonym
+      - Algeria
   Algolia:
     categories:
       - search
+  Alphabet:
+    expanded_form: Alphabet Inc.
+    categories:
+      - company
+      - GAFAM
+      - Big Five
+      - Google
   Alpine:
     categories:
       - operating system
@@ -226,9 +246,16 @@ terms:
   AppKit:
     categories:
       - framework
+  Apple:
+    disambiguation:
+      - apple (the fruit)
+    categories:
+      - company
+      - GAFAM
   AppleScript:
     categories:
       - scripting language
+      - Apple
   AppVeyor:
     categories:
       - continuous integration
@@ -353,6 +380,13 @@ terms:
   BadgerDB:
     categories:
       - database
+  Baltic States:
+    categories:
+      - region
+      - Europe
+      - Lithuania
+      - Estonia
+      - Latvia
   Bangladesh:
     categories:
       - country
@@ -687,6 +721,11 @@ terms:
     expanded_form: Continuous Integration
     categories:
       - software development
+  CIA:
+    expanded_form: Central Intelligence Agency
+    categories:
+      - government agency
+      - USA
   CIDR:
     expanded_form: Classless Inter-Domain Routing
     categories:
@@ -753,6 +792,12 @@ terms:
     categories:
       - region
       - organization
+      - treaty
+      - Great Britain
+      - Australia
+      - New Zealand
+      - Pakistan
+      - India
   CommonJS:
     categories:
       - module system
@@ -1185,6 +1230,9 @@ terms:
     expanded_form: Europe, Middle East and Africa
     categories:
       - region
+      - Europe
+      - Middle East
+      - Africa
   English:
     categories:
       - language
@@ -1235,6 +1283,7 @@ terms:
     categories:
       - country
       - Europe
+      - Baltic States
   Estonian:
     plural: Estonians
     categories:
@@ -1315,6 +1364,8 @@ terms:
   Facebook:
     categories:
       - social media
+      - GAFAM
+      - Meta Platforms, Inc.
   FastAPI:
     categories:
       - web framework
@@ -1642,14 +1693,19 @@ terms:
     categories:
       - cryptography
   Go:
+    disambiguation:
+      - Go (the game)
+      - go (the verb)
     categories:
       - programming language
   GoLand:
     categories:
-      - ide
+      - IDE
+      - Go
   Golang:
     categories:
       - programming language
+      - Go
   Google:
     categories:
       - company
@@ -1697,6 +1753,7 @@ terms:
   GopherCon:
     categories:
       - conference
+      - Go
   GPG:
     expanded_form: GNU Privacy Guard
     categories:
@@ -1736,6 +1793,8 @@ terms:
   Great Britain:
     categories:
       - region
+      - United Kingdom
+      - Europe
   Greece:
     categories:
       - country
@@ -1883,6 +1942,14 @@ terms:
     expanded_form: HyperText Transfer Protocol Secure
     categories:
       - protocol
+  Hugo:
+    disambiguation:
+      - Hugo (the author)
+      - Hugo (the character in "Hugo")
+      - Hugo (the firstname)
+    categories:
+      - static site generator
+      - web development
   Hummer:
     categories:
       - automotive
@@ -1900,8 +1967,11 @@ terms:
     categories:
       - software
   Hyundai:
+    expanded_form: Hyundai Motor Company
     categories:
       - automotive
+      - South Korea
+      - company
   Hz:
     expanded_form: Hertz
     categories:
@@ -1926,6 +1996,18 @@ terms:
     expanded_form: Internet Assigned Numbers Authority
     categories:
       - organization
+      - internet
+      - ICANN
+  ARIN:
+    expanded_form: American Registry for Internet Numbers
+    categories:
+      - organization
+      - internet
+      - USA
+  ARPANET:
+    expanded_form: Advanced Research Projects Agency Network
+    categories:
+      - network
   IBM:
     expanded_form: International Business Machines
     categories:
@@ -2040,6 +2122,8 @@ terms:
   Instagram:
     categories:
       - social media
+      - photo sharing
+      - Meta Platforms, Inc.
   Intel:
     categories:
       - hardware
@@ -2111,6 +2195,12 @@ terms:
   Israel:
     categories:
       - country
+  ISS:
+    expanded_form: International Space Station
+    categories:
+      - space
+      - international
+      - science
   IST:
     expanded_form: Indian Standard Time
     categories:
@@ -2164,6 +2254,9 @@ terms:
   Jekyll:
     categories:
       - static site generator
+    disambiguation:
+      - Jekyll (the Germanic name)
+      - Jekyll (the character in "Strange Case of Dr Jekyll and Mr Hyde")
   Jenkins:
     categories:
       - continuous integration
@@ -2341,6 +2434,7 @@ terms:
     categories:
       - country
       - Europe
+      - Baltic States
   Latvian:
     categories:
       - language
@@ -2405,6 +2499,7 @@ terms:
     categories:
       - country
       - Europe
+      - Baltic States
   Lithuanian:
     categories:
       - language
@@ -2423,6 +2518,11 @@ terms:
   Lotus:
     categories:
       - automotive
+  Lotus Notes:
+    categories:
+      - software
+      - email
+      - collaboration
   LRU:
     expanded_form: Least Recently Used
     categories:
@@ -2445,6 +2545,7 @@ terms:
   MacBook:
     categories:
       - hardware
+      - Apple
   Macedonia:
     categories:
       - country
@@ -2482,6 +2583,7 @@ terms:
   MariaDB:
     categories:
       - database
+      - SQL
   Markdown:
     categories:
       - markup language
@@ -2502,12 +2604,22 @@ terms:
     expanded_form: Middle East and North Africa
     categories:
       - region
+      - Middle East
+      - North Africa
   Mercedes-Benz:
     categories:
       - automotive
   Mercurial:
     categories:
       - version control
+  Meta:
+    expanded_form: Meta Platforms, Inc.
+    categories:
+      - company
+      - GAFAM
+      - Facebook
+      - Instagram
+      - WhatsApp
   Mexican:
     plural: Mexicans
     categories:
@@ -2598,6 +2710,7 @@ terms:
     categories:
       - country
       - Africa
+      - North Africa
   Mozambican:
     categories:
       - language
@@ -2709,7 +2822,7 @@ terms:
       - company
   NetBeans:
     categories:
-      - ide
+      - IDE
   NetBSD:
     categories:
       - operating system
@@ -2935,12 +3048,12 @@ terms:
   OpenSSH:
     expanded_form: Open Secure Shell
     categories:
-      - networking
+      - network
       - security
   OpenSSL:
     expanded_form: Open Secure Sockets Layer
     categories:
-      - networking
+      - network
       - security
   OpenStack:
     categories:
@@ -2960,7 +3073,7 @@ terms:
   OpenVPN:
     expanded_form: Open Virtual Private Network
     categories:
-      - networking
+      - network
   OpenVSX:
     categories:
       - marketplace
@@ -3005,7 +3118,7 @@ terms:
   P2P:
     expanded_form: Peer-to-Peer
     categories:
-      - networking
+      - network
   PaaS:
     expanded_form: Platform as a Service
     categories:
@@ -3083,17 +3196,21 @@ terms:
   PhantomJS:
     categories:
       - web scraping
+      - JavaScript
   Philippines:
     categories:
       - country
       - Asia
   PHing:
     categories:
+      - software
       - build automation
+      - PHP
   PHP:
     expanded_form: PHP Hypertext Preprocessor
     categories:
       - programming language
+      - web
   Pinterest:
     categories:
       - social media
@@ -3235,7 +3352,7 @@ terms:
   QoS:
     expanded_form: Quality of Service
     categories:
-      - networking
+      - network
   R:
     categories:
       - programming language
@@ -3425,6 +3542,12 @@ terms:
     expanded_form: Software as a Service
     categories:
       - deployment model
+  Safari:
+    disambiguation:
+      - safari (the expedition)
+    categories:
+      - web browser
+      - Apple
   Salesforce:
     categories:
       - software
@@ -3433,7 +3556,7 @@ terms:
       - Samba (the music genre)
     categories:
       - software
-      - networking
+      - network
   SAML:
     expanded_form: Security Assertion Markup Language
     categories:
@@ -3469,6 +3592,8 @@ terms:
   Scotland:
     categories:
       - country
+      - Great Britain
+      - United Kingdom
       - Europe
   Scottish:
     categories:
@@ -3548,7 +3673,7 @@ terms:
   SFTP:
     expanded_form: Secure File Transfer Protocol
     categories:
-      - networking
+      - network
       - file transfer
   Shopify:
     categories:
@@ -3601,7 +3726,7 @@ terms:
   SMTP:
     expanded_form: Simple Mail Transfer Protocol
     categories:
-      - networking
+      - network
       - email
   SNMP:
     expanded_form: Simple Network Management Protocol
@@ -3704,17 +3829,17 @@ terms:
   SSH:
     expanded_form: Secure Shell
     categories:
-      - networking
+      - network
       - security
   SSID:
     expanded_form: Service Set Identifier
     categories:
-      - networking
+      - network
       - wireless
   SSL:
     expanded_form: Secure Sockets Layer
     categories:
-      - networking
+      - network
       - security
   SSO:
     expanded_form: Single Sign-On
@@ -3969,7 +4094,7 @@ terms:
     expanded_form: Time To Live
     plural: TTLs
     categories:
-      - networking
+      - network
       - caching
   TTY:
     expanded_form: Teletypewriter
@@ -4103,7 +4228,7 @@ terms:
   UPnP:
     expanded_form: Universal Plug and Play
     categories:
-      - networking
+      - network
       - protocol
   Urdu:
     categories:
@@ -4229,7 +4354,7 @@ terms:
   VLAN:
     expanded_form: Virtual Local Area Network
     categories:
-      - networking
+      - network
   VLC:
     expanded_form: VideoLAN Client
     categories:
@@ -4258,7 +4383,7 @@ terms:
   VPN:
     expanded_form: Virtual Private Network
     categories:
-      - networking
+      - network
   VS Code:
     categories:
       - code editor
@@ -4280,6 +4405,8 @@ terms:
   Wales:
     categories:
       - country
+      - United Kingdom
+      - Great Britain
       - Europe
   WAMP:
     expanded_form: Windows, Apache, MySQL, PHP
@@ -4295,6 +4422,8 @@ terms:
       - web
   watchOS:
     categories:
+      - Apple
+      - iOS
       - operating system
   WebAssembly:
     categories:
@@ -4303,28 +4432,35 @@ terms:
     expanded_form: Web Distributed Authoring and Versioning
     categories:
       - protocol
+      - web
   WebKit:
     categories:
       - browser engine
+      - Safari
   Webpack:
     categories:
       - module bundler
   WebRTC:
+    expanded_form: Web Real-Time Communication
     categories:
       - communication
+      - web
   WebSocket:
     plural: WebSockets
     categories:
       - protocol
+      - web
   WebStorm:
     categories:
       - IDE
   WeChat:
     categories:
       - social network
+      - Asia
   Weibo:
     categories:
       - social network
+      - Asia
   Welsh:
     categories:
       - language
@@ -4349,7 +4485,7 @@ terms:
   Wi-Fi:
     expanded_form: Wireless Fidelity
     categories:
-      - networking
+      - network
   Wikibase:
     categories:
       - knowledge base
