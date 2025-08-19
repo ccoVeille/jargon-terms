@@ -1,5 +1,11 @@
 ---
+# This file contains a list of jargon terms
+#
 # yaml-language-server: $schema=./jsonschema/jargon.v0.schema.json
+#
+# SPDX-FileCopyrightText: Christophe Colombier, aka ccoVeille
+# SPDX-FileCopyrightText: Contributors to the jargon-terms project
+# SPDX-License-Identifier: MIT
 terms:
   1Password:
     categories:
