@@ -2518,6 +2518,12 @@ terms:
     categories:
       - language
       - Tanzania
+  KiTTY:
+    disambiguation:
+      - kitty (the animal)
+    categories:
+      - SSH
+      - terminal emulator
   KO:
     expanded_form: Knockout
     categories:
@@ -3495,6 +3501,11 @@ terms:
       - configuration management
     disambiguation:
       - puppet (the doll)
+  PuTTY:
+    categories:
+      - SSH
+      - terminal emulator
+      - Windows
   Pwned:
     categories:
       - security
@@ -4847,6 +4858,9 @@ terms:
     categories:
       - web
       - API
+  Xonsh:
+    categories:
+      - shell
   XSL:
     expanded_form: Extensible Stylesheet Language
     categories:
@@ -4867,6 +4881,11 @@ terms:
       - operating system
       - Linux distribution
       - Ubuntu variant
+  xxh:
+    categories:
+      - SSH
+      - shell
+      - dotfiles
   XXH128:
     expanded_form: XXH3_128bits
     categories:
