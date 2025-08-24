@@ -1171,6 +1171,7 @@ terms:
     categories:
       - web development
   DOS:
+    expanded_form: MS-DOS
     categories:
       - operating system
   DoS:
@@ -2634,6 +2635,12 @@ terms:
     categories:
       - desktop environment
       - Linux
+  Mac OS X:
+    expanded_form: Macintosh Operating System Ten
+    categories:
+      - operating system
+      - Apple
+      - macOS
   MacBook:
     categories:
       - hardware
@@ -2853,6 +2860,11 @@ terms:
   MS Access:
     categories:
       - database
+  MS-DOS:
+    expanded_form: Microsoft Disk Operating System
+    categories:
+      - operating system
+      - Microsoft
   MVC:
     expanded_form: Model-View-Controller
     categories:
@@ -3188,6 +3200,12 @@ terms:
     expanded_form: Object-Relational Mapping
     categories:
       - database
+  OS X:
+    expanded_form: Operating System Ten
+    categories:
+      - operating system
+      - Apple
+      - macOS
   OSM:
     expanded_form: OpenStreetMap
     categories:
