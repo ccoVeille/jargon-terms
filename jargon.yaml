@@ -17,6 +17,11 @@ terms:
     expanded_form: Triple Data Encryption Standard
     categories:
       - cryptography
+  3DNOW!:
+    categories:
+      - hardware
+      - CPU
+      - architecture
   ABAC:
     expanded_form: Attribute-Based Access Control
     categories:
@@ -159,6 +164,19 @@ terms:
   Amazon S3:
     categories:
       - cloud
+  AMD:
+    expanded_form: Advanced Micro Devices
+    categories:
+      - hardware
+      - CPU
+      - GPU
+      - company
+  AMD64:
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 64bits
   American:
     plural: Americans
     categories:
@@ -285,6 +303,14 @@ terms:
     expanded_form: Advanced RISC Machine
     categories:
       - hardware
+  ARM64:
+    expanded_form: ARM 64 bits
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 64bits
+      - ARM
   Armenia:
     categories:
       - country
@@ -2001,6 +2027,19 @@ terms:
     expanded_form: Internationalization (with 18 letters between I and n)
     categories:
       - localization
+  i386:
+    expanded_form: Intel 386 bits
+    categories:
+      - hardware
+      - 32bits
+  IA-32:
+    expanded_form: Intel Architecture 32 bits
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 32bits
+      - Intel
   IaaS:
     expanded_form: Infrastructure as a Service
     categories:
@@ -2681,6 +2720,12 @@ terms:
     categories:
       - machine learning
       - job role
+  MMX:
+    expanded_form: MultiMedia eXtensions
+    categories:
+      - hardware
+      - CPU
+      - architecture
   MochaJS:
     categories:
       - testing
@@ -3693,6 +3738,11 @@ terms:
       - silex (the rock)
     categories:
       - software
+  SIMD:
+    expanded_form: Single Instruction, Multiple Data
+    categories:
+      - architecture
+      - parallel computing
   Sina Weibo:
     categories:
       - social network
@@ -3833,6 +3883,18 @@ terms:
     categories:
       - storage
       - hardware
+  SSE:
+    expanded_form: Streaming SIMD Extensions
+    categories:
+      - hardware
+      - CPU
+      - architecture
+  SSE2:
+    expanded_form: Streaming SIMD Extensions 2
+    categories:
+      - hardware
+      - CPU
+      - architecture
   SSH:
     expanded_form: Secure Shell
     categories:
@@ -4552,6 +4614,32 @@ terms:
     expanded_form: ITU-T X.509 standard for public key certificates
     categories:
       - security
+  x64:
+    expanded_form: Intel 64 bits
+    categories:
+      - hardware
+      - 64bits
+  x86-16:
+    expanded_form: x86 16 bits
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 16bits
+  x86-32:
+    expanded_form: x86 32 bits
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 32bits
+  x86-64:
+    expanded_form: x86 64 bits
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 64bits
   XAMPP:
     expanded_form: Cross-Platform, Apache, MySQL, PHP, Perl
     categories:
