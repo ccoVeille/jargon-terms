@@ -275,6 +275,12 @@ terms:
   Arduino:
     categories:
       - hardware
+  ARIN:
+    expanded_form: American Registry for Internet Numbers
+    categories:
+      - organization
+      - internet
+      - USA
   ARM:
     expanded_form: Advanced RISC Machine
     categories:
@@ -289,6 +295,10 @@ terms:
       - Armenia
   ARP:
     expanded_form: Address Resolution Protocol
+    categories:
+      - network
+  ARPANET:
+    expanded_form: Advanced Research Projects Agency Network
     categories:
       - network
   Artifactory:
@@ -2005,16 +2015,6 @@ terms:
       - organization
       - internet
       - ICANN
-  ARIN:
-    expanded_form: American Registry for Internet Numbers
-    categories:
-      - organization
-      - internet
-      - USA
-  ARPANET:
-    expanded_form: Advanced Research Projects Agency Network
-    categories:
-      - network
   IBM:
     expanded_form: International Business Machines
     categories:
