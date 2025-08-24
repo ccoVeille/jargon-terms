@@ -453,6 +453,10 @@ terms:
     expanded_form: British Broadcasting Corporation
     categories:
       - media
+  BCD:
+    expanded_form: Binary-Coded Decimal
+    categories:
+      - number system
   BCP:
     expanded_form: Business Continuity Planning
     categories:
@@ -533,6 +537,25 @@ terms:
     categories:
       - operating system
       - Linux distribution
+  Bool:
+    expanded_form: Boolean
+    categories:
+      - programming
+      - logic
+      - mathematics
+      - George Boole
+  Boole:
+    expanded_form: Boole
+    categories:
+      - mathematician
+      - logic
+  Boolean:
+    plural: Booleans
+    categories:
+      - programming
+      - logic
+      - mathematics
+      - George Boole
   Bootstrap:
     categories:
       - web framework
