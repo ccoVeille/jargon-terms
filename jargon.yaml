@@ -1581,6 +1581,11 @@ terms:
     expanded_form: Google Cloud Platform
     categories:
       - cloud
+  GDM:
+    expanded_form: GNOME Display Manager
+    categories:
+      - display manager
+      - GNOME
   GDPR:
     expanded_form: General Data Protection Regulation
     categories:
@@ -1724,6 +1729,7 @@ terms:
       - gnome (the mythical creature)
     categories:
       - desktop environment
+      - Linux
   GNU:
     expanded_form: GNU's Not Unix
     categories:
@@ -2400,6 +2406,12 @@ terms:
     expanded_form: K Desktop Environment
     categories:
       - desktop environment
+      - Linux
+  KDM:
+    expanded_form: KDE Display Manager
+    categories:
+      - display manager
+      - KDE
   KeePass:
     categories:
       - software
@@ -2528,6 +2540,9 @@ terms:
     expanded_form: Last in, First out
     categories:
       - caching
+  LightDM:
+    categories:
+      - display manager
   Lincoln:
     categories:
       - automotive
@@ -2588,6 +2603,7 @@ terms:
   LXQt:
     categories:
       - desktop environment
+      - Linux
   MacBook:
     categories:
       - hardware
@@ -3757,6 +3773,13 @@ terms:
     categories:
       - communication
       - software
+  SLiM:
+    expanded_form: Simple Login Manager
+    disambiguation:
+      - slim (adjective)
+      - SLiM (short linear motif in Biology)
+    categories:
+      - display manager
   Slovak:
     categories:
       - language
@@ -4494,6 +4517,10 @@ terms:
       - Apple
       - iOS
       - operating system
+  Wayland:
+    categories:
+      - display server
+      - protocol
   WebAssembly:
     categories:
       - web
@@ -4610,10 +4637,21 @@ terms:
   X:
     categories:
       - social network
+  X Window System:
+    categories:
+      - graphical user interface
+      - display server
   X.509:
     expanded_form: ITU-T X.509 standard for public key certificates
     categories:
       - security
+  X386:
+    categories:
+      - hardware
+      - CPU
+      - X Window System
+      - i386
+      - IBM
   x64:
     expanded_form: Intel 64 bits
     categories:
@@ -4670,6 +4708,11 @@ terms:
     expanded_form: XForms Common Environment
     categories:
       - desktop environment
+      - Linux
+  XFree86:
+    categories:
+      - X Window System
+      - display server
   XFS:
     expanded_form: X File System
     categories:
