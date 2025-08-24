@@ -343,6 +343,10 @@ terms:
   ASP:
     categories:
       - web framework
+  Aspell:
+    expanded_form: GNU Aspell
+    categories:
+      - dictionary
   Assembly:
     categories:
       - programming language
@@ -2010,6 +2014,9 @@ terms:
     categories:
       - country
       - Europe
+  Hunspell:
+    categories:
+      - dictionary
   Husky:
     disambiguation:
       - husky (the dog breed)
@@ -3669,6 +3676,10 @@ terms:
       - demonym
       - nationality
       - Scotland
+  SCOWL:
+    expanded_form: Spell Checker Oriented Word Lists
+    categories:
+      - dictionary
   SCSS:
     expanded_form: Sassy CSS
     categories:
