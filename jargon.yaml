@@ -4801,6 +4801,39 @@ terms:
       - operating system
       - Linux distribution
       - Ubuntu variant
+  XXH128:
+    expanded_form: XXH3_128bits
+    categories:
+      - hashing
+      - xxHash
+      - XXH3
+      - 128bits
+  XXH3:
+    expanded_form: xxHash version 3 (XXH3_64bits and XXH3_128bits)
+    categories:
+      - hashing
+      - xxHash
+      - XXH3_64bits
+      - XXH3_128bits
+  XXH32:
+    expanded_form: xxHash (version 2) 32bits
+    categories:
+      - hashing
+      - xxHash
+      - 32bits
+  XXH3_64bits:
+    expanded_form: xxHash 3 (XXH3_64bits)
+    categories:
+      - hashing
+      - xxHash
+      - XXH3
+      - 64bits
+  XXH64:
+    expanded_form: xxHash (version 2) 64bits
+    categories:
+      - hashing
+      - xxHash
+      - 64bits
   YAGNI:
     expanded_form: You Aren't Gonna Need It
     categories:
