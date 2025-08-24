@@ -1622,6 +1622,8 @@ terms:
     expanded_form: General Data Protection Regulation
     categories:
       - regulation
+      - privacy
+      - Europe
   GeForce:
     categories:
       - hardware
@@ -1776,7 +1778,7 @@ terms:
   Go:
     disambiguation:
       - Go (the game)
-      - go (the verb)
+      - go (the verb)  # This one is very problematic
     categories:
       - programming language
   Godzilla:
@@ -1792,6 +1794,8 @@ terms:
       - programming language
       - Go
   Google:
+    disambiguation:
+      - google (the verb)  # This one is very problematic
     categories:
       - company
       - GAFAM
@@ -1884,6 +1888,7 @@ terms:
     expanded_form: GNU Privacy Guard
     categories:
       - cryptography
+      - file extension
   GPL:
     expanded_form: General Public License
     categories:
@@ -2172,6 +2177,7 @@ terms:
     plural: IDEs
     categories:
       - software
+      - programming
   IE:
     expanded_form: Internet Explorer
     disambiguation:
@@ -2217,6 +2223,10 @@ terms:
     expanded_form: Internet Message Access Protocol version 4
     categories:
       - protocol
+  IMDb:
+    categories:
+      - media
+      - web
   IMF:
     expanded_form: International Monetary Fund
     categories:
