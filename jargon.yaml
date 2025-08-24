@@ -971,6 +971,10 @@ terms:
     expanded_form: Comma-Separated Values
     categories:
       - data format
+  Cthulhu:
+    categories:
+      - myth
+      - horror
   CUPS:
     expanded_form: Common Unix Printing System
     categories:
@@ -1775,6 +1779,10 @@ terms:
       - go (the verb)
     categories:
       - programming language
+  Godzilla:
+    categories:
+      - movie
+      - monster
   GoLand:
     categories:
       - IDE
@@ -2027,6 +2035,12 @@ terms:
     categories:
       - static site generator
       - web development
+  Hulk:
+    expanded_form: The Incredible Hulk
+    categories:
+      - movie
+      - superhero
+      - comics
   Hummer:
     categories:
       - automotive
@@ -4164,6 +4178,17 @@ terms:
   Thailand:
     categories:
       - country
+  The Hulk:
+    expanded_form: The Incredible Hulk
+    categories:
+      - movie
+      - superhero
+      - comics
+  The Incredible Hulk:
+    categories:
+      - movie
+      - superhero
+      - comics
   Thunderbird:
     categories:
       - email
