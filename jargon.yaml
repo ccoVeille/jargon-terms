@@ -44,130 +44,6 @@ terms:
       - authentication
     expanded_form: Access Control List
     plural: ACLs
-  ADSL:
-    categories:
-      - network
-    expanded_form: Asymmetric Digital Subscriber Line
-  AGPL:
-    categories:
-      - license
-    expanded_form: Affero General Public License
-  AI:
-    categories:
-      - technology
-      - artificial intelligence
-    expanded_form: Artificial Intelligence
-  AIX:
-    categories:
-      - operating system
-    expanded_form: Advanced Interactive eXecutive
-  AJAX:
-    categories:
-      - web development
-    expanded_form: Asynchronous JavaScript and XML
-  ALSA:
-    categories:
-      - audio
-      - software
-    disambiguation:
-      - ALSA (the American Life Science Association)
-      - ALSA (Automóviles Luarca, S.A., a bus company in Europe)
-    expanded_form: Advanced Linux Sound Architecture
-  AMD:
-    categories:
-      - hardware
-      - CPU
-      - GPU
-      - company
-    expanded_form: Advanced Micro Devices
-  AMD64:
-    categories:
-      - hardware
-      - CPU
-      - architecture
-      - 64bits
-  AMQP:
-    categories:
-      - messaging
-    expanded_form: Advanced Message Queuing Protocol
-  APAC:
-    categories:
-      - region
-    expanded_form: Asia-Pacific
-  APFS:
-    categories:
-      - file system
-    expanded_form: Apple File System
-  API:
-    categories:
-      - software
-    expanded_form: Application Programming Interface
-    plural: APIs
-  ARIN:
-    categories:
-      - organization
-      - internet
-      - USA
-    expanded_form: American Registry for Internet Numbers
-  ARM:
-    categories:
-      - hardware
-    expanded_form: Advanced RISC Machine
-  ARM64:
-    categories:
-      - hardware
-      - CPU
-      - architecture
-      - 64bits
-      - ARM
-    expanded_form: ARM 64 bits
-  ARP:
-    categories:
-      - network
-    expanded_form: Address Resolution Protocol
-  ARPANET:
-    categories:
-      - network
-    expanded_form: Advanced Research Projects Agency Network
-  ASCII:
-    categories:
-      - encoding
-    expanded_form: American Standard Code for Information Interchange
-  ASP:
-    categories:
-      - web framework
-  AST:
-    categories:
-      - programming
-    expanded_form: Abstract Syntax Tree
-  ATDD:
-    categories:
-      - software development
-      - testing
-    expanded_form: Acceptance Test-Driven Development
-  ATM:
-    categories:
-      - network
-    expanded_form: Asynchronous Transfer Mode
-  AWS:
-    categories:
-      - cloud
-    expanded_form: Amazon Web Services
-  AWS Amplify:
-    categories:
-      - cloud
-  AWS AppSync:
-    categories:
-      - cloud
-  AWS CloudTrail:
-    categories:
-      - cloud
-  AWS CodePipeline:
-    categories:
-      - cloud
-  AWS Lambda:
-    categories:
-      - cloud
   ActionScript:
     categories:
       - programming language
@@ -190,6 +66,10 @@ terms:
     categories:
       - software
       - pdf
+  ADSL:
+    categories:
+      - network
+    expanded_form: Asymmetric Digital Subscriber Line
   Adwords:
     categories:
       - advertising
@@ -205,13 +85,30 @@ terms:
       - software development
     disambiguation:
       - agile (the adjective)
+  AGPL:
+    categories:
+      - license
+    expanded_form: Affero General Public License
+  AI:
+    categories:
+      - technology
+      - artificial intelligence
+    expanded_form: Artificial Intelligence
+  Airflow:
+    categories:
+      - data processing
   AirPods:
     categories:
       - hardware
       - audio
-  Airflow:
+  AIX:
     categories:
-      - data processing
+      - operating system
+    expanded_form: Advanced Interactive eXecutive
+  AJAX:
+    categories:
+      - web development
+    expanded_form: Asynchronous JavaScript and XML
   Akamai:
     categories:
       - cloud
@@ -243,6 +140,14 @@ terms:
     categories:
       - operating system
       - Linux distribution
+  ALSA:
+    categories:
+      - audio
+      - software
+    disambiguation:
+      - ALSA (the American Life Science Association)
+      - ALSA (Automóviles Luarca, S.A., a bus company in Europe)
+    expanded_form: Advanced Linux Sound Architecture
   Amazon:
     categories:
       - company
@@ -259,12 +164,29 @@ terms:
   Amazon S3:
     categories:
       - cloud
+  AMD:
+    categories:
+      - hardware
+      - CPU
+      - GPU
+      - company
+    expanded_form: Advanced Micro Devices
+  AMD64:
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 64bits
   American:
     categories:
       - nationality
       - demonym
       - USA
     plural: Americans
+  AMQP:
+    categories:
+      - messaging
+    expanded_form: Advanced Message Queuing Protocol
   Android:
     categories:
       - operating system
@@ -277,6 +199,10 @@ terms:
   Ansible:
     categories:
       - configuration management
+  APAC:
+    categories:
+      - region
+    expanded_form: Asia-Pacific
   Apache:
     categories:
       - software
@@ -333,12 +259,18 @@ terms:
   Apache Tomcat:
     categories:
       - web server
+  APFS:
+    categories:
+      - file system
+    expanded_form: Apple File System
+  API:
+    categories:
+      - software
+    expanded_form: Application Programming Interface
+    plural: APIs
   AppKit:
     categories:
       - framework
-  AppVeyor:
-    categories:
-      - continuous integration
   Apple:
     categories:
       - company
@@ -349,6 +281,9 @@ terms:
     categories:
       - scripting language
       - Apple
+  AppVeyor:
+    categories:
+      - continuous integration
   Arabic:
     categories:
       - language
@@ -358,6 +293,24 @@ terms:
   Arduino:
     categories:
       - hardware
+  ARIN:
+    categories:
+      - organization
+      - internet
+      - USA
+    expanded_form: American Registry for Internet Numbers
+  ARM:
+    categories:
+      - hardware
+    expanded_form: Advanced RISC Machine
+  ARM64:
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 64bits
+      - ARM
+    expanded_form: ARM 64 bits
   Armenia:
     categories:
       - country
@@ -366,15 +319,30 @@ terms:
     categories:
       - language
       - Armenia
+  ARP:
+    categories:
+      - network
+    expanded_form: Address Resolution Protocol
+  ARPANET:
+    categories:
+      - network
+    expanded_form: Advanced Research Projects Agency Network
   Artifactory:
     categories:
       - repository
   Asana:
     categories:
       - software
+  ASCII:
+    categories:
+      - encoding
+    expanded_form: American Standard Code for Information Interchange
   AsciiDoc:
     categories:
       - markup language
+  ASP:
+    categories:
+      - web framework
   Aspell:
     categories:
       - dictionary
@@ -382,12 +350,25 @@ terms:
   Assembly:
     categories:
       - programming language
+  AST:
+    categories:
+      - programming
+    expanded_form: Abstract Syntax Tree
   Aston Martin:
     categories:
       - automotive
+  ATDD:
+    categories:
+      - software development
+      - testing
+    expanded_form: Acceptance Test-Driven Development
   Atlassian:
     categories:
       - company
+  ATM:
+    categories:
+      - network
+    expanded_form: Asynchronous Transfer Mode
   Audi:
     categories:
       - automotive
@@ -413,6 +394,25 @@ terms:
   AutoML:
     categories:
       - machine learning
+  AWS:
+    categories:
+      - cloud
+    expanded_form: Amazon Web Services
+  AWS Amplify:
+    categories:
+      - cloud
+  AWS AppSync:
+    categories:
+      - cloud
+  AWS CloudTrail:
+    categories:
+      - cloud
+  AWS CodePipeline:
+    categories:
+      - cloud
+  AWS Lambda:
+    categories:
+      - cloud
   Azerbaijan:
     categories:
       - country
@@ -424,72 +424,6 @@ terms:
   Azure:
     categories:
       - cloud
-  BBC:
-    categories:
-      - media
-    expanded_form: British Broadcasting Corporation
-  BCD:
-    categories:
-      - number system
-    expanded_form: Binary-Coded Decimal
-  BCP:
-    categories:
-      - business
-      - document
-      - emergency management
-    expanded_form: Business Continuity Planning
-  BDD:
-    categories:
-      - software development
-    expanded_form: Behavior-Driven Development
-  BEAP:
-    categories:
-      - business
-      - document
-      - emergency management
-    expanded_form: Business Emergency Action Plan
-  BFF:
-    categories:
-      - architecture
-    expanded_form: Backend For Frontend
-  BGP:
-    categories:
-      - network
-    expanded_form: Border Gateway Protocol
-  BMW:
-    categories:
-      - automotive
-    expanded_form: Bayerische Motoren Werke
-  BRIC:
-    categories:
-      - region
-      - organization
-    expanded_form: Brazil, Russia, India, China
-  BRICS+:
-    categories:
-      - region
-      - organization
-    expanded_form: Brazil, Russia, India, China, South Africa
-  BSD:
-    categories:
-      - operating system
-    expanded_form: Berkeley Software Distribution
-  BSON:
-    categories:
-      - encoding
-    expanded_form: Binary JSON
-  BSSID:
-    categories:
-      - network
-    expanded_form: Basic Service Set Identifier
-  BST:
-    categories:
-      - data structure
-    expanded_form: Binary Search Tree
-  BYOD:
-    categories:
-      - technology
-    expanded_form: Bring Your Own Device
   BadgerDB:
     categories:
       - database
@@ -515,9 +449,30 @@ terms:
     categories:
       - shell
       - programming language
-  BeOS:
+  BBC:
     categories:
-      - operating system
+      - media
+    expanded_form: British Broadcasting Corporation
+  BCD:
+    categories:
+      - number system
+    expanded_form: Binary-Coded Decimal
+  BCP:
+    categories:
+      - business
+      - document
+      - emergency management
+    expanded_form: Business Continuity Planning
+  BDD:
+    categories:
+      - software development
+    expanded_form: Behavior-Driven Development
+  BEAP:
+    categories:
+      - business
+      - document
+      - emergency management
+    expanded_form: Business Emergency Action Plan
   Belarus:
     categories:
       - country
@@ -533,9 +488,20 @@ terms:
   Bentley:
     categories:
       - automotive
+  BeOS:
+    categories:
+      - operating system
   Berkeley DB:
     categories:
       - database
+  BFF:
+    categories:
+      - architecture
+    expanded_form: Backend For Frontend
+  BGP:
+    categories:
+      - network
+    expanded_form: Border Gateway Protocol
   Big Five:
     categories:
       - Alphabet Inc.
@@ -546,12 +512,15 @@ terms:
   BigQuery:
     categories:
       - database
-  BitTorrent:
-    categories:
-      - protocol
   Bitbucket:
     categories:
       - software
+  bitcoin:
+    categories:
+      - cryptocurrency
+  BitTorrent:
+    categories:
+      - protocol
   Bitwarden:
     categories:
       - software
@@ -560,6 +529,10 @@ terms:
   Blu-ray:
     categories:
       - hardware
+  BMW:
+    categories:
+      - automotive
+    expanded_form: Bayerische Motoren Werke
   Bodhi Linux:
     categories:
       - operating system
@@ -605,6 +578,16 @@ terms:
     categories:
       - language
       - Brazil
+  BRIC:
+    categories:
+      - region
+      - organization
+    expanded_form: Brazil, Russia, India, China
+  BRICS+:
+    categories:
+      - region
+      - organization
+    expanded_form: Brazil, Russia, India, China, South Africa
   Britain:
     categories:
       - region
@@ -621,12 +604,28 @@ terms:
       - printing
     disambiguation:
       - brother (the family relation)
-  BrowserStack:
-    categories:
-      - testing
   Browserify:
     categories:
       - build tool
+  BrowserStack:
+    categories:
+      - testing
+  BSD:
+    categories:
+      - operating system
+    expanded_form: Berkeley Software Distribution
+  BSON:
+    categories:
+      - encoding
+    expanded_form: Binary JSON
+  BSSID:
+    categories:
+      - network
+    expanded_form: Basic Service Set Identifier
+  BST:
+    categories:
+      - data structure
+    expanded_form: Binary Search Tree
   Btrfs:
     categories:
       - file system
@@ -648,6 +647,10 @@ terms:
       - nationality
       - Bulgaria
     plural: Bulgarians
+  BYOD:
+    categories:
+      - technology
+    expanded_form: Bring Your Own Device
   C:
     categories:
       - programming language
@@ -657,130 +660,6 @@ terms:
   C++:
     categories:
       - programming language
-  CAP:
-    categories:
-      - architecture
-    expanded_form: Consistency, Availability, Partition Tolerance
-  CAPTCHA:
-    categories:
-      - authentication
-    expanded_form: Completely Automated Public Turing test to tell Computers and Humans Apart
-    plural: CAPTCHAs
-  CBS:
-    categories:
-      - media
-    expanded_form: Columbia Broadcasting System
-  CD-ROM:
-    categories:
-      - hardware
-    expanded_form: Compact Disc Read-Only Memory
-  CD-RW:
-    categories:
-      - hardware
-    expanded_form: Compact Disc ReWritable
-  CDN:
-    categories:
-      - network
-    expanded_form: Content Delivery Network
-  CERN:
-    categories:
-      - international
-      - organization
-      - energy
-      - research
-      - particle physics
-      - nuclear
-      - science
-      - Europe
-    expanded_form: European Organization for Nuclear Research
-  CERT:
-    categories:
-      - security
-    expanded_form: Computer Emergency Response Team
-  CI:
-    categories:
-      - software development
-    expanded_form: Continuous Integration
-  CIA:
-    categories:
-      - government agency
-      - USA
-    expanded_form: Central Intelligence Agency
-  CIDR:
-    categories:
-      - network
-    expanded_form: Classless Inter-Domain Routing
-  CLI:
-    categories:
-      - software
-      - command line
-    expanded_form: Command Line Interface
-    plural: CLIs
-  CMake:
-    categories:
-      - build tool
-  CNCF:
-    categories:
-      - foundation
-    expanded_form: Cloud Native Computing Foundation
-  CORS:
-    categories:
-      - web development
-    expanded_form: Cross-Origin Resource Sharing
-  CPU:
-    categories:
-      - hardware
-    expanded_form: Central Processing Unit
-    plural: CPUs
-  CQRS:
-    categories:
-      - architecture
-    expanded_form: Command Query Responsibility Segregation
-  CRM:
-    categories:
-      - software
-    expanded_form: Customer Relationship Management
-  CRUD:
-    categories:
-      - software development
-    expanded_form: Create, Read, Update, Delete
-  CSON:
-    categories:
-      - data format
-    expanded_form: CoffeeScript Object Notation
-  CSR:
-    categories:
-      - architecture
-    expanded_form: Client Side Rendering
-  CSS:
-    categories:
-      - styling
-    expanded_form: Cascading Style Sheets
-  CST:
-    categories:
-      - timezone
-    expanded_form: Central Standard Time
-  CSV:
-    categories:
-      - data format
-    expanded_form: Comma-Separated Values
-  CSpell:
-    categories:
-      - software
-      - linter
-      - spell checker
-  CUPS:
-    categories:
-      - printing
-    expanded_form: Common Unix Printing System
-  CVE:
-    categories:
-      - security
-    expanded_form: Common Vulnerabilities and Exposures
-  CVS:
-    categories:
-      - version control
-    expanded_form: Concurrent Versions System
   Cadillac:
     categories:
       - automotive
@@ -788,6 +667,9 @@ terms:
     categories:
       - protocol
     expanded_form: Calendaring Extensions to WebDAV
+  camelCase:
+    categories:
+      - programming style
   Canada:
     categories:
       - country
@@ -805,9 +687,19 @@ terms:
       - printing
     disambiguation:
       - canon (military)
+  CAP:
+    categories:
+      - architecture
+    expanded_form: Consistency, Availability, Partition Tolerance
   Capacitor:
     categories:
       - framework
+  CAPTCHA:
+    categories:
+      - authentication
+    expanded_form: >-
+      Completely Automated Public Turing test to tell Computers and Humans Apart
+    plural: CAPTCHAs
   Cardano:
     categories:
       - cryptocurrency
@@ -825,6 +717,22 @@ terms:
       - language
       - Spain
       - France
+  CBS:
+    categories:
+      - media
+    expanded_form: Columbia Broadcasting System
+  CDN:
+    categories:
+      - network
+    expanded_form: Content Delivery Network
+  CD-ROM:
+    categories:
+      - hardware
+    expanded_form: Compact Disc Read-Only Memory
+  CD-RW:
+    categories:
+      - hardware
+    expanded_form: Compact Disc ReWritable
   Celery:
     categories:
       - task queue
@@ -833,6 +741,21 @@ terms:
       - operating system
       - Linux distribution
     expanded_form: Community ENTerprise Operating System
+  CERN:
+    categories:
+      - international
+      - organization
+      - energy
+      - research
+      - particle physics
+      - nuclear
+      - science
+      - Europe
+    expanded_form: European Organization for Nuclear Research
+  CERT:
+    categories:
+      - security
+    expanded_form: Computer Emergency Response Team
   ChatGPT:
     categories:
       - artificial intelligence
@@ -865,6 +788,19 @@ terms:
   Chrysler:
     categories:
       - automotive
+  CI:
+    categories:
+      - software development
+    expanded_form: Continuous Integration
+  CIA:
+    categories:
+      - government agency
+      - USA
+    expanded_form: Central Intelligence Agency
+  CIDR:
+    categories:
+      - network
+    expanded_form: Classless Inter-Domain Routing
   CircleCI:
     categories:
       - continuous integration
@@ -880,18 +816,31 @@ terms:
   Claude:
     categories:
       - LLM
+  CLI:
+    categories:
+      - software
+      - command line
+    expanded_form: Command Line Interface
+    plural: CLIs
   ClickHouse:
     categories:
       - database
+  Cloudflare:
+    categories:
+      - cloud
   CloudFront:
     categories:
       - cloud
   CloudWatch:
     categories:
       - monitoring
-  Cloudflare:
+  CMake:
     categories:
-      - cloud
+      - build tool
+  CNCF:
+    categories:
+      - foundation
+    expanded_form: Cloud Native Computing Foundation
   CockroachDB:
     categories:
       - database
@@ -910,6 +859,12 @@ terms:
   CoffeeScript:
     categories:
       - programming language
+  CommonJS:
+    categories:
+      - module system
+  CommonMark:
+    categories:
+      - markup language
   Common Wealth:
     categories:
       - region
@@ -920,12 +875,6 @@ terms:
       - New Zealand
       - Pakistan
       - India
-  CommonJS:
-    categories:
-      - module system
-  CommonMark:
-    categories:
-      - markup language
   Composer:
     categories:
       - package management
@@ -951,12 +900,29 @@ terms:
     categories:
       - operating system
       - Linux distribution
-  CouchDB:
+  CORS:
     categories:
-      - database
+      - web development
+    expanded_form: Cross-Origin Resource Sharing
   Couchbase:
     categories:
       - database
+  CouchDB:
+    categories:
+      - database
+  CPU:
+    categories:
+      - hardware
+    expanded_form: Central Processing Unit
+    plural: CPUs
+  CQRS:
+    categories:
+      - architecture
+    expanded_form: Command Query Responsibility Segregation
+  CRM:
+    categories:
+      - software
+    expanded_form: Customer Relationship Management
   Croatia:
     categories:
       - country
@@ -972,15 +938,60 @@ terms:
     categories:
       - scheduling
     plural: Cronjobs
+  CRUD:
+    categories:
+      - software development
+    expanded_form: Create, Read, Update, Delete
   Crystal:
     categories:
       - programming language
     disambiguation:
       - crystal (the mineral)
+  CSON:
+    categories:
+      - data format
+    expanded_form: CoffeeScript Object Notation
+  CSpell:
+    categories:
+      - software
+      - linter
+      - spell checker
+  CSR:
+    categories:
+      - architecture
+    expanded_form: Client Side Rendering
+  CSS:
+    categories:
+      - styling
+    expanded_form: Cascading Style Sheets
+  CST:
+    categories:
+      - timezone
+    expanded_form: Central Standard Time
+  CSV:
+    categories:
+      - data format
+    expanded_form: Comma-Separated Values
   Cthulhu:
     categories:
       - myth
       - horror
+  CUPS:
+    categories:
+      - printing
+    expanded_form: Common Unix Printing System
+  cURL:
+    categories:
+      - software
+    expanded_form: Client for URL
+  CVE:
+    categories:
+      - security
+    expanded_form: Common Vulnerabilities and Exposures
+  CVS:
+    categories:
+      - version control
+    expanded_form: Concurrent Versions System
   Cypress:
     categories:
       - testing
@@ -1003,113 +1014,6 @@ terms:
       - hardware
     expanded_form: Digital Audio Broadcasting Plus
   DAB/DAB+:
-    categories:
-      - hardware
-  DB2:
-    categories:
-      - database
-  DBA:
-    categories:
-      - job role
-      - database
-    expanded_form: Database Administrator
-    plural: DBAs
-  DBMS:
-    categories:
-      - database
-    expanded_form: Database Management System
-  DBus:
-    categories:
-      - software
-    expanded_form: Desktop Bus
-  DDD:
-    categories:
-      - software development
-    expanded_form: Domain-Driven Design
-  DDL:
-    categories:
-      - database
-    expanded_form: Data Definition Language
-    plural: DDLs
-  DDoS:
-    categories:
-      - security
-    expanded_form: Distributed Denial of Service
-  DEA:
-    categories:
-      - government agency
-      - USA
-    expanded_form: Drug Enforcement Administration
-  DHCP:
-    categories:
-      - network
-    expanded_form: Dynamic Host Configuration Protocol
-  DKMS:
-    categories:
-      - kernel
-    expanded_form: Dynamic Kernel Module Support
-  DLQ:
-    categories:
-      - messaging
-    expanded_form: Dead Letter Queue
-  DML:
-    categories:
-      - database
-    expanded_form: Data Manipulation Language
-  DNS:
-    categories:
-      - network
-    expanded_form: Domain Name System
-  DNSCrypt:
-    categories:
-      - security
-  DOM:
-    categories:
-      - web development
-    expanded_form: Document Object Model
-  DOS:
-    categories:
-      - operating system
-    expanded_form: MS-DOS
-  DRP:
-    categories:
-      - business
-      - document
-      - emergency management
-    expanded_form: Disaster Recovery Planning
-  DRY:
-    categories:
-      - software design principles
-    disambiguation:
-      - dry (the opposite of wet)
-    expanded_form: Don't Repeat Yourself
-  DS Automobiles:
-    categories:
-      - automotive
-  DSA:
-    categories:
-      - cryptography
-    expanded_form: Digital Signature Algorithm
-  DVD:
-    categories:
-      - hardware
-      - media
-    expanded_form: Digital Versatile Disc
-    plural: DVDs
-  DVD+R:
-    categories:
-      - hardware
-  DVD+RW:
-    categories:
-      - hardware
-  DVD-R:
-    categories:
-      - hardware
-    expanded_form: Digital Versatile Disc Recordable
-  DVD-RAM:
-    categories:
-      - hardware
-  DVD-RW:
     categories:
       - hardware
   Dacia:
@@ -1144,6 +1048,44 @@ terms:
   DataRobot:
     categories:
       - machine learning
+  DB2:
+    categories:
+      - database
+  DBA:
+    categories:
+      - job role
+      - database
+    expanded_form: Database Administrator
+    plural: DBAs
+  dBASE:
+    categories:
+      - database
+  DBMS:
+    categories:
+      - database
+    expanded_form: Database Management System
+  DBus:
+    categories:
+      - software
+    expanded_form: Desktop Bus
+  DDD:
+    categories:
+      - software development
+    expanded_form: Domain-Driven Design
+  DDL:
+    categories:
+      - database
+    expanded_form: Data Definition Language
+    plural: DDLs
+  DDoS:
+    categories:
+      - security
+    expanded_form: Distributed Denial of Service
+  DEA:
+    categories:
+      - government agency
+      - USA
+    expanded_form: Drug Enforcement Administration
   Debian:
     categories:
       - operating system
@@ -1174,6 +1116,10 @@ terms:
   Dgraph:
     categories:
       - database
+  DHCP:
+    categories:
+      - network
+    expanded_form: Dynamic Host Configuration Protocol
   DigitalOcean:
     categories:
       - cloud
@@ -1188,20 +1134,35 @@ terms:
   Django:
     categories:
       - web framework
-  DoS:
+  DKMS:
+    categories:
+      - kernel
+    expanded_form: Dynamic Kernel Module Support
+  DLQ:
+    categories:
+      - messaging
+    expanded_form: Dead Letter Queue
+  DML:
+    categories:
+      - database
+    expanded_form: Data Manipulation Language
+  DNS:
+    categories:
+      - network
+    expanded_form: Domain Name System
+  DNSCrypt:
     categories:
       - security
-    expanded_form: Denial of Service
   Docker:
     categories:
       - container
   Docker Compose:
     categories:
       - container
-  DockerHub:
+  Dockerfile:
     categories:
       - container
-  Dockerfile:
+  DockerHub:
     categories:
       - container
   Doctrine:
@@ -1210,13 +1171,45 @@ terms:
   Dodge:
     categories:
       - automotive
+  DOM:
+    categories:
+      - web development
+    expanded_form: Document Object Model
+  DoS:
+    categories:
+      - security
+    expanded_form: Denial of Service
+  DOS:
+    categories:
+      - operating system
+    expanded_form: MS-DOS
+
   DotNet:
     categories:
       - framework
+  DRP:
+    categories:
+      - business
+      - document
+      - emergency management
+    expanded_form: Disaster Recovery Planning
   Drupal:
     categories:
       - CMS
       - PHP
+  DRY:
+    categories:
+      - software design principles
+    disambiguation:
+      - dry (the opposite of wet)
+    expanded_form: Don't Repeat Yourself
+  DSA:
+    categories:
+      - cryptography
+    expanded_form: Digital Signature Algorithm
+  DS Automobiles:
+    categories:
+      - automotive
   DuckDuckGo:
     categories:
       - search
@@ -1226,6 +1219,29 @@ terms:
       - demonym
       - nationality
       - Netherlands
+  DVD:
+    categories:
+      - hardware
+      - media
+    expanded_form: Digital Versatile Disc
+    plural: DVDs
+  DVD+R:
+    categories:
+      - hardware
+  DVD-R:
+    categories:
+      - hardware
+    expanded_form: Digital Versatile Disc Recordable
+  DVD-RAM:
+    categories:
+      - hardware
+  DVD+RW:
+    categories:
+      - hardware
+
+  DVD-RW:
+    categories:
+      - hardware
   DynamoDB:
     categories:
       - database
@@ -1240,6 +1256,38 @@ terms:
   ECMAScript:
     categories:
       - programming language
+  EditorConfig:
+    categories:
+      - configuration
+  Egypt:
+    categories:
+      - country
+      - Africa
+  Egyptian:
+    categories:
+      - language
+      - demonym
+      - nationality
+    plural: Egyptians
+  Elasticsearch:
+    categories:
+      - search
+      - analytics
+      - database
+  Elastic Stack:
+    categories:
+      - monitoring
+  Electron:
+    categories:
+      - framework
+    disambiguation:
+      - electron (the particle)
+  Elixir:
+    categories:
+      - programming language
+    disambiguation:
+      - Elixir (the programming language)
+      - elixir (the potion)
   ELT:
     categories:
       - data processing
@@ -1249,6 +1297,13 @@ terms:
       - government agency
       - Europe
     expanded_form: European Medicines Agency
+  Emacs:
+    categories:
+      - software
+      - text editor
+  Ember.js:
+    categories:
+      - web framework
   EMEA:
     categories:
       - region
@@ -1256,6 +1311,12 @@ terms:
       - Middle East
       - Africa
     expanded_form: Europe, Middle East and Africa
+  English:
+    categories:
+      - language
+  Envato:
+    categories:
+      - company
   EOF:
     categories:
       - programming
@@ -1273,6 +1334,9 @@ terms:
     categories:
       - data format
     expanded_form: Electronic Publication
+  Erlang:
+    categories:
+      - programming language
   ESLint:
     categories:
       - linting
@@ -1293,72 +1357,6 @@ terms:
       - Est (East in French)
       - est (the third person singular form of "to be" in French)
     expanded_form: Eastern Standard Time
-  ETL:
-    categories:
-      - data processing
-    expanded_form: Extract, Transform, Load
-  ETag:
-    categories:
-      - web development
-    expanded_form: Entity Tag
-  EU:
-    categories:
-      - international
-      - organization
-      - Europe
-    expanded_form: European Union
-  EXIF:
-    categories:
-      - data format
-    expanded_form: Exchangeable Image File Format
-  EditorConfig:
-    categories:
-      - configuration
-  Egypt:
-    categories:
-      - country
-      - Africa
-  Egyptian:
-    categories:
-      - language
-      - demonym
-      - nationality
-    plural: Egyptians
-  Elastic Stack:
-    categories:
-      - monitoring
-  Elasticsearch:
-    categories:
-      - search
-      - analytics
-      - database
-  Electron:
-    categories:
-      - framework
-    disambiguation:
-      - electron (the particle)
-  Elixir:
-    categories:
-      - programming language
-    disambiguation:
-      - Elixir (the programming language)
-      - elixir (the potion)
-  Emacs:
-    categories:
-      - software
-      - text editor
-  Ember.js:
-    categories:
-      - web framework
-  English:
-    categories:
-      - language
-  Envato:
-    categories:
-      - company
-  Erlang:
-    categories:
-      - programming language
   Estonia:
     categories:
       - country
@@ -1371,12 +1369,26 @@ terms:
       - nationality
       - Estonia
     plural: Estonians
+  ETag:
+    categories:
+      - web development
+    expanded_form: Entity Tag
   Ethereum:
     categories:
       - blockchain
+  ETL:
+    categories:
+      - data processing
+    expanded_form: Extract, Transform, Load
   Etsy:
     categories:
       - company
+  EU:
+    categories:
+      - international
+      - organization
+      - Europe
+    expanded_form: European Union
   Europe:
     categories:
       - continent
@@ -1390,9 +1402,26 @@ terms:
   Excel:
     categories:
       - software
+  exFAT:
+    categories:
+      - file system
+    expanded_form: Extended File Allocation Table
+  EXIF:
+    categories:
+      - data format
+    expanded_form: Exchangeable Image File Format
   Express.js:
     categories:
       - web framework
+  ext2:
+    categories:
+      - file system
+  ext3:
+    categories:
+      - file system
+  ext4:
+    categories:
+      - file system
   F#:
     categories:
       - programming language
@@ -1400,6 +1429,24 @@ terms:
     categories:
       - file system
     expanded_form: Flash-Friendly File System
+  FaaS:
+    categories:
+      - cloud
+    expanded_form: Function as a Service
+  Facebook:
+    categories:
+      - social media
+      - GAFAM
+      - Meta Platforms, Inc.
+  FastAPI:
+    categories:
+      - web framework
+  FastHTTP:
+    categories:
+      - web server
+  Fastly:
+    categories:
+      - cloud
   FAT:
     categories:
       - file system
@@ -1422,6 +1469,13 @@ terms:
       - government agency
       - USA
     expanded_form: Food and Drug Administration
+  Ferrari:
+    categories:
+      - automotive
+  Fiat:
+    categories:
+      - automotive
+    expanded_form: Fabbrica Italiana Automobili Torino
   FIBA:
     categories:
       - sports
@@ -1438,59 +1492,6 @@ terms:
     categories:
       - caching
     expanded_form: First in, First out
-  FILO:
-    categories:
-      - caching
-    expanded_form: First in, Last out
-  FLOSS:
-    categories:
-      - software
-    expanded_form: Free/Libre and Open Source Software
-  FOSDEM:
-    categories:
-      - conference
-    expanded_form: Free and Open Source Developers' European Meeting
-  FOSS:
-    categories:
-      - software
-    expanded_form: Free and Open Source Software
-  FQCN:
-    categories:
-      - programming
-    expanded_form: Fully Qualified Class Name
-  FQDN:
-    categories:
-      - network
-    expanded_form: Fully Qualified Domain Name
-  FTP:
-    categories:
-      - protocol
-    expanded_form: File Transfer Protocol
-  FaaS:
-    categories:
-      - cloud
-    expanded_form: Function as a Service
-  Facebook:
-    categories:
-      - social media
-      - GAFAM
-      - Meta Platforms, Inc.
-  FastAPI:
-    categories:
-      - web framework
-  FastHTTP:
-    categories:
-      - web server
-  Fastly:
-    categories:
-      - cloud
-  Ferrari:
-    categories:
-      - automotive
-  Fiat:
-    categories:
-      - automotive
-    expanded_form: Fabbrica Italiana Automobili Torino
   Figma:
     categories:
       - design
@@ -1498,6 +1499,10 @@ terms:
     categories:
       - software
       - file transfer
+  FILO:
+    categories:
+      - caching
+    expanded_form: First in, Last out
   Finland:
     categories:
       - country
@@ -1526,6 +1531,10 @@ terms:
   Flickr:
     categories:
       - photo
+  FLOSS:
+    categories:
+      - software
+    expanded_form: Free/Libre and Open Source Software
   Flutter:
     categories:
       - framework
@@ -1544,11 +1553,27 @@ terms:
   Fortran:
     categories:
       - programming language
+  FOSDEM:
+    categories:
+      - conference
+    expanded_form: Free and Open Source Developers' European Meeting
+  FOSS:
+    categories:
+      - software
+    expanded_form: Free and Open Source Software
   Fox:
     categories:
       - media
     disambiguation:
       - fox (the animal)
+  FQCN:
+    categories:
+      - programming
+    expanded_form: Fully Qualified Class Name
+  FQDN:
+    categories:
+      - network
+    expanded_form: Fully Qualified Domain Name
   France:
     categories:
       - country
@@ -1556,6 +1581,9 @@ terms:
   FreeBSD:
     categories:
       - operating system
+  freeCodeCamp:
+    categories:
+      - education
   FreeDOS:
     categories:
       - operating system
@@ -1565,6 +1593,10 @@ terms:
       - demonym
       - nationality
       - France
+  FTP:
+    categories:
+      - protocol
+    expanded_form: File Transfer Protocol
   GAFAM:
     categories:
       - company
@@ -1589,86 +1621,6 @@ terms:
       - privacy
       - Europe
     expanded_form: General Data Protection Regulation
-  GFM:
-    categories:
-      - markup language
-    expanded_form: GitHub Flavored Markdown
-  GHz:
-    categories:
-      - hardware
-    expanded_form: Gigahertz
-  GIEC:
-    categories:
-      - international
-      - organization
-      - climate
-    expanded_form: Groupe d'experts intergouvernemental sur l'évolution du climat
-  GIF:
-    categories:
-      - image format
-    expanded_form: Graphics Interchange Format
-  GIMP:
-    categories:
-      - software
-    expanded_form: GNU Image Manipulation Program
-  GMC:
-    categories:
-      - automotive
-    expanded_form: General Motors Company
-  GMT:
-    categories:
-      - timezone
-    expanded_form: Greenwich Mean Time
-  GNOME:
-    categories:
-      - desktop environment
-      - Linux
-    disambiguation:
-      - gnome (the mythical creature)
-    expanded_form: GNU Network Object Model Environment
-  GNU:
-    categories:
-      - organization
-      - software
-    expanded_form: GNU's Not Unix
-  GNUMake:
-    categories:
-      - build tool
-  GPG:
-    categories:
-      - cryptography
-      - file extension
-    expanded_form: GNU Privacy Guard
-  GPL:
-    categories:
-      - license
-    expanded_form: General Public License
-  GPT:
-    categories:
-      - artificial intelligence
-    expanded_form: Generative Pre-trained Transformer
-  GPU:
-    categories:
-      - hardware
-    expanded_form: Graphics Processing Unit
-    plural: GPUs
-  GRUB:
-    categories:
-      - bootloader
-    expanded_form: Grand Unified Bootloader
-  GSM:
-    categories:
-      - network
-    expanded_form: Global System for Mobile Communications
-  GUI:
-    categories:
-      - software
-    expanded_form: Graphical User Interface
-  GUID:
-    categories:
-      - data format
-    expanded_form: Globally Unique Identifier
-    plural: GUIDs
   GeForce:
     categories:
       - hardware
@@ -1716,24 +1668,47 @@ terms:
     categories:
       - country
       - Europe
+  GFM:
+    categories:
+      - markup language
+    expanded_form: GitHub Flavored Markdown
   Gherkin:
     categories:
       - programming language
       - behavior-driven development
       - testing
+  GHz:
+    categories:
+      - hardware
+    expanded_form: Gigahertz
+  GIEC:
+    categories:
+      - international
+      - organization
+      - climate
+    expanded_form: >-
+      Groupe d'experts intergouvernemental sur l'évolution du climat
+  GIF:
+    categories:
+      - image format
+    expanded_form: Graphics Interchange Format
+  GIMP:
+    categories:
+      - software
+    expanded_form: GNU Image Manipulation Program
   Git:
     categories:
       - version control
   GitHub:
     categories:
       - software
+  GitHub Actions:
+    categories:
+      - continuous integration
   GitHub API:
     categories:
       - API
       - GitHub
-  GitHub Actions:
-    categories:
-      - continuous integration
   GitHub CLI Tool:
     categories:
       - CLI
@@ -1761,6 +1736,10 @@ terms:
     categories:
       - hosting
       - GitLab
+  gitmoji:
+    categories:
+      - emoji
+      - Git
   GlassFish:
     categories:
       - web server
@@ -1768,6 +1747,29 @@ terms:
     categories:
       - company category
     expanded_form: Gesellschaft mit beschränkter Haftung
+  GMC:
+    categories:
+      - automotive
+    expanded_form: General Motors Company
+  GMT:
+    categories:
+      - timezone
+    expanded_form: Greenwich Mean Time
+  GNOME:
+    categories:
+      - desktop environment
+      - Linux
+    disambiguation:
+      - gnome (the mythical creature)
+    expanded_form: GNU Network Object Model Environment
+  GNU:
+    categories:
+      - organization
+      - software
+    expanded_form: GNU's Not Unix
+  GNUMake:
+    categories:
+      - build tool
   GnuPG:
     categories:
       - cryptography
@@ -1776,15 +1778,15 @@ terms:
       - programming language
     disambiguation:
       - Go (the game)
-      - go (the verb) # This one is very problematic
-  GoLand:
-    categories:
-      - IDE
-      - Go
+      - go (the verb)
   Godzilla:
     categories:
       - movie
       - monster
+  GoLand:
+    categories:
+      - IDE
+      - Go
   Golang:
     categories:
       - programming language
@@ -1795,7 +1797,7 @@ terms:
       - GAFAM
       - Alphabet
     disambiguation:
-      - google (the verb) # This one is very problematic
+      - google (the verb)
   Google Ads:
     categories:
       - advertising
@@ -1880,6 +1882,24 @@ terms:
     categories:
       - conference
       - Go
+  GPG:
+    categories:
+      - cryptography
+      - file extension
+    expanded_form: GNU Privacy Guard
+  GPL:
+    categories:
+      - license
+    expanded_form: General Public License
+  GPT:
+    categories:
+      - artificial intelligence
+    expanded_form: Generative Pre-trained Transformer
+  GPU:
+    categories:
+      - hardware
+    expanded_form: Graphics Processing Unit
+    plural: GPUs
   Gradle:
     categories:
       - build tool
@@ -1893,10 +1913,10 @@ terms:
   GraphAPI:
     categories:
       - api
-  GraphQL:
+  GraphiQL:
     categories:
       - api
-  GraphiQL:
+  GraphQL:
     categories:
       - api
   Great Britain:
@@ -1915,20 +1935,53 @@ terms:
   Groovy:
     categories:
       - programming language
+  gRPC:
+    categories:
+      - api
+    expanded_form: Google Remote Procedure Call
+  GRUB:
+    categories:
+      - bootloader
+    expanded_form: Grand Unified Bootloader
+  GSM:
+    categories:
+      - network
+    expanded_form: Global System for Mobile Communications
+  GUI:
+    categories:
+      - software
+    expanded_form: Graphical User Interface
+  GUID:
+    categories:
+      - data format
+    expanded_form: Globally Unique Identifier
+    plural: GUIDs
   Guzzle:
     categories:
       - http client
+  Hadoop:
+    categories:
+      - data processing
+  Haiku:
+    categories:
+      - operating system
   HAProxy:
     categories:
       - reverse proxy
     expanded_form: High Availability Proxy
+  HashiCorp:
+    categories:
+      - company
+  Haskell:
+    categories:
+      - programming language
+  HBase:
+    categories:
+      - database
   HBO:
     categories:
       - media
     expanded_form: Home Box Office
-  HBase:
-    categories:
-      - database
   HD DVD:
     categories:
       - hardware
@@ -1944,6 +1997,15 @@ terms:
     categories:
       - hardware
     expanded_form: High-Definition Multimedia Interface
+  Hebrew:
+    categories:
+      - language
+  Helm:
+    categories:
+      - cloud
+  Heroku:
+    categories:
+      - cloud
   HFS:
     categories:
       - file system
@@ -1952,10 +2014,27 @@ terms:
     categories:
       - file system
     expanded_form: Hierarchical File System Plus
+  Hibernate:
+    categories:
+      - ORM
+      - Java
+  Hindi:
+    categories:
+      - language
+      - India
+  HiveMQ:
+    categories:
+      - messaging
   HMAC:
     categories:
       - cryptography
     expanded_form: Hash-based Message Authentication Code
+  Homebrew:
+    categories:
+      - package management
+  Honda:
+    categories:
+      - automotive
   HP-UX:
     categories:
       - operating system
@@ -1992,44 +2071,6 @@ terms:
     categories:
       - protocol
     expanded_form: HyperText Transfer Protocol Secure
-  Hadoop:
-    categories:
-      - data processing
-  Haiku:
-    categories:
-      - operating system
-  HashiCorp:
-    categories:
-      - company
-  Haskell:
-    categories:
-      - programming language
-  Hebrew:
-    categories:
-      - language
-  Helm:
-    categories:
-      - cloud
-  Heroku:
-    categories:
-      - cloud
-  Hibernate:
-    categories:
-      - ORM
-      - Java
-  Hindi:
-    categories:
-      - language
-      - India
-  HiveMQ:
-    categories:
-      - messaging
-  Homebrew:
-    categories:
-      - package management
-  Honda:
-    categories:
-      - automotive
   Hugo:
     categories:
       - static site generator
@@ -2077,6 +2118,15 @@ terms:
     categories:
       - localization
     expanded_form: Internationalization (with 10 letters between I and n)
+  i18n:
+    categories:
+      - localization
+    expanded_form: Internationalization (with 18 letters between I and n)
+  i386:
+    categories:
+      - hardware
+      - 32bits
+    expanded_form: Intel 386 bits
   IA-32:
     categories:
       - hardware
@@ -2085,6 +2135,14 @@ terms:
       - 32bits
       - Intel
     expanded_form: Intel Architecture 32 bits
+  IaaS:
+    categories:
+      - cloud
+    expanded_form: Infrastructure as a Service
+  IaC:
+    categories:
+      - architecture
+    expanded_form: Infrastructure as Code
   IANA:
     categories:
       - organization
@@ -2099,6 +2157,15 @@ terms:
     categories:
       - organization
     expanded_form: Internet Corporation for Assigned Names and Numbers
+  Iceland:
+    categories:
+      - country
+      - Europe
+      - Danmark
+  Icelandic:
+    categories:
+      - language
+      - Iceland
   ICMP:
     categories:
       - network
@@ -2143,6 +2210,9 @@ terms:
     categories:
       - network
     expanded_form: Internet Group Management Protocol
+  ImageMagick:
+    categories:
+      - software
   IMAP:
     categories:
       - protocol
@@ -2161,74 +2231,6 @@ terms:
       - organization
       - financial
     expanded_form: International Monetary Fund
-  IPFS:
-    categories:
-      - file system
-    expanded_form: InterPlanetary File System
-  IPsec:
-    categories:
-      - network
-    expanded_form: Internet Protocol Security
-  IPv4:
-    categories:
-      - network
-    expanded_form: Internet Protocol version 4
-  IPv6:
-    categories:
-      - network
-    expanded_form: Internet Protocol version 6
-  IRIX:
-    categories:
-      - operating system
-  ISBN:
-    categories:
-      - standard
-    expanded_form: International Standard Book Number
-  ISDN:
-    categories:
-      - network
-    expanded_form: Integrated Services Digital Network
-  ISO:
-    categories:
-      - organization
-      - standard
-    expanded_form: International Organization for Standardization
-  ISS:
-    categories:
-      - space
-      - international
-      - science
-    expanded_form: International Space Station
-  IST:
-    categories:
-      - timezone
-    expanded_form: Indian Standard Time
-  ITCP:
-    categories:
-      - business
-      - document
-      - emergency management
-    expanded_form: Information Technology Contingency Planning
-  IaC:
-    categories:
-      - architecture
-    expanded_form: Infrastructure as Code
-  IaaS:
-    categories:
-      - cloud
-    expanded_form: Infrastructure as a Service
-  Iceland:
-    categories:
-      - country
-      - Europe
-      - Danmark
-  Icelandic:
-    categories:
-      - language
-      - Iceland
-  ImageMagick:
-    categories:
-      - software
   IndexedDB:
     categories:
       - database
@@ -2284,16 +2286,71 @@ terms:
     categories:
       - software design
     expanded_form: Inversion of Control
+  iOS:
+    categories:
+      - operating system
   IoT:
     categories:
       - technology
     expanded_form: Internet of Things
+  iPad:
+    categories:
+      - hardware
+  iPadOS:
+    categories:
+      - operating system
+    expanded_form: iPad Operating System
+  IPFS:
+    categories:
+      - file system
+    expanded_form: InterPlanetary File System
+  iPhone:
+    categories:
+      - hardware
+  IPsec:
+    categories:
+      - network
+    expanded_form: Internet Protocol Security
+  IPv4:
+    categories:
+      - network
+    expanded_form: Internet Protocol version 4
+  IPv6:
+    categories:
+      - network
+    expanded_form: Internet Protocol version 6
   Iran:
     categories:
       - country
+  IRIX:
+    categories:
+      - operating system
+  ISBN:
+    categories:
+      - standard
+    expanded_form: International Standard Book Number
+  ISDN:
+    categories:
+      - network
+    expanded_form: Integrated Services Digital Network
+  ISO:
+    categories:
+      - organization
+      - standard
+    expanded_form: International Organization for Standardization
   Israel:
     categories:
       - country
+  ISS:
+    categories:
+      - space
+      - international
+      - science
+    expanded_form: International Space Station
+  IST:
+    categories:
+      - timezone
+    expanded_form: Indian Standard Time
   Italian:
     categories:
       - language
@@ -2303,48 +2360,15 @@ terms:
     categories:
       - country
       - Europe
-  JFS:
+  ITCP:
     categories:
-      - file system
-    expanded_form: Journaled File System
-  JPEG:
+      - business
+      - document
+      - emergency management
+    expanded_form: Information Technology Contingency Planning
+  iTunes:
     categories:
-      - image format
-      - compression
-      - file extension
-    expanded_form: Joint Photographic Experts Group
-  JSON:
-    categories:
-      - data format
-    expanded_form: JavaScript Object Notation
-  JSON5:
-    categories:
-      - data format
-    expanded_form: JavaScript Object Notation 5
-  JSONC:
-    categories:
-      - data format
-    expanded_form: JavaScript Object Notation with Comments
-  JSONL:
-    categories:
-      - data format
-  JSONPath:
-    categories:
-      - data format
-  JVM:
-    categories:
-      - virtual machine
-    expanded_form: Java Virtual Machine
-  JWKS:
-    categories:
-      - security
-    expanded_form: JSON Web Key Set
-  JWT:
-    categories:
-      - security
-      - authentication
-      - authorization
-    expanded_form: JSON Web Token
+      - software
   Jaeger:
     categories:
       - monitoring
@@ -2392,39 +2416,63 @@ terms:
   JetStream:
     categories:
       - messaging
+  JFS:
+    categories:
+      - file system
+    expanded_form: Journaled File System
   Jira:
     categories:
       - software
       - project management
       - bug tracking
       - Atlassian
+  JPEG:
+    categories:
+      - image format
+      - compression
+      - file extension
+    expanded_form: Joint Photographic Experts Group
+  jQuery:
+    categories:
+      - web framework
+  JSON:
+    categories:
+      - data format
+    expanded_form: JavaScript Object Notation
+  JSON5:
+    categories:
+      - data format
+    expanded_form: JavaScript Object Notation 5
+  JSONC:
+    categories:
+      - data format
+    expanded_form: JavaScript Object Notation with Comments
+  JSONL:
+    categories:
+      - data format
+  JSONPath:
+    categories:
+      - data format
   Jujutsu:
     categories:
       - martial art
   Jupyter:
     categories:
       - software
-  KDE:
+  JVM:
     categories:
-      - desktop environment
-      - Linux
-    expanded_form: K Desktop Environment
-  KDM:
+      - virtual machine
+    expanded_form: Java Virtual Machine
+  JWKS:
     categories:
-      - display manager
-      - KDE
-    expanded_form: KDE Display Manager
-  KISS:
+      - security
+    expanded_form: JSON Web Key Set
+  JWT:
     categories:
-      - software principle
-    disambiguation:
-      - Kiss (the band)
-      - kiss (the greeting)
-    expanded_form: Keep It Simple, Stupid
-  KO:
-    categories:
-      - martial art
-    expanded_form: Knockout
+      - security
+      - authentication
+      - authorization
+    expanded_form: JSON Web Token
   Kafka:
     categories:
       - messaging
@@ -2448,25 +2496,46 @@ terms:
     categories:
       - country
       - Asia
+  KDE:
+    categories:
+      - desktop environment
+      - Linux
+    expanded_form: K Desktop Environment
+  KDM:
+    categories:
+      - display manager
+      - KDE
+    expanded_form: KDE Display Manager
   KeePass:
     categories:
       - software
-  KiTTY:
-    categories:
-      - SSH
-      - terminal emulator
-    disambiguation:
-      - kitty (the animal)
   Kia:
     categories:
       - automotive
   Kibana:
     categories:
       - monitoring
+  KISS:
+    categories:
+      - software principle
+    disambiguation:
+      - Kiss (the band)
+      - kiss (the greeting)
+    expanded_form: Keep It Simple, Stupid
   Kiswahili:
     categories:
       - language
       - Tanzania
+  KiTTY:
+    categories:
+      - SSH
+      - terminal emulator
+    disambiguation:
+      - kitty (the animal)
+  KO:
+    categories:
+      - martial art
+    expanded_form: Knockout
   Korean:
     categories:
       - language
@@ -2481,6 +2550,9 @@ terms:
     categories:
       - container
       - orchestration
+  Lamborghini:
+    categories:
+      - automotive
   LAMP:
     categories:
       - software stack
@@ -2489,41 +2561,6 @@ terms:
     categories:
       - network
     expanded_form: Local Area Network
-  LDAP:
-    categories:
-      - directory service
-    expanded_form: Lightweight Directory Access Protocol
-  LGPL:
-    categories:
-      - license
-    expanded_form: Lesser General Public License
-  LIFO:
-    categories:
-      - caching
-    expanded_form: Last in, First out
-  LLM:
-    categories:
-      - artificial intelligence
-    expanded_form: Large Language Model
-    plural: LLMs
-  LRU:
-    categories:
-      - caching
-    expanded_form: Least Recently Used
-  LTS:
-    categories:
-      - software
-    expanded_form: Long Term Support
-  LXQt:
-    categories:
-      - desktop environment
-      - Linux
-  LaTeX:
-    categories:
-      - markup language
-  Lamborghini:
-    categories:
-      - automotive
   Land Rover:
     categories:
       - automotive
@@ -2542,6 +2579,9 @@ terms:
       - software
       - password manager
       - security
+  LaTeX:
+    categories:
+      - markup language
   Latin:
     categories:
       - language
@@ -2564,6 +2604,10 @@ terms:
     categories:
       - software
       - Git
+  LDAP:
+    categories:
+      - directory service
+    expanded_form: Lightweight Directory Access Protocol
   Leet:
     categories:
       - programming language
@@ -2582,9 +2626,20 @@ terms:
   Lexus:
     categories:
       - automotive
+  LGPL:
+    categories:
+      - license
+    expanded_form: Lesser General Public License
+  libbpf:
+    categories:
+      - library
   LibreOffice:
     categories:
       - software
+  LIFO:
+    categories:
+      - caching
+    expanded_form: Last in, First out
   LightDM:
     categories:
       - display manager
@@ -2610,6 +2665,11 @@ terms:
     categories:
       - language
       - Lithuania
+  LLM:
+    categories:
+      - artificial intelligence
+    expanded_form: Large Language Model
+    plural: LLMs
   Lodash:
     categories:
       - library
@@ -2624,6 +2684,14 @@ terms:
       - software
       - email
       - collaboration
+  LRU:
+    categories:
+      - caching
+    expanded_form: Least Recently Used
+  LTS:
+    categories:
+      - software
+    expanded_form: Long Term Support
   Lua:
     categories:
       - programming language
@@ -2632,6 +2700,70 @@ terms:
       - operating system
       - Linux distribution
       - Ubuntu variant
+  LXQt:
+    categories:
+      - desktop environment
+      - Linux
+  MacBook:
+    categories:
+      - hardware
+      - Apple
+  Macedonia:
+    categories:
+      - country
+      - Europe
+  Macedonian:
+    categories:
+      - language
+      - Macedonia
+  macOS:
+    categories:
+      - operating system
+      - Apple
+  Mac OS X:
+    categories:
+      - operating system
+      - Apple
+      - macOS
+    expanded_form: Macintosh Operating System Ten
+  Magento:
+    categories:
+      - ecommerce
+  MailChimp:
+    categories:
+      - email
+      - marketing
+  Mailgun:
+    categories:
+      - communication
+      - email
+  Makefile:
+    categories:
+      - build tool
+  Malay:
+    categories:
+      - language
+      - Malaysia
+  Malaysia:
+    categories:
+      - country
+      - Asia
+  MariaDB:
+    categories:
+      - database
+      - SQL
+  Markdown:
+    categories:
+      - markup language
+  Maserati:
+    categories:
+      - automotive
+  Mazda:
+    categories:
+      - automotive
+  McLaren:
+    categories:
+      - automotive
   MDT:
     categories:
       - timezone
@@ -2642,17 +2774,69 @@ terms:
       - Middle East
       - North Africa
     expanded_form: Middle East and North Africa
+  Mercedes-Benz:
+    categories:
+      - automotive
+  Mercurial:
+    categories:
+      - version control
+  Meta:
+    categories:
+      - company
+      - GAFAM
+      - Facebook
+      - Instagram
+      - WhatsApp
+    expanded_form: Meta Platforms, Inc.
+  Mexican:
+    categories:
+      - nationality
+      - demonym
+      - language
+      - Mexico
+    plural: Mexicans
+  Mexico:
+    categories:
+      - country
+      - city
+      - North America
   MFA:
     categories:
       - authentication
     expanded_form: Multi-Factor Authentication
+  Microsoft:
+    categories:
+      - company
+      - GAFAM
+  Microsoft 365:
+    categories:
+      - software
+  Microsoft SQL Server:
+    categories:
+      - database
+  Microsoft Teams:
+    categories:
+      - communication
+  Microsoft Windows:
+    categories:
+      - operating system
+  Mini:
+    categories:
+      - automotive
   MINIX:
+    categories:
+      - operating system
+  MirBSD:
     categories:
       - operating system
   MIT:
     categories:
       - education
     expanded_form: Massachusetts Institute of Technology
+  Mitsubishi:
+    categories:
+      - automotive
+      - motorcycles
   MLOps:
     categories:
       - machine learning
@@ -2664,6 +2848,54 @@ terms:
       - CPU
       - architecture
     expanded_form: MultiMedia eXtensions
+  MochaJS:
+    categories:
+      - testing
+  Modernizr:
+    categories:
+      - web development
+  Moment.js:
+    categories:
+      - date
+      - JavaScript library
+  Mongo:
+    categories:
+      - database
+  MongoDB:
+    categories:
+      - database
+  Mongolia:
+    categories:
+      - country
+      - Asia
+  Mongolian:
+    categories:
+      - language
+      - Mongolia
+  MooTools:
+    categories:
+      - web framework
+      - JavaScript
+  Moroccan:
+    categories:
+      - language
+      - Morocco
+  Morocco:
+    categories:
+      - country
+      - Africa
+      - North Africa
+  Mozambican:
+    categories:
+      - language
+      - Mozambique
+  Mozambique:
+    categories:
+      - country
+      - Africa
+  Mozilla:
+    categories:
+      - company
   MP3:
     categories:
       - audio format
@@ -2714,168 +2946,19 @@ terms:
     categories:
       - architecture
     expanded_form: Model-View-ViewModel
-  Mac OS X:
-    categories:
-      - operating system
-      - Apple
-      - macOS
-    expanded_form: Macintosh Operating System Ten
-  MacBook:
-    categories:
-      - hardware
-      - Apple
-  Macedonia:
-    categories:
-      - country
-      - Europe
-  Macedonian:
-    categories:
-      - language
-      - Macedonia
-  Magento:
-    categories:
-      - ecommerce
-  MailChimp:
-    categories:
-      - email
-      - marketing
-  Mailgun:
-    categories:
-      - communication
-      - email
-  Makefile:
-    categories:
-      - build tool
-  Malay:
-    categories:
-      - language
-      - Malaysia
-  Malaysia:
-    categories:
-      - country
-      - Asia
-  MariaDB:
-    categories:
-      - database
-      - SQL
-  Markdown:
-    categories:
-      - markup language
-  Maserati:
-    categories:
-      - automotive
-  Mazda:
-    categories:
-      - automotive
-  McLaren:
-    categories:
-      - automotive
-  Mercedes-Benz:
-    categories:
-      - automotive
-  Mercurial:
-    categories:
-      - version control
-  Meta:
-    categories:
-      - company
-      - GAFAM
-      - Facebook
-      - Instagram
-      - WhatsApp
-    expanded_form: Meta Platforms, Inc.
-  Mexican:
-    categories:
-      - nationality
-      - demonym
-      - language
-      - Mexico
-    plural: Mexicans
-  Mexico:
-    categories:
-      - country
-      - city
-      - North America
-  Microsoft:
-    categories:
-      - company
-      - GAFAM
-  Microsoft 365:
-    categories:
-      - software
-  Microsoft SQL Server:
-    categories:
-      - database
-  Microsoft Teams:
-    categories:
-      - communication
-  Microsoft Windows:
-    categories:
-      - operating system
-  Mini:
-    categories:
-      - automotive
-  MirBSD:
-    categories:
-      - operating system
-  Mitsubishi:
-    categories:
-      - automotive
-      - motorcycles
-  MochaJS:
-    categories:
-      - testing
-  Modernizr:
-    categories:
-      - web development
-  Moment.js:
-    categories:
-      - date
-      - JavaScript library
-  Mongo:
-    categories:
-      - database
-  MongoDB:
-    categories:
-      - database
-  Mongolia:
-    categories:
-      - country
-      - Asia
-  Mongolian:
-    categories:
-      - language
-      - Mongolia
-  MooTools:
-    categories:
-      - web framework
-      - JavaScript
-  Moroccan:
-    categories:
-      - language
-      - Morocco
-  Morocco:
-    categories:
-      - country
-      - Africa
-      - North Africa
-  Mozambican:
-    categories:
-      - language
-      - Mozambique
-  Mozambique:
-    categories:
-      - country
-      - Africa
-  Mozilla:
-    categories:
-      - company
   MyRocks:
     categories:
       - database
   MySQL:
     categories:
       - database
+  Nagios:
+    categories:
+      - monitoring
+  NaN:
+    categories:
+      - programming
+    expanded_form: Not a Number
   NASA:
     categories:
       - organization
@@ -2910,58 +2993,18 @@ terms:
     categories:
       - data format
     expanded_form: Newline Delimited JSON
-  NFL:
-    categories:
-      - sports
-    expanded_form: National Football League
-  NFS:
-    categories:
-      - file system
-    expanded_form: Network File System
-  NFT:
-    categories:
-      - blockchain
-    expanded_form: Non-Fungible Token
-  NIH:
-    categories:
-      - software development
-    expanded_form: Not Invented Here
-  NILFS:
-    categories:
-      - file system
-    expanded_form: New Implementation of a Log-structured File System
-  NIST:
-    categories:
-      - organization
-      - American organization
-    expanded_form: National Institute of Standards and Technology
-  NTFS:
-    categories:
-      - file system
-    expanded_form: New Technology File System
-  NYSE:
-    categories:
-      - financial
-    expanded_form: New York Stock Exchange
-  NaN:
-    categories:
-      - programming
-    expanded_form: Not a Number
-  Nagios:
-    categories:
-      - monitoring
   NeoVim:
     categories:
       - editor
   NetApp:
     categories:
       - company
-  NetBSD:
-    categories:
-      - operating system
   NetBeans:
     categories:
       - IDE
+  NetBSD:
+    categories:
+      - operating system
   Netflix:
     categories:
       - video
@@ -2975,21 +3018,46 @@ terms:
   New Relic:
     categories:
       - monitoring
-  Next.js:
-    categories:
-      - web framework
   Nextcloud:
     categories:
       - cloud
+  Next.js:
+    categories:
+      - web framework
+  NFL:
+    categories:
+      - sports
+    expanded_form: National Football League
+  NFS:
+    categories:
+      - file system
+    expanded_form: Network File System
+  NFT:
+    categories:
+      - blockchain
+    expanded_form: Non-Fungible Token
+  nginx:
+    categories:
+      - web server
+  NIH:
+    categories:
+      - software development
+    expanded_form: Not Invented Here
+  NILFS:
+    categories:
+      - file system
+    expanded_form: New Implementation of a Log-structured File System
   Nissan:
     categories:
       - automotive
+  NIST:
+    categories:
+      - organization
+      - American organization
+    expanded_form: National Institute of Standards and Technology
   NixOS:
     categories:
       - operating system
-  NoSQL:
-    categories:
-      - database
   Node.js:
     categories:
       - runtime
@@ -3007,6 +3075,9 @@ terms:
       - nationality
       - Norway
     plural: Norwegians
+  NoSQL:
+    categories:
+      - database
   Notepad++:
     categories:
       - software
@@ -3014,12 +3085,26 @@ terms:
   Notion:
     categories:
       - software
+  npm:
+    categories:
+      - package management
+  NTFS:
+    categories:
+      - file system
+    expanded_form: New Technology File System
   NuGet:
     categories:
       - package management
   Nvidia:
     categories:
       - hardware
+  nvm:
+    categories:
+      - version management
+  NYSE:
+    categories:
+      - financial
+    expanded_form: New York Stock Exchange
   OAuth:
     categories:
       - authentication
@@ -3032,6 +3117,12 @@ terms:
       - identity
       - authorization
     expanded_form: Open Authorization 2.0
+  Objective-C:
+    categories:
+      - programming language
+  Oceania:
+    categories:
+      - region
   OCR:
     categories:
       - computer vision
@@ -3052,6 +3143,10 @@ terms:
     categories:
       - general
     expanded_form: Zero Kill (originally a military term)
+  Okta:
+    categories:
+      - authentication
+      - identity
   OLAP:
     categories:
       - database
@@ -3068,51 +3163,6 @@ terms:
     categories:
       - programming
     expanded_form: Object-Oriented Programming
-  ORM:
-    categories:
-      - database
-    expanded_form: Object-Relational Mapping
-  OS X:
-    categories:
-      - operating system
-      - Apple
-      - macOS
-    expanded_form: Operating System Ten
-  OSM:
-    categories:
-      - mapping
-    expanded_form: OpenStreetMap
-  OSS:
-    categories:
-      - software
-    expanded_form: Open Source Software
-  OTLP:
-    categories:
-      - observability
-    expanded_form: OpenTelemetry Protocol
-  OTel:
-    categories:
-      - observability
-    expanded_form: OpenTelemetry
-  OVH:
-    categories:
-      - cloud
-      - hosting
-  OWASP:
-    categories:
-      - organization
-      - security
-    expanded_form: Open Web Application Security Project
-  Objective-C:
-    categories:
-      - programming language
-  Oceania:
-    categories:
-      - region
-  Okta:
-    categories:
-      - authentication
-      - identity
   Opel:
     categories:
       - automotive
@@ -3164,16 +3214,6 @@ terms:
     categories:
       - encryption
     expanded_form: Open Pretty Good Privacy
-  OpenSSH:
-    categories:
-      - network
-      - security
-    expanded_form: Open Secure Shell
-  OpenSSL:
-    categories:
-      - network
-      - security
-    expanded_form: Open Secure Sockets Layer
   OpenSearch:
     categories:
       - search
@@ -3184,17 +3224,31 @@ terms:
   OpenSolaris:
     categories:
       - operating system
+  OpenSSH:
+    categories:
+      - network
+      - security
+    expanded_form: Open Secure Shell
+  OpenSSL:
+    categories:
+      - network
+      - security
+    expanded_form: Open Secure Sockets Layer
   OpenStack:
     categories:
       - cloud
       - orchestration
+  openSUSE:
+    categories:
+      - operating system
+    expanded_form: Open Software und System-Entwicklung
+  OpenTelemetry:
+    categories:
+      - observability
   OpenTSDB:
     categories:
       - database
     expanded_form: Open Time Series Database
-  OpenTelemetry:
-    categories:
-      - observability
   OpenVPN:
     categories:
       - network
@@ -3211,10 +3265,78 @@ terms:
       - company
     disambiguation:
       - oracle (divination)
+  ORM:
+    categories:
+      - database
+    expanded_form: Object-Relational Mapping
+  OSM:
+    categories:
+      - mapping
+    expanded_form: OpenStreetMap
+  OSS:
+    categories:
+      - software
+    expanded_form: Open Source Software
+  OS X:
+    categories:
+      - operating system
+      - Apple
+      - macOS
+    expanded_form: Operating System Ten
+  OTel:
+    categories:
+      - observability
+    expanded_form: OpenTelemetry
+  OTLP:
+    categories:
+      - observability
+    expanded_form: OpenTelemetry Protocol
+  OVH:
+    categories:
+      - cloud
+      - hosting
+  OWASP:
+    categories:
+      - organization
+      - security
+    expanded_form: Open Web Application Security Project
   P2P:
     categories:
       - network
     expanded_form: Peer-to-Peer
+  PaaS:
+    categories:
+      - cloud computing
+    expanded_form: Platform as a Service
+  Pagani:
+    categories:
+      - automotive
+  PagerDuty:
+    categories:
+      - monitoring
+  Pakistan:
+    categories:
+      - country
+      - Asia
+  Paradox:
+    categories:
+      - database
+  Parcel: null
+  Paris:
+    categories:
+      - city
+      - capital
+      - France
+  PascalCase:
+    categories:
+      - programming style
+  Pashto:
+    categories:
+      - language
+      - Iran
+  PayPal:
+    categories:
+      - payment
   PCRE:
     categories:
       - programming language
@@ -3236,79 +3358,6 @@ terms:
       - document
       - file format
     expanded_form: Portable Document Format
-  PGP:
-    categories:
-      - encryption
-      - security
-    expanded_form: Pretty Good Privacy
-  PHP:
-    categories:
-      - programming language
-      - web
-    expanded_form: PHP Hypertext Preprocessor
-  PHing:
-    categories:
-      - software
-      - build automation
-      - PHP
-  PIPL:
-    categories:
-      - regulation
-    expanded_form: Personal Information Protection Law
-  'PKCS #12':
-    categories:
-      - encryption
-    expanded_form: Public-Key Cryptography Standards
-  PNG:
-    categories:
-      - image format
-      - file extension
-    expanded_form: Portable Network Graphics
-  POP3:
-    categories:
-      - email
-    expanded_form: Post Office Protocol 3
-  POSIX:
-    categories:
-      - standard
-    expanded_form: Portable Operating System Interface
-  PPP:
-    categories:
-      - network
-    expanded_form: Point-to-Point Protocol
-  PaaS:
-    categories:
-      - cloud computing
-    expanded_form: Platform as a Service
-  Pagani:
-    categories:
-      - automotive
-  PagerDuty:
-    categories:
-      - monitoring
-  Pakistan:
-    categories:
-      - country
-      - Asia
-  Paradox:
-    categories:
-      - database
-  Parcel:
-  Paris:
-    categories:
-      - city
-      - capital
-      - France
-  PascalCase:
-    categories:
-      - programming style
-  Pashto:
-    categories:
-      - language
-      - Iran
-  PayPal:
-    categories:
-      - payment
   Percona:
     categories:
       - company
@@ -3324,6 +3373,11 @@ terms:
   Peugeot:
     categories:
       - automotive
+  PGP:
+    categories:
+      - encryption
+      - security
+    expanded_form: Pretty Good Privacy
   PhantomJS:
     categories:
       - web scraping
@@ -3332,6 +3386,16 @@ terms:
     categories:
       - country
       - Asia
+  PHing:
+    categories:
+      - software
+      - build automation
+      - PHP
+  PHP:
+    categories:
+      - programming language
+      - web
+    expanded_form: PHP Hypertext Preprocessor
   Pinterest:
     categories:
       - social media
@@ -3340,9 +3404,26 @@ terms:
     categories:
       - audio
       - software
+  PIPL:
+    categories:
+      - regulation
+    expanded_form: Personal Information Protection Law
+  'PKCS #12':
+    categories:
+      - encryption
+    expanded_form: Public-Key Cryptography Standards
   PlayStation:
     categories:
       - gaming
+  PNG:
+    categories:
+      - image format
+      - file extension
+    expanded_form: Portable Network Graphics
+  pnpm:
+    categories:
+      - package manager
+      - JavaScript
   PoC:
     categories:
       - software development
@@ -3358,6 +3439,10 @@ terms:
   Pontiac:
     categories:
       - automotive
+  POP3:
+    categories:
+      - email
+    expanded_form: Post Office Protocol 3
   Porsche:
     categories:
       - automotive
@@ -3368,15 +3453,19 @@ terms:
   Portuguese:
     categories:
       - language
-  PostScript:
+  POSIX:
     categories:
-      - markup language
-  PostgreSQL:
-    categories:
-      - database
+      - standard
+    expanded_form: Portable Operating System Interface
   Postgres:
     categories:
       - database
+  PostgreSQL:
+    categories:
+      - database
+  PostScript:
+    categories:
+      - markup language
   PowerPoint:
     categories:
       - presentation software
@@ -3388,6 +3477,10 @@ terms:
     categories:
       - software
       - Microsoft Windows
+  PPP:
+    categories:
+      - network
+    expanded_form: Point-to-Point Protocol
   Prettier:
     categories:
       - code formatting
@@ -3399,11 +3492,9 @@ terms:
       - observability
     disambiguation:
       - Prometheus (the Greek mythological figure)
-  PuTTY:
+  proselint:
     categories:
-      - SSH
-      - terminal emulator
-      - Windows
+      - linting
   PubSub:
     categories:
       - messaging
@@ -3418,6 +3509,11 @@ terms:
       - configuration management
     disambiguation:
       - puppet (the doll)
+  PuTTY:
+    categories:
+      - SSH
+      - terminal emulator
+      - Windows
   Pwned:
     categories:
       - security
@@ -3427,6 +3523,11 @@ terms:
       - Python
   PyPI:
     expanded_form: Python Package Index
+  Python:
+    categories:
+      - programming language
+    disambiguation:
+      - python (the snake)
   PyTorch:
     categories:
       - machine learning
@@ -3435,11 +3536,6 @@ terms:
     categories:
       - data serialization
     expanded_form: Python YAML
-  Python:
-    categories:
-      - programming language
-    disambiguation:
-      - python (the snake)
   QNX:
     categories:
       - operating system
@@ -3452,6 +3548,12 @@ terms:
       - programming language
     disambiguation:
       - R (the letter)
+  RabbitMQ:
+    categories:
+      - messaging
+  Rackspace:
+    categories:
+      - hosting
   RAM:
     categories:
       - hardware
@@ -3468,6 +3570,51 @@ terms:
     categories:
       - database
     expanded_form: Amazon Relational Database Service
+  React:
+    categories:
+      - web framework
+      - JavaScript
+    disambiguation:
+      - react (the verb)
+  ReactOS:
+    categories:
+      - operating system
+  Reddit:
+    categories:
+      - social media
+  Red Hat:
+    categories:
+      - company
+      - operating system
+      - Linux distribution
+  Redis:
+    categories:
+      - database
+  Redux:
+    categories:
+      - state management
+
+  RefluxJS: null
+  ReFS:
+    categories:
+      - file system
+    expanded_form: Resilient File System
+  ReiserFS:
+    categories:
+      - file system
+    expanded_form: Reiser File System
+  Renault:
+    categories:
+      - automotive
+  Renovate:
+    categories:
+      - dependency management
+    disambiguation:
+      - renovate (the verb)
+  RequireJS:
+    categories:
+      - JavaScript
+      - module loader
   REST:
     categories:
       - architectural style
@@ -3481,6 +3628,10 @@ terms:
   RESTful:
     categories:
       - architectural style
+  reStructuredText:
+    categories:
+      - markup language
+      - documentation
   RFC:
     categories:
       - document
@@ -3507,6 +3658,18 @@ terms:
     categories:
       - operating system
     expanded_form: Red Hat Enterprise Linux
+  RocketMQ:
+    categories:
+      - messaging
+  Romania:
+    categories:
+      - country
+      - Europe
+  Romanian:
+    categories:
+      - nationality
+      - language
+    plural: Romanians
   ROT13:
     categories:
       - obfuscation
@@ -3536,68 +3699,6 @@ terms:
       - humor
       - slang
     expanded_form: Read The Fucking Manual
-  RabbitMQ:
-    categories:
-      - messaging
-  Rackspace:
-    categories:
-      - hosting
-  ReFS:
-    categories:
-      - file system
-    expanded_form: Resilient File System
-  React:
-    categories:
-      - web framework
-      - JavaScript
-    disambiguation:
-      - react (the verb)
-  ReactOS:
-    categories:
-      - operating system
-  Red Hat:
-    categories:
-      - company
-      - operating system
-      - Linux distribution
-  Reddit:
-    categories:
-      - social media
-  Redis:
-    categories:
-      - database
-  Redux:
-    categories:
-      - state management
-  RefluxJS:
-  ReiserFS:
-    categories:
-      - file system
-    expanded_form: Reiser File System
-  Renault:
-    categories:
-      - automotive
-  Renovate:
-    categories:
-      - dependency management
-    disambiguation:
-      - renovate (the verb)
-  RequireJS:
-    categories:
-      - JavaScript
-      - module loader
-  RocketMQ:
-    categories:
-      - messaging
-  Romania:
-    categories:
-      - country
-      - Europe
-  Romanian:
-    categories:
-      - nationality
-      - language
-    plural: Romanians
   Ruby:
     categories:
       - programming language
@@ -3624,6 +3725,29 @@ terms:
   Rustup:
     categories:
       - software
+  Saab:
+    categories:
+      - automotive
+    expanded_form: Svenska Aeroplan Aktiebolaget
+  SaaS:
+    categories:
+      - deployment model
+    expanded_form: Software as a Service
+  Safari:
+    categories:
+      - web browser
+      - Apple
+    disambiguation:
+      - safari (the expedition)
+  Salesforce:
+    categories:
+      - software
+  Samba:
+    categories:
+      - software
+      - network
+    disambiguation:
+      - Samba (the music genre)
   SAML:
     categories:
       - authentication
@@ -3632,10 +3756,42 @@ terms:
     categories:
       - authentication
     expanded_form: Simple Authentication and Security Layer
+  Sass:
+    categories:
+      - styling
+    expanded_form: Syntactically Awesome Style Sheets
   SATA:
     categories:
       - hardware
     expanded_form: Serial Advanced Technology Attachment
+  Saudi Arabia:
+    categories:
+      - country
+      - Asia
+  Scala:
+    categories:
+      - programming language
+  Schengen:
+    categories:
+      - city
+  Schengen Area:
+    categories:
+      - agreement
+      - region
+      - Europe
+      - organization
+  Scotland:
+    categories:
+      - country
+      - Great Britain
+      - United Kingdom
+      - Europe
+  Scottish:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Scotland
   SCOWL:
     categories:
       - dictionary
@@ -3644,6 +3800,9 @@ terms:
     categories:
       - styling
     expanded_form: Sassy CSS
+  ScyllaDB:
+    categories:
+      - database
   SDHC:
     categories:
       - hardware
@@ -3660,16 +3819,48 @@ terms:
     categories:
       - hardware
     expanded_form: Secure Digital eXtended Capacity
+  Seat:
+    categories:
+      - automotive
+    expanded_form: Sociedad Española de Automóviles de Turismo
+  Selenium:
+    categories:
+      - software
+      - testing
+    disambiguation:
+      - Selenium (the chemical element)
   SELinux:
     categories:
       - security
       - Linux
     expanded_form: Security-Enhanced Linux
+  SemVer:
+    categories:
+      - versioning
+      - standard
+    expanded_form: Semantic Versioning
+  SendGrid:
+    categories:
+      - communication
+      - email
+  Sentry:
+    categories:
+      - monitoring
   SEO:
     categories:
       - marketing
       - web
     expanded_form: Search Engine Optimization
+  Serbia:
+    categories:
+      - country
+      - Europe
+  Serbian:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Serbia
   SFDC:
     categories:
       - software
@@ -3679,17 +3870,39 @@ terms:
       - network
       - file transfer
     expanded_form: Secure File Transfer Protocol
+  Shopify:
+    categories:
+      - software
+  Signal:
+    categories:
+      - communication
+  Silex:
+    categories:
+      - software
+    disambiguation:
+      - silex (the rock)
   SIMD:
     categories:
       - architecture
       - parallel computing
     expanded_form: Single Instruction, Multiple Data
+  Sina Weibo:
+    categories:
+      - social network
+      - Asia
+  Škoda:
+    categories:
+      - automotive
   SLA:
     categories:
       - business
       - document
     expanded_form: Service Level Agreement
     plural: SLAs
+  Slack:
+    categories:
+      - communication
+      - software
   SLiM:
     categories:
       - display manager
@@ -3697,6 +3910,29 @@ terms:
       - slim (adjective)
       - SLiM (short linear motif in Biology)
     expanded_form: Simple Login Manager
+  Slovak:
+    categories:
+      - language
+      - Slovakia
+  Slovakia:
+    categories:
+      - country
+      - Europe
+  Slovenia:
+    categories:
+      - country
+      - Europe
+  Slovenian:
+    categories:
+      - language
+      - demonym
+      - nationality
+      - Slovenia
+  Smart:
+    categories:
+      - automotive
+    disambiguation:
+      - smart (the adjective)
   SMTP:
     categories:
       - network
@@ -3711,21 +3947,70 @@ terms:
     categories:
       - web services
     expanded_form: Simple Object Access Protocol
+  Socket.IO:
+    categories:
+      - software
+      - network
+  Solaris:
+    categories:
+      - operating system
   SOLID:
     categories:
       - software design principles
     disambiguation:
       - solid (the state of matter)
-    expanded_form: Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+    expanded_form: >-
+      Single Responsibility, Open/Closed, Liskov Substitution,
+      Interface Segregation, Dependency Inversion
+  SolidJS:
+    categories:
+      - JavaScript
+  Solr:
+    categories:
+      - search
+  SonarQube:
+    categories:
+      - software
+      - monitoring
   SOQL:
     categories:
       - database
       - query language
     expanded_form: Salesforce Object Query Language
+  SoundCloud:
+    categories:
+      - audio
+      - music
+  SourceForge:
+    categories:
+      - software
+      - collaboration
+      - version control
+  South Korea:
+    categories:
+      - country
+      - Asia
   SPA:
     categories:
       - architecture
     expanded_form: Single Page Application
+  SpaceX:
+    categories:
+      - aerospace
+  Spanish:
+    categories:
+      - language
+      - nationality
+  SphinxDoc:
+    categories:
+      - documentation
+  Splunk:
+    categories:
+      - monitoring
+  Spotify:
+    categories:
+      - audio
+      - music
   SQL:
     categories:
       - database
@@ -3734,13 +4019,13 @@ terms:
   SQLAlchemy:
     categories:
       - software
-  SQLServer:
-    categories:
-      - database
   SQLite:
     categories:
       - database
   SQLite3:
+    categories:
+      - database
+  SQLServer:
     categories:
       - database
   SRE:
@@ -3789,198 +4074,6 @@ terms:
     categories:
       - architecture
     expanded_form: Server Side Rendering
-  SUSE:
-    categories:
-      - operating system
-    expanded_form: Software und System-Entwicklung
-  SVG:
-    categories:
-      - graphics
-      - file extension
-    expanded_form: Scalable Vector Graphics
-  SVN:
-    categories:
-      - version control
-    expanded_form: Subversion
-  SaaS:
-    categories:
-      - deployment model
-    expanded_form: Software as a Service
-  Saab:
-    categories:
-      - automotive
-    expanded_form: Svenska Aeroplan Aktiebolaget
-  Safari:
-    categories:
-      - web browser
-      - Apple
-    disambiguation:
-      - safari (the expedition)
-  Salesforce:
-    categories:
-      - software
-  Samba:
-    categories:
-      - software
-      - network
-    disambiguation:
-      - Samba (the music genre)
-  Sass:
-    categories:
-      - styling
-    expanded_form: Syntactically Awesome Style Sheets
-  Saudi Arabia:
-    categories:
-      - country
-      - Asia
-  Scala:
-    categories:
-      - programming language
-  Schengen:
-    categories:
-      - city
-  Schengen Area:
-    categories:
-      - agreement
-      - region
-      - Europe
-      - organization
-  Scotland:
-    categories:
-      - country
-      - Great Britain
-      - United Kingdom
-      - Europe
-  Scottish:
-    categories:
-      - language
-      - demonym
-      - nationality
-      - Scotland
-  ScyllaDB:
-    categories:
-      - database
-  Seat:
-    categories:
-      - automotive
-    expanded_form: Sociedad Española de Automóviles de Turismo
-  Selenium:
-    categories:
-      - software
-      - testing
-    disambiguation:
-      - Selenium (the chemical element)
-  SemVer:
-    categories:
-      - versioning
-      - standard
-    expanded_form: Semantic Versioning
-  SendGrid:
-    categories:
-      - communication
-      - email
-  Sentry:
-    categories:
-      - monitoring
-  Serbia:
-    categories:
-      - country
-      - Europe
-  Serbian:
-    categories:
-      - language
-      - demonym
-      - nationality
-      - Serbia
-  Shopify:
-    categories:
-      - software
-  Signal:
-    categories:
-      - communication
-  Silex:
-    categories:
-      - software
-    disambiguation:
-      - silex (the rock)
-  Sina Weibo:
-    categories:
-      - social network
-      - Asia
-  Slack:
-    categories:
-      - communication
-      - software
-  Slovak:
-    categories:
-      - language
-      - Slovakia
-  Slovakia:
-    categories:
-      - country
-      - Europe
-  Slovenia:
-    categories:
-      - country
-      - Europe
-  Slovenian:
-    categories:
-      - language
-      - demonym
-      - nationality
-      - Slovenia
-  Smart:
-    categories:
-      - automotive
-    disambiguation:
-      - smart (the adjective)
-  Socket.IO:
-    categories:
-      - software
-      - network
-  Solaris:
-    categories:
-      - operating system
-  SolidJS:
-    categories:
-      - JavaScript
-  Solr:
-    categories:
-      - search
-  SonarQube:
-    categories:
-      - software
-      - monitoring
-  SoundCloud:
-    categories:
-      - audio
-      - music
-  SourceForge:
-    categories:
-      - software
-      - collaboration
-      - version control
-  South Korea:
-    categories:
-      - country
-      - Asia
-  SpaceX:
-    categories:
-      - aerospace
-  Spanish:
-    categories:
-      - language
-      - nationality
-  SphinxDoc:
-    categories:
-      - documentation
-  Splunk:
-    categories:
-      - monitoring
-  Spotify:
-    categories:
-      - audio
-      - music
   Stack Exchange:
     categories:
       - community
@@ -4019,6 +4112,10 @@ terms:
   SurrealDB:
     categories:
       - database
+  SUSE:
+    categories:
+      - operating system
+    expanded_form: Software und System-Entwicklung
   Suzuki:
     categories:
       - automotive
@@ -4027,6 +4124,15 @@ terms:
       - framework
     disambiguation:
       - svelte (the adjective meaning thin)
+  SVG:
+    categories:
+      - graphics
+      - file extension
+    expanded_form: Scalable Vector Graphics
+  SVN:
+    categories:
+      - version control
+    expanded_form: Subversion
   Swagger:
     categories:
       - API documentation
@@ -4076,57 +4182,6 @@ terms:
     categories:
       - software
       - PHP
-  TCP:
-    categories:
-      - network
-    expanded_form: Transmission Control Protocol
-  TDD:
-    categories:
-      - software development
-    expanded_form: Test-Driven Development
-  TLD:
-    categories:
-      - domain
-    expanded_form: Top-Level Domain
-    plural: TLDs
-  TLS:
-    categories:
-      - security
-    expanded_form: Transport Layer Security
-  TOML:
-    categories:
-      - configuration
-      - markup language
-    expanded_form: Tom's Obvious, Minimal Language
-  TOTP:
-    categories:
-      - security
-    expanded_form: Time-based One-Time Password
-  TSLint:
-    categories:
-      - linting
-  TSV:
-    categories:
-      - file format
-    expanded_form: Tab-Separated Values
-  TTL:
-    categories:
-      - network
-      - caching
-    expanded_form: Time To Live
-    plural: TTLs
-  TTY:
-    categories:
-      - terminal
-    expanded_form: Teletypewriter
-  TUI:
-    categories:
-      - user interface
-    expanded_form: Text User Interface
-  TV:
-    categories:
-      - media
-    expanded_form: Television
   Tagalog:
     categories:
       - language
@@ -4150,6 +4205,14 @@ terms:
     categories:
       - programming language
     expanded_form: Tool Command Language
+  TCP:
+    categories:
+      - network
+    expanded_form: Transmission Control Protocol
+  TDD:
+    categories:
+      - software development
+    expanded_form: Test-Driven Development
   Telegram:
     categories:
       - social network
@@ -4203,10 +4266,24 @@ terms:
     categories:
       - social media
       - video
+  TLD:
+    categories:
+      - domain
+    expanded_form: Top-Level Domain
+    plural: TLDs
+  TLS:
+    categories:
+      - security
+    expanded_form: Transport Layer Security
   ToC:
     categories:
       - documentation
     expanded_form: Table of Contents
+  TOML:
+    categories:
+      - configuration
+      - markup language
+    expanded_form: Tom's Obvious, Minimal Language
   TortoiseGit:
     categories:
       - version control
@@ -4219,6 +4296,10 @@ terms:
     categories:
       - version control
       - Subversion
+  TOTP:
+    categories:
+      - security
+    expanded_form: Time-based One-Time Password
   Toyota:
     categories:
       - automotive
@@ -4237,6 +4318,27 @@ terms:
   Trustpilot:
     categories:
       - reviews
+  TSLint:
+    categories:
+      - linting
+  TSV:
+    categories:
+      - file format
+    expanded_form: Tab-Separated Values
+  TTL:
+    categories:
+      - network
+      - caching
+    expanded_form: Time To Live
+    plural: TTLs
+  TTY:
+    categories:
+      - terminal
+    expanded_form: Teletypewriter
+  TUI:
+    categories:
+      - user interface
+    expanded_form: Text User Interface
   Turkey:
     categories:
       - country
@@ -4244,6 +4346,17 @@ terms:
     categories:
       - language
       - Türkiye
+  Türkiye:
+    categories:
+      - country
+  TV:
+    categories:
+      - media
+    expanded_form: Television
+  tvOS:
+    categories:
+      - operating system
+    expanded_form: Television Operating System
   Twilio:
     categories:
       - communication
@@ -4257,13 +4370,28 @@ terms:
   TypeScript:
     categories:
       - programming language
-  Türkiye:
-    categories:
-      - country
   UAE:
     categories:
       - country
     expanded_form: United Arab Emirates
+  Uber:
+    categories:
+      - transportation
+  Ubuntu:
+    categories:
+      - operating system
+      - Linux distribution
+  UbuntuCE:
+    categories:
+      - operating system
+      - Linux distribution
+      - Ubuntu variant
+  Ubuntu MATE:
+    categories:
+      - operating system
+      - Linux distribution
+      - desktop Environment
+      - Ubuntu flavor
   UCI:
     categories:
       - sports
@@ -4293,6 +4421,15 @@ terms:
     categories:
       - country code
     expanded_form: United Kingdom
+  Ukraine:
+    categories:
+      - country
+      - Europe
+  Ukrainian:
+    categories:
+      - language
+      - Ukraine
+    plural: Ukrainians
   UML:
     categories:
       - modeling
@@ -4303,18 +4440,36 @@ terms:
       - organization
       - cultural
       - science
-    expanded_form: United Nations Educational, Scientific and Cultural Organization
+    expanded_form: >-
+      United Nations Educational, Scientific and Cultural Organization
   UNICEF:
     categories:
       - international
       - organization
       - humanitarian
     expanded_form: United Nations International Children's Emergency Fund
+  Unicode:
+    categories:
+      - encoding
+  United Arab Emirates:
+    categories:
+      - country
+  United Kingdom:
+    categories:
+      - country
+      - Europe
+  Unix:
+    categories:
+      - operating system
   UPnP:
     categories:
       - network
       - protocol
     expanded_form: Universal Plug and Play
+  Urdu:
+    categories:
+      - language
+      - Pakistan
   URI:
     categories:
       - web
@@ -4368,50 +4523,6 @@ terms:
     categories:
       - user interface
     expanded_form: User Experience
-  Uber:
-    categories:
-      - transportation
-  Ubuntu:
-    categories:
-      - operating system
-      - Linux distribution
-  Ubuntu MATE:
-    categories:
-      - operating system
-      - Linux distribution
-      - desktop Environment
-      - Ubuntu flavor
-  UbuntuCE:
-    categories:
-      - operating system
-      - Linux distribution
-      - Ubuntu variant
-  Ukraine:
-    categories:
-      - country
-      - Europe
-  Ukrainian:
-    categories:
-      - language
-      - Ukraine
-    plural: Ukrainians
-  Unicode:
-    categories:
-      - encoding
-  United Arab Emirates:
-    categories:
-      - country
-  United Kingdom:
-    categories:
-      - country
-      - Europe
-  Unix:
-    categories:
-      - operating system
-  Urdu:
-    categories:
-      - language
-      - Pakistan
   Uzbek:
     categories:
       - language
@@ -4420,44 +4531,6 @@ terms:
     categories:
       - country
       - Asia
-  VCS:
-    categories:
-      - software development
-      - version control
-    expanded_form: Version Control System
-  VKontakte:
-    categories:
-      - social network
-  VLAN:
-    categories:
-      - network
-    expanded_form: Virtual Local Area Network
-  VLC:
-    categories:
-      - multimedia
-      - video
-      - software
-    expanded_form: VideoLAN Client
-  VM:
-    categories:
-      - virtualization
-    expanded_form: Virtual Machine
-    plural: VMs
-  VMware:
-    categories:
-      - virtualization
-  VNC:
-    categories:
-      - remote desktop
-      - protocol
-    expanded_form: Virtual Network Computing
-  VPN:
-    categories:
-      - network
-    expanded_form: Virtual Private Network
-  VS Code:
-    categories:
-      - code editor
   Vagrant:
     categories:
       - virtualization
@@ -4474,6 +4547,11 @@ terms:
   Vauxhall:
     categories:
       - automotive
+  VCS:
+    categories:
+      - software development
+      - version control
+    expanded_form: Version Control System
   Vercel:
     categories:
       - cloud platform
@@ -4506,12 +4584,48 @@ terms:
       - software
     disambiguation:
       - vite (French word for speed)
+  VKontakte:
+    categories:
+      - social network
+  VLAN:
+    categories:
+      - network
+    expanded_form: Virtual Local Area Network
+  VLC:
+    categories:
+      - multimedia
+      - video
+      - software
+    expanded_form: VideoLAN Client
+  VM:
+    categories:
+      - virtualization
+    expanded_form: Virtual Machine
+    plural: VMs
+  VMware:
+    categories:
+      - virtualization
+  VNC:
+    categories:
+      - remote desktop
+      - protocol
+    expanded_form: Virtual Network Computing
   Volkswagen:
     categories:
       - automotive
   Volvo:
     categories:
       - automotive
+  VPN:
+    categories:
+      - network
+    expanded_form: Virtual Private Network
+  VS Code:
+    categories:
+      - code editor
+  vSphere:
+    categories:
+      - virtualization
   W3C:
     categories:
       - web
@@ -4524,6 +4638,12 @@ terms:
     categories:
       - web development
       - website
+  Wales:
+    categories:
+      - country
+      - United Kingdom
+      - Great Britain
+      - Europe
   WAMP:
     categories:
       - software stack
@@ -4532,23 +4652,106 @@ terms:
     categories:
       - network
     expanded_form: Wide Area Network
+  Wasm:
+    categories:
+      - web
+    expanded_form: WebAssembly
+  watchOS:
+    categories:
+      - Apple
+      - iOS
+      - operating system
+  Wayland:
+    categories:
+      - display server
+      - protocol
+  WebAssembly:
+    categories:
+      - web
+  WebDAV:
+    categories:
+      - protocol
+      - web
+    expanded_form: Web Distributed Authoring and Versioning
+  WebKit:
+    categories:
+      - browser engine
+      - Safari
+  Webpack:
+    categories:
+      - module bundler
+  WebRTC:
+    categories:
+      - communication
+      - web
+    expanded_form: Web Real-Time Communication
+  WebSocket:
+    categories:
+      - protocol
+      - web
+    plural: WebSockets
+  WebStorm:
+    categories:
+      - IDE
+  WeChat:
+    categories:
+      - social network
+      - Asia
+  Weibo:
+    categories:
+      - social network
+      - Asia
+  Welsh:
+    categories:
+      - language
+      - Wales
   WFP:
     categories:
       - international
       - organization
       - humanitarian
     expanded_form: World Food Programme
+  WhatsApp:
+    categories:
+      - communication
+      - software
+      - Meta Platforms, Inc.
   WHO:
     categories:
       - international
       - organization
       - health
     expanded_form: World Health Organization
+  Wi-Fi:
+    categories:
+      - network
+    expanded_form: Wireless Fidelity
+  Wikibase:
+    categories:
+      - knowledge base
+  Wikidata:
+    categories:
+      - knowledge base
+  Wikipedia:
+    categories:
+      - encyclopedia
+  Wikitext:
+    categories:
+      - markup language
+  Wiktionary:
+    categories:
+      - dictionary
+  Windows:
+    categories:
+      - operating system
   WMA:
     categories:
       - audio
       - file format
     expanded_form: Windows Media Audio
+  WordPress:
+    categories:
+      - content management system
   WSL:
     categories:
       - operating system
@@ -4575,101 +4778,9 @@ terms:
     categories:
       - web development
     expanded_form: What You See Is What You Mean
-  Wales:
-    categories:
-      - country
-      - United Kingdom
-      - Great Britain
-      - Europe
-  Wasm:
-    categories:
-      - web
-    expanded_form: WebAssembly
-  Wayland:
-    categories:
-      - display server
-      - protocol
-  WeChat:
-    categories:
-      - social network
-      - Asia
-  WebAssembly:
-    categories:
-      - web
-  WebDAV:
-    categories:
-      - protocol
-      - web
-    expanded_form: Web Distributed Authoring and Versioning
-  WebKit:
-    categories:
-      - browser engine
-      - Safari
-  WebRTC:
-    categories:
-      - communication
-      - web
-    expanded_form: Web Real-Time Communication
-  WebSocket:
-    categories:
-      - protocol
-      - web
-    plural: WebSockets
-  WebStorm:
-    categories:
-      - IDE
-  Webpack:
-    categories:
-      - module bundler
-  Weibo:
-    categories:
-      - social network
-      - Asia
-  Welsh:
-    categories:
-      - language
-      - Wales
-  WhatsApp:
-    categories:
-      - communication
-      - software
-      - Meta Platforms, Inc.
-  Wi-Fi:
-    categories:
-      - network
-    expanded_form: Wireless Fidelity
-  Wikibase:
-    categories:
-      - knowledge base
-  Wikidata:
-    categories:
-      - knowledge base
-  Wikipedia:
-    categories:
-      - encyclopedia
-  Wikitext:
-    categories:
-      - markup language
-  Wiktionary:
-    categories:
-      - dictionary
-  Windows:
-    categories:
-      - operating system
-  WordPress:
-    categories:
-      - content management system
   X:
     categories:
       - social network
-  X Window System:
-    categories:
-      - graphical user interface
-      - display server
-  X.509:
-    categories:
-      - security
-    expanded_form: ITU-T X.509 standard for public key certificates
   X386:
     categories:
       - hardware
@@ -4677,27 +4788,75 @@ terms:
       - X Window System
       - i386
       - IBM
+  X.509:
+    categories:
+      - security
+    expanded_form: ITU-T X.509 standard for public key certificates
+  x64:
+    categories:
+      - hardware
+      - 64bits
+    expanded_form: Intel 64 bits
+  x86-16:
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 16bits
+    expanded_form: x86 16 bits
+  x86-32:
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 32bits
+    expanded_form: x86 32 bits
+  x86-64:
+    categories:
+      - hardware
+      - CPU
+      - architecture
+      - 64bits
+    expanded_form: x86 64 bits
   XAMPP:
     categories:
       - software stack
     expanded_form: Cross-Platform, Apache, MySQL, PHP, Perl
+  Xbox:
+    categories:
+      - gaming
+  Xbox 360:
+    categories:
+      - gaming
+  Xcode:
+    categories:
+      - IDE
+  xDD:
+    categories:
+      - software development
+      - testing
+    expanded_form: eXtreme Test-Driven Development
   XDG:
     categories:
       - standard
     expanded_form: X Desktop Group
+  Xerok:
+    categories:
+      - hardware
+      - printing
   XFCE:
     categories:
       - desktop environment
       - Linux
     expanded_form: XForms Common Environment
-  XFS:
-    categories:
-      - file system
-    expanded_form: X File System
   XFree86:
     categories:
       - X Window System
       - display server
+  XFS:
+    categories:
+      - file system
+    expanded_form: X File System
   XHTML:
     categories:
       - markup language
@@ -4710,6 +4869,9 @@ terms:
     categories:
       - web
       - API
+  Xonsh:
+    categories:
+      - shell
   XSL:
     categories:
       - markup language
@@ -4722,6 +4884,23 @@ terms:
     categories:
       - security
     expanded_form: Cross-Site Scripting
+  XtraBackup:
+    categories:
+      - backup
+  Xubuntu:
+    categories:
+      - operating system
+      - Linux distribution
+      - Ubuntu variant
+  X Window System:
+    categories:
+      - graphical user interface
+      - display server
+  xxh:
+    categories:
+      - SSH
+      - shell
+      - dotfiles
   XXH128:
     categories:
       - hashing
@@ -4755,30 +4934,6 @@ terms:
       - xxHash
       - 64bits
     expanded_form: xxHash (version 2) 64bits
-  Xbox:
-    categories:
-      - gaming
-  Xbox 360:
-    categories:
-      - gaming
-  Xcode:
-    categories:
-      - IDE
-  Xerok:
-    categories:
-      - hardware
-      - printing
-  Xonsh:
-    categories:
-      - shell
-  XtraBackup:
-    categories:
-      - backup
-  Xubuntu:
-    categories:
-      - operating system
-      - Linux distribution
-      - Ubuntu variant
   YAGNI:
     categories:
       - software design principles
@@ -4789,13 +4944,13 @@ terms:
     categories:
       - markup language
     expanded_form: YAML Ain't Markup Language
+  Yarn:
+    categories:
+      - package manager
   YML:
     categories:
       - markup language
     expanded_form: YAML Markup Language
-  Yarn:
-    categories:
-      - package manager
   YouTube:
     categories:
       - video
@@ -4810,6 +4965,9 @@ terms:
   Zipkin:
     categories:
       - distributed tracing
+  zlib:
+    categories:
+      - compression
   ZooKeeper:
     categories:
       - distributed systems
@@ -4817,153 +4975,3 @@ terms:
     categories:
       - shell
     expanded_form: Z Shell
-  bitcoin:
-    categories:
-      - cryptocurrency
-  cURL:
-    categories:
-      - software
-    expanded_form: Client for URL
-  camelCase:
-    categories:
-      - programming style
-  dBASE:
-    categories:
-      - database
-  exFAT:
-    categories:
-      - file system
-    expanded_form: Extended File Allocation Table
-  ext2:
-    categories:
-      - file system
-  ext3:
-    categories:
-      - file system
-  ext4:
-    categories:
-      - file system
-  freeCodeCamp:
-    categories:
-      - education
-  gRPC:
-    categories:
-      - api
-    expanded_form: Google Remote Procedure Call
-  gitmoji:
-    categories:
-      - emoji
-      - Git
-  i18n:
-    categories:
-      - localization
-    expanded_form: Internationalization (with 18 letters between I and n)
-  i386:
-    categories:
-      - hardware
-      - 32bits
-    expanded_form: Intel 386 bits
-  iOS:
-    categories:
-      - operating system
-  iPad:
-    categories:
-      - hardware
-  iPadOS:
-    categories:
-      - operating system
-    expanded_form: iPad Operating System
-  iPhone:
-    categories:
-      - hardware
-  iTunes:
-    categories:
-      - software
-  jQuery:
-    categories:
-      - web framework
-  libbpf:
-    categories:
-      - library
-  macOS:
-    categories:
-      - operating system
-      - Apple
-  nginx:
-    categories:
-      - web server
-  npm:
-    categories:
-      - package management
-  nvm:
-    categories:
-      - version management
-  openSUSE:
-    categories:
-      - operating system
-    expanded_form: Open Software und System-Entwicklung
-  pnpm:
-    categories:
-      - package manager
-      - JavaScript
-  proselint:
-    categories:
-      - linting
-  reStructuredText:
-    categories:
-      - markup language
-      - documentation
-  tvOS:
-    categories:
-      - operating system
-    expanded_form: Television Operating System
-  vSphere:
-    categories:
-      - virtualization
-  watchOS:
-    categories:
-      - Apple
-      - iOS
-      - operating system
-  x64:
-    categories:
-      - hardware
-      - 64bits
-    expanded_form: Intel 64 bits
-  x86-16:
-    categories:
-      - hardware
-      - CPU
-      - architecture
-      - 16bits
-    expanded_form: x86 16 bits
-  x86-32:
-    categories:
-      - hardware
-      - CPU
-      - architecture
-      - 32bits
-    expanded_form: x86 32 bits
-  x86-64:
-    categories:
-      - hardware
-      - CPU
-      - architecture
-      - 64bits
-    expanded_form: x86 64 bits
-  xDD:
-    categories:
-      - software development
-      - testing
-    expanded_form: eXtreme Test-Driven Development
-  xxh:
-    categories:
-      - SSH
-      - shell
-      - dotfiles
-  zlib:
-    categories:
-      - compression
-  Škoda:
-    categories:
-      - automotive
