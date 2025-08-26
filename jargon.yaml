@@ -1413,13 +1413,7 @@ terms:
   ext2:
     categories:
       - file system
-  Ext3:
-    categories:
-      - file system
   ext3:
-    categories:
-      - file system
-  Ext4:
     categories:
       - file system
   ext4:
