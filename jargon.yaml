@@ -73,9 +73,18 @@ terms:
   Adwords:
     categories:
       - advertising
+  AFAIK:
+    categories:
+      - internet slang
+    expanded_form: As Far As I Know
   Afghanistan:
     categories:
       - country
+  AFK:
+    categories:
+      - internet slang
+      - chat
+    expanded_form: Away From Keyboard
   Africa:
     categories:
       - continent
@@ -349,6 +358,11 @@ terms:
   AsciiDoc:
     categories:
       - markup language
+  ASL:
+    categories:
+      - internet slang
+      - chat
+    expanded_form: Age, Sex, Location
   ASP:
     categories:
       - web framework
@@ -607,6 +621,11 @@ terms:
     categories:
       - language
       - Brazil
+  BRB:
+    categories:
+      - chat
+      - internet slang
+    expanded_form: Be Right Back
   BRIC:
     categories:
       - region
@@ -1326,6 +1345,10 @@ terms:
       - framework
     disambiguation:
       - electron (the particle)
+  ELI5:
+    categories:
+      - internet slang
+    expanded_form: Explain Like I'm 5
   Elixir:
     categories:
       - programming language
@@ -1664,10 +1687,28 @@ terms:
     categories:
       - protocol
     expanded_form: File Transfer Protocol
+  FTW:
+    categories:
+      - internet slang
+    expanded_form: For The Win
+  FUBAR:
+    categories:
+      - government
+      - military
+    expanded_form: Fouled Up Beyond All Recognition
+  FWIW:
+    categories:
+      - internet slang
+    expanded_form: For What It's Worth
   FYI:
     categories:
       - communication
     expanded_form: For Your Information
+  G2G:
+    categories:
+      - chat
+      - internet slang
+    expanded_form: Got To Go
   GAFAM:
     categories:
       - company
@@ -1743,6 +1784,12 @@ terms:
     categories:
       - markup language
     expanded_form: GitHub Flavored Markdown
+  GG:
+    categories:
+      - internet slang
+      - chat
+      - gaming
+    expanded_form: Good Game
   Gherkin:
     categories:
       - programming language
@@ -2245,12 +2292,24 @@ terms:
     categories:
       - network
     expanded_form: Internet Control Message Protocol
+  ICYMI:
+    categories:
+      - chat
+      - internet slang
+      - communication
+      - business
+    expanded_form: In Case You Missed It
   IDE:
     categories:
       - software
       - programming
     expanded_form: Integrated Development Environment
     plural: IDEs
+  IDK:
+    categories:
+      - chat
+      - internet slang
+    expanded_form: I Don't Know
   IE:
     categories:
       - web browser
@@ -2285,6 +2344,18 @@ terms:
     categories:
       - network
     expanded_form: Internet Group Management Protocol
+  IIRC:
+    categories:
+      - internet slang
+      - communication
+      - chat
+    expanded_form: If I Recall Correctly
+  IKR:
+    categories:
+      - internet slang
+      - communication
+      - chat
+    expanded_form: I Know, Right?
   ImageMagick:
     categories:
       - software
@@ -2406,6 +2477,11 @@ terms:
   IRIX:
     categories:
       - operating system
+  IRL:
+    categories:
+      - chat
+      - internet slang
+    expanded_form: In Real Life
   ISBN:
     categories:
       - standard
@@ -2450,6 +2526,11 @@ terms:
   iTunes:
     categories:
       - software
+  IYKYK:
+    categories:
+      - internet slang
+      - chat
+    expanded_form: If You Know, You Know
   Jaeger:
     categories:
       - monitoring
@@ -2767,12 +2848,24 @@ terms:
       - artificial intelligence
     expanded_form: Large Language Model
     plural: LLMs
+  LMAO:
+    categories:
+      - internet slang
+      - chat
+      - humor
+    expanded_form: Laughing My Ass Off
   Lodash:
     categories:
       - library
   Logstash:
     categories:
       - data processing
+  LOL:
+    categories:
+      - internet slang
+      - humor
+      - chat
+    expanded_form: Laughing Out Loud
   Lotus:
     categories:
       - automotive
@@ -3203,6 +3296,14 @@ terms:
   npm:
     categories:
       - package management
+  NSFL:
+    categories:
+      - internet slang
+    expanded_form: Not Safe For Life
+  NSFW:
+    categories:
+      - internet slang
+    expanded_form: Not Safe For Work
   NTFS:
     categories:
       - file system
@@ -3478,6 +3579,11 @@ terms:
       - document
       - file format
     expanded_form: Portable Document Format
+  PEBKAC:
+    categories:
+      - internet slang
+      - humor
+    expanded_form: Problem Exists Between Keyboard And Chair
   Percona:
     categories:
       - company
@@ -3632,6 +3738,11 @@ terms:
   proselint:
     categories:
       - linting
+  PTAL:
+    categories:
+      - internet slang
+      - communication
+    expanded_form: Please Take A Look
   PTE:
     categories:
       - business
@@ -3803,9 +3914,18 @@ terms:
     categories:
       - operating system
     expanded_form: Red Hat Enterprise Linux
+  RIP:
+    categories:
+      - death
+    expanded_form: Rest In Peace
   RocketMQ:
     categories:
       - messaging
+  ROFL:
+    categories:
+      - internet slang
+      - humor
+    expanded_form: Rolling On the Floor Laughing
   ROI:
     categories:
       - business
@@ -4091,11 +4211,22 @@ terms:
     categories:
       - business
     expanded_form: Subject Matter Expert
+  SMH:
+    categories:
+      - internet slang
+      - chat
+    expanded_form: Shaking My Head
   SMTP:
     categories:
       - network
       - email
     expanded_form: Simple Mail Transfer Protocol
+  SNAFU:
+    categories:
+      - military
+      - internet slang
+      - humor
+    expanded_form: Situation Normal, All Fouled Up
   SNMP:
     categories:
       - network
@@ -4393,6 +4524,12 @@ terms:
       - project management
       - communication
     expanded_form: To Be Determined.
+  TBH:
+    categories:
+      - chat
+      - communication
+      - internet slang
+    expanded_form: To Be Honest
   Tcl:
     categories:
       - programming language
@@ -4429,6 +4566,11 @@ terms:
   Tesla:
     categories:
       - automotive
+  TGIF:
+    categories:
+      - internet slang
+      - humor
+    expanded_form: Thank God It's Friday
   Thai:
     categories:
       - language
@@ -4458,6 +4600,10 @@ terms:
     categories:
       - social media
       - video
+  TIL:
+    categories:
+      - internet slang
+    expanded_form: Today I Learned
   TLD:
     categories:
       - domain
@@ -4472,6 +4618,10 @@ terms:
     categories:
       - security
     expanded_form: Transport Layer Security
+  TMI:
+    categories:
+      - internet slang
+    expanded_form: Too Much Information
   ToC:
     categories:
       - documentation
@@ -4532,6 +4682,10 @@ terms:
     categories:
       - terminal
     expanded_form: Teletypewriter
+  TTYL:
+    categories:
+      - internet slang
+    expanded_form: Talk To You Later
   TUI:
     categories:
       - user interface
@@ -5157,6 +5311,15 @@ terms:
     categories:
       - markup language
     expanded_form: YAML Markup Language
+  YMMV:
+    categories:
+      - internet slang
+    expanded_form: Your Mileage May Vary
+  YOLO:
+    categories:
+      - internet slang
+      - humor
+    expanded_form: You Only Live Once
   YouTube:
     categories:
       - video
