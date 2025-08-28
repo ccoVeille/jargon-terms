@@ -109,6 +109,10 @@ terms:
     categories:
       - web development
     expanded_form: Asynchronous JavaScript and XML
+  AKA:
+    categories:
+      - general
+    expanded_form: Also Known As
   Akamai:
     categories:
       - cloud
@@ -333,6 +337,11 @@ terms:
   Asana:
     categories:
       - software
+  ASAP:
+    categories:
+      - business
+      - communication
+    expanded_form: As Soon As Possible
   ASCII:
     categories:
       - encoding
@@ -394,6 +403,11 @@ terms:
   AutoML:
     categories:
       - machine learning
+  AWOL:
+    categories:
+      - government
+      - military
+    expanded_form: Absent Without Leave
   AWS:
     categories:
       - cloud
@@ -547,6 +561,11 @@ terms:
     categories:
       - operating system
       - Linux distribution
+  BOGO:
+    categories:
+      - sales
+      - promotions
+    expanded_form: Buy One, Get One
   Bool:
     categories:
       - programming
@@ -639,6 +658,11 @@ terms:
   Btrfs:
     categories:
       - file system
+  BTW:
+    categories:
+      - communication
+      - chat
+    expanded_form: By The Way
   Bugatti:
     categories:
       - automotive
@@ -1141,6 +1165,10 @@ terms:
   Display Port:
     categories:
       - hardware
+  DIY:
+    categories:
+      - general
+    expanded_form: Do It Yourself
   Django:
     categories:
       - web framework
@@ -1163,6 +1191,12 @@ terms:
   DNSCrypt:
     categories:
       - security
+  DOB:
+    categories:
+      - personal
+      - privacy
+      - information
+    expanded_form: Date of Birth
   Docker:
     categories:
       - container
@@ -1459,6 +1493,10 @@ terms:
       - social media
       - GAFAM
       - Meta Platforms, Inc.
+  FAQ:
+    categories:
+      - general
+    expanded_form: Frequently Asked Questions
   FastAPI:
     categories:
       - web framework
@@ -1559,6 +1597,10 @@ terms:
   Flutter:
     categories:
       - framework
+  FOMO:
+    categories:
+      - psychology
+    expanded_form: Fear Of Missing Out
   Font Awesome:
     categories:
       - icon
@@ -1622,6 +1664,10 @@ terms:
     categories:
       - protocol
     expanded_form: File Transfer Protocol
+  FYI:
+    categories:
+      - communication
+    expanded_form: For Your Information
   GAFAM:
     categories:
       - company
@@ -2260,6 +2306,12 @@ terms:
       - organization
       - financial
     expanded_form: International Monetary Fund
+  IMHO:
+    categories:
+      - chat
+      - internet slang
+      - communication
+    expanded_form: In My Humble Opinion
   IndexedDB:
     categories:
       - database
@@ -2643,6 +2695,11 @@ terms:
     categories:
       - directory service
     expanded_form: Lightweight Directory Access Protocol
+  LED:
+    categories:
+      - hardware
+      - electronics
+    expanded_form: Light-Emitting Diode
   Leet:
     categories:
       - programming language
@@ -2661,6 +2718,11 @@ terms:
   Lexus:
     categories:
       - automotive
+  LGBTQ:
+    categories:
+      - community
+      - rights
+    expanded_form: Lesbian, Gay, Bisexual, Transgender, Queer/Questioning
   LGPL:
     categories:
       - license
@@ -2970,6 +3032,11 @@ terms:
     categories:
       - messaging
     expanded_form: Message Queuing Telemetry Transport
+  MRI:
+    categories:
+      - medical
+      - imaging
+    expanded_form: Magnetic Resonance Imaging
   MS Access:
     categories:
       - database
@@ -2996,6 +3063,10 @@ terms:
   MySQL:
     categories:
       - database
+  N/A:
+    categories:
+      - information
+    expanded_form: Not Applicable or Not Available.
   Nagios:
     categories:
       - monitoring
@@ -3445,6 +3516,15 @@ terms:
       - programming language
       - web
     expanded_form: PHP Hypertext Preprocessor
+  PII:
+    categories:
+      - privacy
+    expanded_form: Personally Identifiable Information
+  PIN:
+    categories:
+      - security
+      - privacy
+    expanded_form: Personal Identification Number
   Pinterest:
     categories:
       - social media
@@ -3519,6 +3599,10 @@ terms:
   PostScript:
     categories:
       - markup language
+  POV:
+    categories:
+      - internet slang
+    expanded_form: Point Of View
   PowerPoint:
     categories:
       - presentation software
@@ -4017,6 +4101,15 @@ terms:
       - network
       - monitoring
     expanded_form: Simple Network Management Protocol
+  SO:
+    categories:
+      - communication
+      - personal
+      - privacy
+      - relationship
+    disambiguation:
+      - so (adverb)
+    expanded_form: Significant Other
   SOAP:
     categories:
       - web services
@@ -4677,6 +4770,10 @@ terms:
   Vim:
     categories:
       - text editor
+  VIP:
+    categories:
+      - general
+    expanded_form: Very Important Person
   VirtualBox:
     categories:
       - virtualization
