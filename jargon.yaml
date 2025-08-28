@@ -424,6 +424,16 @@ terms:
   Azure:
     categories:
       - cloud
+  B2B:
+    categories:
+      - business
+      - marketing
+    expanded_form: Business-to-Business
+  B2C:
+    categories:
+      - business
+      - marketing
+    expanded_form: Business-to-Consumer
   BadgerDB:
     categories:
       - database
@@ -1317,6 +1327,11 @@ terms:
   Envato:
     categories:
       - company
+  EOD:
+    categories:
+      - business
+      - time
+    expanded_form: End Of Day
   EOF:
     categories:
       - programming
@@ -1369,6 +1384,12 @@ terms:
       - nationality
       - Estonia
     plural: Estonians
+  ETA:
+    categories:
+      - project management
+      - planning
+      - time
+    expanded_form: Estimated Time of Arrival
   ETag:
     categories:
       - web development
@@ -1593,6 +1614,10 @@ terms:
       - demonym
       - nationality
       - France
+  FTE:
+    categories:
+      - business
+    expanded_form: Full-Time Employee
   FTP:
     categories:
       - protocol
@@ -2039,6 +2064,10 @@ terms:
     categories:
       - operating system
     expanded_form: Hewlett Packard Unix
+  HR:
+    categories:
+      - business
+    expanded_form: Human Resources
   HSL:
     categories:
       - color
@@ -2546,6 +2575,12 @@ terms:
   Kotlin:
     categories:
       - programming language
+  KPI:
+    categories:
+      - business
+      - performance
+      - finance
+    expanded_form: Key Performance Indicator
   Kubernetes:
     categories:
       - container
@@ -2761,6 +2796,10 @@ terms:
   Mazda:
     categories:
       - automotive
+  MBO:
+    categories:
+      - business
+    expanded_form: Management By Objectives
   McLaren:
     categories:
       - automotive
@@ -2854,6 +2893,11 @@ terms:
   Modernizr:
     categories:
       - web development
+  MoM:
+    categories:
+      - business
+      - finance
+    expanded_form: Month Over Month
   Moment.js:
     categories:
       - date
@@ -3159,6 +3203,11 @@ terms:
     categories:
       - programming
     expanded_form: Out Of Memory
+  OOO:
+    categories:
+      - general
+      - communication
+    expanded_form: Out Of Office
   OOP:
     categories:
       - programming
@@ -3412,6 +3461,10 @@ terms:
     categories:
       - encryption
     expanded_form: Public-Key Cryptography Standards
+  P&L:
+    categories:
+      - finance
+    expanded_form: Profit and Loss
   PlayStation:
     categories:
       - gaming
@@ -3495,6 +3548,14 @@ terms:
   proselint:
     categories:
       - linting
+  PTE:
+    categories:
+      - business
+    expanded_form: Part-Time Employee
+  PTO:
+    categories:
+      - business
+    expanded_form: Paid Time Off
   PubSub:
     categories:
       - messaging
@@ -3661,6 +3722,10 @@ terms:
   RocketMQ:
     categories:
       - messaging
+  ROI:
+    categories:
+      - business
+    expanded_form: Return On Investment
   Romania:
     categories:
       - country
@@ -3694,6 +3759,11 @@ terms:
     categories:
       - communication
     expanded_form: Really Simple Syndication
+  RSVP:
+    categories:
+      - communication
+      - French
+    expanded_form: Répondez s'il vous plaît
   RTFM:
     categories:
       - humor
@@ -3933,6 +4003,10 @@ terms:
       - automotive
     disambiguation:
       - smart (the adjective)
+  SME:
+    categories:
+      - business
+    expanded_form: Subject Matter Expert
   SMTP:
     categories:
       - network
@@ -3972,6 +4046,11 @@ terms:
     categories:
       - software
       - monitoring
+  SOP:
+    categories:
+      - business
+      - document
+    expanded_form: Standard Operating Procedure
   SOQL:
     categories:
       - database
@@ -4174,6 +4253,11 @@ terms:
     categories:
       - country
       - Europe
+  SWOT:
+    categories:
+      - business
+      - strategy
+    expanded_form: Strengths, Weaknesses, Opportunities, Threats
   Sybase:
     categories:
       - database
@@ -4201,6 +4285,21 @@ terms:
   Tata:
     categories:
       - automotive
+  TBA:
+    categories:
+      - project management
+      - communication
+    expanded_form: To Be Announced
+  TBC:
+    categories:
+      - project management
+      - communication
+    expanded_form: To Be Confirmed
+  TBD:
+    categories:
+      - project management
+      - communication
+    expanded_form: To Be Determined.
   Tcl:
     categories:
       - programming language
@@ -4271,6 +4370,11 @@ terms:
       - domain
     expanded_form: Top-Level Domain
     plural: TLDs
+  TL;DR:
+    categories:
+      - document
+      - communication
+    expanded_form: Too Long; Didn't Read
   TLS:
     categories:
       - security
@@ -4705,6 +4809,11 @@ terms:
     categories:
       - language
       - Wales
+  WFH:
+    categories:
+      - business
+      - internet slang
+    expanded_form: Work From Home
   WFP:
     categories:
       - international
@@ -4954,6 +5063,10 @@ terms:
   YouTube:
     categories:
       - video
+  YTD:
+    categories:
+      - finance
+    expanded_form: Year To Date
   YubiKey:
     categories:
       - security
