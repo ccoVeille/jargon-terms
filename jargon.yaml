@@ -76,9 +76,10 @@ terms:
     categories:
       - network
     expanded_form: Asymmetric Digital Subscriber Line
-  Adwords:
+  AdWords:
     categories:
       - advertising
+      - Google
   AFAIK:
     categories:
       - internet slang
@@ -330,15 +331,11 @@ terms:
   ArangoDB:
     categories:
       - database
-  Arch:
+  Arch Linux:
     categories:
+      - operating system
       - Linux distribution
-      - Arch Linux
-    disambiguation:
-      - arch (architecture)
-      - arch (Noah)
-    expanded_form: Arch Linux
-  Arch Wiki:
+  ArchWiki:
     categories:
       - documentation
       - Arch Linux
@@ -1017,7 +1014,7 @@ terms:
   CommonMark:
     categories:
       - markup language
-  Common Wealth:
+  Commonwealth:
     categories:
       - region
       - organization
@@ -1211,7 +1208,7 @@ terms:
       - software
       - password manager
       - security
-  DataDog:
+  Datadog:
     categories:
       - monitoring
   DataGrip:
@@ -1300,7 +1297,7 @@ terms:
       - communication
     disambiguation:
       - discord (a disagreement)
-  Display Port:
+  DisplayPort:
     categories:
       - hardware
   DIY:
@@ -2005,7 +2002,7 @@ terms:
     categories:
       - API
       - GitHub
-  GitHub CLI Tool:
+  GitHub CLI:
     categories:
       - CLI
       - GitHub
@@ -2112,7 +2109,7 @@ terms:
     categories:
       - Google
       - advertising
-  Google Alert:
+  Google Alerts:
     categories:
       - alert
       - Google
@@ -2133,7 +2130,7 @@ terms:
     categories:
       - cloud
       - Google
-  Google Doc:
+  Google Docs:
     categories:
       - software
       - productivity
@@ -2148,7 +2145,7 @@ terms:
     categories:
       - internet service
       - Google
-  Google Font:
+  Google Fonts:
     categories:
       - software
       - typography
@@ -2167,23 +2164,23 @@ terms:
     categories:
       - search
       - Google
-  Google Sheet:
+  Google Sheets:
     categories:
       - software
       - productivity
       - collaboration
       - Google
     plural: Google Sheets
-  Google Suite:
+  Google Workspace:
     categories:
       - software
       - productivity
       - collaboration
       - Google
-  Google Tags:
+  Google Tag Manager:
     categories:
       - Google
-      - Google Tag Manager
+      - audience measurement
   GopherCon:
     categories:
       - conference
@@ -3271,7 +3268,7 @@ terms:
   Magento:
     categories:
       - ecommerce
-  MailChimp:
+  Mailchimp:
     categories:
       - email
       - marketing
@@ -3656,9 +3653,7 @@ terms:
     expanded_form: National Institute of Standards and Technology
   Nix:
     categories:
-      - operating system
-      - Linux distribution
-    expanded_form: NixOS
+      - package management
   NixOS:
     categories:
       - operating system
@@ -3895,7 +3890,7 @@ terms:
     categories:
       - network
     expanded_form: Open Virtual Private Network
-  OpenVSX:
+  Open VSX:
     categories:
       - marketplace
   OpenVZ:
@@ -4859,9 +4854,10 @@ terms:
   SQLite3:
     categories:
       - database
-  SQLServer:
+  SQL Server:
     categories:
       - database
+      - Microsoft
   SRE:
     categories:
       - job role
@@ -5762,7 +5758,7 @@ terms:
     categories:
       - standard
     expanded_form: X Desktop Group
-  Xerok:
+  Xerox:
     categories:
       - hardware
       - printing
